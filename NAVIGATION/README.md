@@ -32,7 +32,7 @@ Podemos ver esses detalhes na imagem abaixo:</p>
 
 <p>Portanto, prepare-se, pois estamos prestes a conhecer cada uma das áreas dísponíveis dentro da plataforma GOPag!</p>
 
-<p color="red"><strong>Detalhe: O menu "CRIAR COBRANÇA", iremos abordar mais a frente, primeiramente vamos nos atentar aos demais menus que serão explicados nas próximas páginas.</strong></p>
+**<span style="color: red; background-color: yellow;">Detalhe: O menu "CRIAR COBRANÇA", iremos abordar mais a frente, primeiramente vamos nos atentar aos demais menus que serão explicados nas próximas páginas.</span>**
 
 
 
