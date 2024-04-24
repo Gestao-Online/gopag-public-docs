@@ -17,7 +17,22 @@ Podemos ver esses detalhes na imagem abaixo:</p>
 
 ![tela_inicial_menus](../assets/prints/tela_inicial_menus.png)
 
-<p>Essas figuras são as opções de menu</p>
+<p><strong>Essas figuras são as opções de menu!</strong></p>
+
+<p>Quando passamos a setinha do mouse por cima dessa coluna ela irá se expandir e com isso os nomes de cada icone irá aparecer.</p>
+
+![tela_inicial_menus_ampliado](../assets/prints/tela_inicial_menus_ampliado.png)
+
+<p>Além disso, temos mais um detalhe que é essencial para podermos nos localizar dentro da plataforma. Quando selecionamos um menu, o mesmo ficará destacado em uma cor laranja claro.</p>
+
+![tela_inicial_menus_coluna](../assets/prints/tela_inicial_menus_coluna.png)
+
+<p>Isso foi pensado justamente para poder facilitar nossa navegação dentro da plataforma.<br>
+<strong>Incrível, não é mesmo!</strong></p>
+
+<p>Portanto, prepare-se, pois estamos prestes a conhecer cada uma das áreas dísponíveis dentro da plataforma GOPag!</p>
+
+<p color="red"><strong>Detalhe: O menu "CRIAR COBRANÇA", iremos abordar mais a frente, primeiramente vamos nos atentar aos demais menus que serão explicados nas próximas páginas.</strong></p>
 
 
 
