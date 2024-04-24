@@ -1,4 +1,4 @@
 # Menus
 
-* [:teacher: Apresentação](README.md)
-* [:arrow_up_down: Menu de Navegação](NAVIGATION/README.md)
+* [🧑‍🏫 Apresentação](README.md)
+* [↕️ Menu de Navegação](NAVIGATION/README.md)
