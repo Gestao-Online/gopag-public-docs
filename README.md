@@ -1,4 +1,4 @@
-# 🧑‍🏫Apresetação
+# :teacher:Apresetação
 
 ## O que é a GOPag?
 
