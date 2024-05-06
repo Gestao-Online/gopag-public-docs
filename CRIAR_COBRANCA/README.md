@@ -8,6 +8,10 @@
 
 ![tela_inicial_menu_configuracao_parcelas_taxas](../assets/prints/tela_inicial_menu_configuracao_parcelas_taxas.png)
 
-<p>Neste momento você precisará definir a quantidade de parcelas (Caso seja Cartão de credito), Marcar se as taxas da cobrança será repassadas ao cliente ou não. Caso seja repassada, defina o valor no último campo, assim como nosso exemplo abaixo:
+<p>Neste momento você precisará definir a quantidade de parcelas (Caso seja Cartão de credito), Marcar se as taxas da cobrança será repassadas ao cliente ou não. Caso seja repassada, defina o valor no último campo, assim como o exemplo abaixo:<p>
 
 ![tela_inicial_menu_configuracao_parcelas_taxas_2](../assets/prints/tela_inicial_menu_configuracao_parcelas_taxas_2.gif)
+
+<p>Na parte de informações do cliente você pode preencher no momento de gerar a cobrança, ou deixar para que o cliente preencha no momento que for efetuar o pagamento, tornando assim mais ágil as emissões: </p>
+
+![tela_inicial_menu_informacoes](../assets/prints/tela_inicial_menu_informacoes.gif)
