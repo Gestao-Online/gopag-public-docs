@@ -1,25 +1,41 @@
 # ➕ Criar Cobrança
 
-<p><strong>Configuração da Cobrança</strong></p><br>
+**Configuração da Cobrança**
 
-<p>De início você tem a Configuração da cobrança, onde pode identificar o tipo de cobrança que será gerada, o valor e até definir se ela sera Avulsa ou um modelo a ser utilizado outras vezes.</p>
+De início você tem a Configuração da cobrança, onde pode identificar o tipo de cobrança que será gerada, o valor e até definir se ela sera Avulsa ou um modelo a ser utilizado outras vezes.
 
-![tela_inicial_menu_criar_cobranca](../assets/prints/tela_inicial_menu_criar_cobranca.png)
+![tela_inicial_menu_criar_cobranca](../assets/prints/criar_cobranca.png)
 
-<p><strong>Formas de Pagamento</strong></p><br>
+**Formas de Pagamento**
+<br>
+Após preencher os dados iniciais da cobrança, você precisa escolher as formas de pagamento para o cliente (Caso você não defina, por padrão nós deixaremos disponíveis ao cliente as opções Cartão de Crédito e Pix)
 
-<p>Após preencher os dados iniciais da cobrança, você precisa definir a forma de pagamento para o cliente (Caso você não defina, por padrão nós deixaremos disponíveis ao cliente as opções Cartão de Crédito e Pix):</p>
+![criar_cobranca_formas_pagamento](../assets/prints/criar_cobranca_formas_pagamento.png)
 
-![tela_inicial_menu_conguracao_parcelas_taxas](../assets/prints/tela_inicial_menu_conguracao_parcelas_taxas.png)
+**Cartão de Crédito**
 
-<p><strong>Configuração de Parcelas e Taxas</strong></p><br>
+Neste momento você precisará definir a quantidade de parcelas (Caso seja Cartão de credito), Marcar se as taxas da cobrança será repassadas ao cliente ou não. Caso seja repassada, defina o valor no último campo, assim como o exemplo abaixo:
 
-<p>Neste momento você precisará definir a quantidade de parcelas (Caso seja Cartão de credito), Marcar se as taxas da cobrança será repassadas ao cliente ou não. Caso seja repassada, defina o valor no último campo, assim como o exemplo abaixo:<p>
+![criar_cobranca_formas_pagamento_cartao_credito](../assets/prints/criar_cobranca_formas_pagamento_cartao_credito.gif)
 
-![tela_inicial_menu_configuracao_parcelas_taxas_2](../assets/prints/tela_inicial_menu_configuracao_parcelas_taxas_2.gif)
 
-<p><strong>Informações do Cliente</strong></p><br>
+**Pix**
 
-<p>Na parte de informações do cliente você pode preencher no momento de gerar a cobrança, ou deixar para que o cliente preencha no momento que for efetuar o pagamento, tornando assim mais ágil as emissões: </p>
+Para a opção de pagamento via Pix o parcelamento fica desabilitado, mas será possivel adicionar a Taxa de Transação para o cliente pagar, caso queira: 
+
+![criar_cobranca_formas_pagamento_cartao_credito](../assets/prints/criar_cobranca_formas_pagamento_pix.gif)
+
+**Configuração de Parcelas e Taxas**
+
+
+
+<br>
+<br>
+
+![tela_inicial_menu_configuracao_parcelas_taxas_2](../assets/prints/
+
+**Informações do Cliente**
+
+Na parte de informações do cliente você pode preencher no momento de gerar a cobrança, ou deixar para que o cliente preencha no momento que for efetuar o pagamento, tornando assim mais ágil as emissões:
 
 ![tela_inicial_menu_informacoes](../assets/prints/tela_inicial_menu_informacoes.png)
