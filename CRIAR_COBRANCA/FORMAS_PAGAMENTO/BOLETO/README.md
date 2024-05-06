@@ -1,4 +1,4 @@
-**📄 Boleto**
+# **📄 Boleto**
 
 Na forma de pagamento Boleto Bancário, você só terá disponível a opção de adicionar a Taxa de Transação para o cliente, nao sendo possivel fazer parcelamento.
 
