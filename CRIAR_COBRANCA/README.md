@@ -10,7 +10,7 @@
 
 <p>Após preencher os dados iniciais da cobrança, você precisa definir a forma de pagamento para o cliente (Caso você não defina, por padrão nós deixaremos disponíveis ao cliente as opções Cartão de Crédito e Pix):</p>
 
-![tela_inicial_menu_configuracao_parcelas_taxas](../assets/prints/tela_inicial_menu_configuracao_parcelas_taxas.png)
+![tela_inicial_menu_conguracao_parcelas_taxas](../assets/prints/tela_inicial_menu_conguracao_parcelas_taxas.png)
 
 <p><strong>Configuração de Parcelas e Taxas<strong></p><br>
 
