@@ -33,14 +33,3 @@ Podemos ver esses detalhes na imagem abaixo:</p>
 <p>Portanto, prepare-se, pois estamos prestes a conhecer cada uma das áreas dísponíveis dentro da plataforma GOPag!</p>
 
 **<span style="color: red; background-color: yellow;">Detalhe: O menu "CRIAR COBRANÇA", iremos abordar mais a frente, primeiramente vamos nos atentar aos demais menus que serão explicados nas próximas páginas.</span>**
-
-
-
-
-
-
-# ➕ Criar Cobrança
-
-<p>De início você tem a Configuração da cobrança, onde pode identificar o tipo de cobrança que será gerada, o valor e até definir se ela sera Avulsa ou um modelo a ser utilizado outras vezes.</p>
-
-![tela_inicial_menu_criar_cobranca](../assets/prints/tela_inicial_menu_criar_cobranca.png)
