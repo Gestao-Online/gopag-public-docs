@@ -9,4 +9,6 @@
         * [📄 Boleto](CRIAR_COBRANCA/FORMAS_PAGAMENTO/BOLETO/README.md)
     * [🖋️ Informações do cliente](CRIAR_COBRANCA/INFO_CLIENTE/README.md)
     * [🔗 Gerar Link de Cobrança](CRIAR_COBRANCA/LINK_COBRANCA/README.md)
-* [Tópico](READEME.md)
+* [💰 Cobranças](COBRANCAS/README.md)
+    * [Avulsa](COBRANCAS/AVULSA/README.md)
+    * [Modelo](COBRANCAS/MODELO/README.md)
