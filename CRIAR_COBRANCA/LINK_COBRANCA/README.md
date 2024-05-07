@@ -11,7 +11,7 @@
 
 {% tab title="↗️ Notificar" %} Pode usar essa opção para enviar um aviso ao cliente sobre a dívida, no caso de algum tipo de atraso, ou para lembrá-lo do dia de vencimento. {% endtab %}
 
-{% tab title="🗑️ Excluir cobrança" %} Em caso de erros voce tem disponível esta opção para poder excluir a cobrança, lembrando que essa função só estará disponível enquanto não houver o pagamento por parte do cliente, após o pagamento nao será mais possível excluir.
+{% tab title="🗑️ Excluir cobrança" %} Em caso de erros voce tem disponível esta opção para poder excluir a cobrança, lembrando que essa função só estará disponível enquanto não houver o pagamento por parte do cliente, após o pagamento nao será mais possível excluir.{% endtab %}
 
 {% tab title="➕ Criar cobrança novamente"%} Com esta função você pode ganhar tempo ao reutilizar a mesma cobrança com os mesmo dados caso seja necessário, ou alterar algum item antes de faze-la novamente. {% endtab %}
 
