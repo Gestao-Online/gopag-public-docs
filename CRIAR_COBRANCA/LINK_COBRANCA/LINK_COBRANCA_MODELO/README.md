@@ -1,11 +1,11 @@
-# 🛒 Link de Cobrança
+# Link de Cobrança Modelo
 
 
 <p>Após você clicar para Gerar o Link de Cobrança, teremos esta tela abaixo com todas as informações necessárias para que possamos acompanhar todo o processo do pagamento:</p>
 
-![criar_cobranca_gerar_link](/assets/prints/criar_cobranca_gerar_link.png)
+![criar_cobranca_modelo](/assets/prints/criar_cobranca_modelo.png)
 
-<p>De início temos um menu no canto esquerdo da tela com algumas funções importantes para você utilizar, são elas:<br></p>
+<p>De início temos um menu no canto esquerdo da tela com as mesmas funções da Cobrança Avulsa para você utilizar, são elas:<br></p>
 
 ![criar_cobranca_menu_cabecalho](/assets/prints/criar_cobranca_menu_cabecalho.png)
 
@@ -24,10 +24,9 @@
 
 <br>
 
-<p>No primeiro bloco temos três partes para acompanhamento, sendo elas:<br>
+<p>No primeiro bloco temos duas partes para visualização, sendo elas:<br>
     - Status do Pagamento (Novo, Pago, Pendente ou Falha);<br>
-    - Data da Criação da Cobrança;<br>
-    - Forma de Pagamento (Cartão de Crédito, Pix ou Boleto).<br></p>
+    - Data da Criação da Cobrança;<br></p>
 
 ![criar_cobranca_bloco_1](/assets/prints/criar_cobranca_bloco_1.gif)
 
@@ -35,26 +34,17 @@
 
 ![criar_cobranca_bloco_2](/assets/prints/criar_cobranca_bloco_2.png)
 
-<p>Neste terceiro bloco temos as opções de compartilhamento do link para pagamento, você pode utilizar o compartilhamento via Whatsapp ou E-mail. Mas caso queira, também pode copiar o link da cobrança diretamente e repassar ao cliente</p>
+<p>Neste terceiro bloco temos as opções de compartilhamento do link para pagamento, você pode utilizar o compartilhamento via Whatsapp ou E-mail. Mas caso queira, também pode copiar o link da cobrança diretamente e repassar para o cliente</p>
 
 ![criar_cobranca_bloco_3](/assets/prints/criar_cobranca_bloco_3.png)
 
-<p>Agora no quarto bloco temos os Dados da Cobrança e Dados do Pagador. Saiba que a cada cobrança gerada nós criamos um código único para maior controle do nosso sistema 😊.<br><br>
-Os dados do pagador podem ser preenchidos por você no ato da cobrança, ou caso prefira, deixar o proprio cliente preencher quando ele for efetuar o pagamento:</p>
+<p>Agora no quarto e quinto bloco temos os Dados da Cobrança e Configurações da cobrança. Saiba que a cada cobrança gerada nós criamos um código único para maior controle do nosso sistema 😊.<br><br>
+Caso tenha definido parcelas para o caso do Cartão de Crédito e a Taxa de transação se definiu para o cliente pagar:</p>
 
-![criar_cobranca_bloco_4](/assets/prints/criar_cobranca_bloco_4.png)
-
-<p>No quinto bloco temos:<br>
+![criar_cobranca_bloco_4_e_5](/assets/prints/criar_cobranca_modelo_bloco_4.png)
+<!--  CONTINUAR A PARTIR DAQUI
+<p>No sexto bloco temos:<br>
     - Endereço do cliente (Lembrando que nesta parte o próprio cliente pode fazer o preenchimento quando for efetuar o pagamento 😉);<br>
-    - Configurações da cobrança (Caso tenha definido parcelas para o caso do cartão de crédito e a Taxa de transação se definiu para o cliente pagar).<br></p>
+    -  ().<br></p> -->
 
-![criar_cobranca_bloco_5](/assets/prints/criar_cobranca_bloco_5.png)
-
-<p>Aqui no último bloco temos as configurações que foram aplicadas no boleto, como Taxas, Data de vencimento e Juros aplicados:</p>
-
-
- {% hint style="warning" %}
-**Atenção:**  As opções do Boleto só serão exibidas caso você tenha adicionado ele como uma opção de pagamento, do contrário, ele não ficará disponível.
-{% endhint %}
-
-![criar_cobranca_bloco_6](/assets/prints/criar_cobranca_bloco_6.png)
+![criar_cobranca_bloco_6](/assets/prints/criar_cobranca_modelo_bloco_6.png)
