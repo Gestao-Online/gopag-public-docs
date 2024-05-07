@@ -5,6 +5,24 @@
 
 ![criar_cobranca_gerar_link](/assets/prints/criar_cobranca_gerar_link.png)
 
+<p>De início temos um menu no canto esquerdo da tela com algumas funções importantes para você utilizar, são elas:<br>
+
+{% tabs %}
+
+{% tab title="↗️ Notificar" %} Pode usar essa opção para enviar um aviso ao cliente sobre a dívida, no caso de algum tipo de atraso, ou para lembrá-lo do dia de vencimento. {% endtab %}
+
+{% tab title="🗑️ Excluir cobrança" %} Em caso de erros voce tem disponível esta opção para poder excluir a cobrança, lembrando que essa função só estará disponível enquanto não houver o pagamento por parte do cliente, após o pagamento nao será mais possível excluir.
+
+{% tab title="➕ Criar cobrança novamente"%} Com esta função você pode ganhar tempo ao reutilizar a mesma cobrança com os mesmo dados caso seja necessário, ou alterar algum item antes de faze-la novamente. {% endtab %}
+
+{% tab title="🖋️ Editar cobrança" %} Caso tenho faltado alguma informação, ou chegou a fazer algum lançamento errado, você pode edita-la antes do pagamento, mas lembre-se após o pagamento esta função não estará mais diponível.{% endtab %}
+
+{% endtabs %}
+
+</p>
+
+![criar_cobranca_menu_cabecalho](/assets/prints/criar_cobranca_menu_cabecalho.png)
+
 <p>No primeiro bloco temos três partes para acompanhamento, sendo elas:<br>
     - Status do Pagamento (Novo, Pago, Pendente ou Falha);<br>
     - Data da Criação da Cobrança;<br>
