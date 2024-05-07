@@ -40,7 +40,7 @@
 
 <p>Temos a Paginação logo na parte final do relatório, e você também pode aumentar a quantidade visível de cobranças mostradas para até 1000 itens na página:</p>
 
-![cobrancas_menu_avulsa_paginacao_1](/assets/prints/cobrancas_menu_avulsa_paginacao.png)<br>
+![cobrancas_menu_avulsa_paginacao_1](/assets/prints/cobrancas_menu_avulsa_paginacao.png)
 <p>.</p>
 
 ![cobrancas_menu_avulsa_paginacao_2](/assets/prints/cobrancas_menu_avulsa_paginacao_2.png)
