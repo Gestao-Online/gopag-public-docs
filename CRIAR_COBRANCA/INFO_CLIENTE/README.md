@@ -6,7 +6,7 @@
 
 ![criar_cobranca_informacoes](../assets/prints/criar_cobranca_informacoes.png)
 
-> [!WARNING]
+> [!ATENÇÃO]
 > Detalhe: Esta opção só estará disponível caso você tenha definido como Tipo de Cobrança Avulsa 😉👍.
 
 **<span style="color: red; background-color: yellow;"></span>**
