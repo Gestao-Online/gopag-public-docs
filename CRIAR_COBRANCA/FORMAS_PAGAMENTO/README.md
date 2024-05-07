@@ -1,4 +1,4 @@
-# 💸 Formas de Pagamento
+## 💸 Formas de Pagamento
 
 **Métodos de pagamento**
 
