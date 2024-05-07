@@ -54,7 +54,7 @@ Os dados do pagador podem ser preenchidos por você no ato da cobrança, ou caso
 
 
  {% hint style="warning" %}
-**Atenção**  as opções do Boleto só serão exibidas caso você tenha adicionado ele como uma opção de pagamento, do contrário, ele não ficará disponível.
+**Atenção:**  As opções do Boleto só serão exibidas caso você tenha adicionado ele como uma opção de pagamento, do contrário, ele não ficará disponível.
 {% endhint %}
 
 ![criar_cobranca_bloco_6](/assets/prints/criar_cobranca_bloco_6.png)
