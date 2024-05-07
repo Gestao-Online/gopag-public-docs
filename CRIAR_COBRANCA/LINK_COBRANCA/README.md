@@ -25,3 +25,17 @@ Os dados do pagador podem ser preenchidos por você no ato da cobrança, ou caso
 
 ![criar_cobranca_bloco_4](/assets/prints/criar_cobranca_bloco_4.png)
 
+<p>No quinto bloco temos:<br>
+    - Endereço do cliente (Lembrando que nesta parte o próprio cliente pode fazer o preenchimento quando for efetuar o pagamento 😉);<br>
+    - Configurações da cobrança (Caso tenha definido parcelas para o caso do cartão de crédito e a Taxa de transação se definiu para o cliente pagar).<br></p>
+
+![criar_cobranca_bloco_5](/assets/prints/criar_cobranca_bloco_5.png)
+
+<p>Aqui no último bloco temos as configurações que foram aplicadas no boleto, como Taxas, Data de vencimento e Juros aplicados:</p>
+
+
+ {% hint style="warning" %}
+**Atenção**  As opções do Boleto só serão exibidas caso você tenha adicionado ele como uma opção de pagamento, do contrário, ele não ficará disponível.
+{% endhint %}
+
+![criar_cobranca_bloco_6](/assets/prints/criar_cobranca_bloco_6.png)

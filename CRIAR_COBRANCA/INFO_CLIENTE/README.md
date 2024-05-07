@@ -6,5 +6,6 @@
 
 ![criar_cobranca_informacoes](/assets/prints/criar_cobranca_informacoes.png)
 
-> [!IMPORTANT]
-> Esta opção só estará disponível caso você tenha definido na Configuração de Cobrança a opção Cobrança Avulsa 😉👍.
+{% hint style="warning" %}
+**Detalhe:** Esta opção só estará disponível caso você tenha definido na Configuração de Cobrança a opção Cobrança Avulsa. 😉👍
+{% endhint %}
