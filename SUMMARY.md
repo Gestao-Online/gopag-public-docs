@@ -11,5 +11,5 @@
     * [🔗 Gerar Link de Cobrança](CRIAR_COBRANCA/LINK_COBRANCA/README.md)
         * [📍 Cobrança Modelo](CRIAR_COBRANCA/LINK_COBRANCA/LINK_COBRANCA_MODELO/README.md)
 * [💰 Relatório de Cobranças](COBRANCAS/README.md)
-    * [🔗 Cobranças Avulsas](COBRANCAS/AVULSA/README.md)
-    * [📍 Cobranças Modelos](COBRANCAS/MODELO/README.md)
+    * [🔗 Cobranças Avulsa](COBRANCAS/AVULSA/README.md)
+    * [📍 Cobranças Modelo](COBRANCAS/MODELO/README.md)

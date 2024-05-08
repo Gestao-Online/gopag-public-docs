@@ -25,7 +25,7 @@
 <br>
 
 <p>No primeiro bloco temos duas partes para visualização, sendo elas:<br>
-    - Status do Pagamento (Novo, Pago, Pendente ou Falha);<br>
+    - Status do Pagamento (Novo, Sendo utilizado, Pendente ou Falha);<br>
     - Data da Criação da Cobrança;<br></p>
 
 ![criar_cobranca_bloco_1](/assets/prints/criar_cobranca_bloco_1.gif)
@@ -52,4 +52,4 @@ Ali em Configurações da cobrança, caso tenha definido parcelas para o caso do
 
 <p>Como segunda opção de Tipo, nós temos o Link, esta opção é interessante para você que deseja adicionar o link de Cobrança em alguma postagem ou publicação em site agregando com algum texto já existente, você tem a opção de alterar a cor do texto e a Descrição.</p>
 
-![criar_cobranca_bloco_6](/assets/prints/criar_cobranca_modelo_bloco_6_1.png)
+![criar_cobranca_bloco_6_1](/assets/prints/criar_cobranca_modelo_bloco_6_1.png)
