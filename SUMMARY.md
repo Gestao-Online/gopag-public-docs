@@ -10,6 +10,7 @@
     * [🖋️ Informações do cliente](CRIAR_COBRANCA/INFO_CLIENTE/README.md)
     * [🔗 Gerar Link de Cobrança](CRIAR_COBRANCA/LINK_COBRANCA/README.md)
         * [📍 Cobrança Modelo](CRIAR_COBRANCA/LINK_COBRANCA/LINK_COBRANCA_MODELO/README.md)
-* [💰 Relatório de Cobranças](COBRANCAS/README.md)
+* [💰 Cobranças](COBRANCAS/README.md)
     * [🔗 Cobranças Avulsa](COBRANCAS/AVULSA/README.md)
     * [📍 Cobranças Modelo](COBRANCAS/MODELO/README.md)
+* [Transações]()
