@@ -18,7 +18,7 @@
 
 ![criar_cobranca_formas_pagamento_boleto_4](/assets/prints/criar_cobranca_formas_pagamento_boleto_4.png)
 
-<p>Finalizando então com a Data Limite Para Pagamento, podendo o boleto ser pago no período que vocÊ definir ou o máximo de 90 dias:</p>
+<p>Finalizando então com a Data Limite Para Pagamento, podendo o boleto ser pago no período que você definir ou o máximo de 90 dias:</p>
 
 ![criar_cobranca_formas_pagamento_boleto_5](/assets/prints/criar_cobranca_formas_pagamento_boleto_5.png)
 
