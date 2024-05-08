@@ -13,4 +13,5 @@
 * [💰 Cobranças](COBRANCAS/README.md)
     * [🔗 Cobranças Avulsa](COBRANCAS/AVULSA/README.md)
     * [📍 Cobranças Modelo](COBRANCAS/MODELO/README.md)
-* [Transações]()
+* [🔄️ Transações](TRANSACOES/README.md)
+    * [📝 Detalhes Transaçoes](TRANSACOES/DETALHES_TRANSACOES/README.md)
