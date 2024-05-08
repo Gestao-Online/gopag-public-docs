@@ -39,12 +39,17 @@
 ![criar_cobranca_bloco_3](/assets/prints/criar_cobranca_bloco_3.png)
 
 <p>Agora no quarto e quinto bloco temos os Dados da Cobrança e Configurações da cobrança. Saiba que a cada cobrança gerada nós criamos um código único para maior controle do nosso sistema 😊.<br><br>
-Caso tenha definido parcelas para o caso do Cartão de Crédito e a Taxa de transação se definiu para o cliente pagar:</p>
+Ali em Configurações da cobrança, caso tenha definido parcelas para o caso do Cartão de Crédito serão exibidas as parcelas disponíveis, e a Taxa de transação se você definiu para o cliente pagar:</p>
 
 ![criar_cobranca_bloco_4_e_5](/assets/prints/criar_cobranca_modelo_bloco_4.png)
-<!--  CONTINUAR A PARTIR DAQUI
-<p>No sexto bloco temos:<br>
-    - Endereço do cliente (Lembrando que nesta parte o próprio cliente pode fazer o preenchimento quando for efetuar o pagamento 😉);<br>
-    -  ().<br></p> -->
 
-![criar_cobranca_bloco_6](/assets/prints/criar_cobranca_modelo_bloco_6.png)
+<p>Por último no sexto bloco temos a Incorporação de Link para pagamento, vejamos mais informações abaixo:<br>
+    - Ao lado esquerdo em Personalizar, você pode escolher entre duas opções, sendo elas a opção Botão, que permite você alterar a cor de fundo, cor do texto e a Descrição ou o nome que terá escrito neste botão.<br>
+
+![criar_cobranca_bloco_6](/assets/prints/criar_cobranca_modelo_bloco_6.gif)
+
+
+
+<p>Como segunda opção de Tipo, nós temos o Link, esta opção é interessante para você que deseja adicionar o link de Cobrança em alguma postagem ou publicação em site agregando com algum texto já existente, você tem a opção de alterar a cor do texto e a Descrição.</p>
+
+![criar_cobranca_bloco_6](/assets/prints/criar_cobranca_modelo_bloco_6_1.png)
