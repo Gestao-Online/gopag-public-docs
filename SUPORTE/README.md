@@ -24,4 +24,4 @@
 
 <p>Você pode também nos enviar um e-mail em caso de ajuda ou dúvidas maiores para o contato@gopag.com.br, lembrando de tentar explicar o mais detalhadamenteo possível a situação para te ajudar o mais breve possível, conforme exemplo abaixo:</p>
 
-![suporte_menu_mensagem_email](../assets/prints/suporte_menu_menssagem_email.gif).
+![suporte_menu_mensagem_email](../assets/prints/suporte_menu_menssagem_email.gif)
