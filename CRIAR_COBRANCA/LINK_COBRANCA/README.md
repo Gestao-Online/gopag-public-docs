@@ -39,12 +39,11 @@
 
 ![criar_cobranca_card_1](/assets/prints/criar_cobranca_card_1.gif)
 
-<p>Já com o segundo quadro, temos as Formas de pagamentos disponíveis (Aparecendo somente as selecionadas no momento da geraçāo da cobrança
-) </p>
+<p>Já com o segundo quadro, temos as Formas de pagamentos disponíveis (Aparecendo somente as selecionadas no momento da geraçāo da cobrança). </p>
 
 ![criar_cobranca_card_2](/assets/prints/criar_cobranca_card_2.png)
 
-<p>Neste terceiro quadro temos as opções de compartilhamento do link para pagamento, você pode utilizar o compartilhamento via Whatsapp ou E-mail. Mas caso queira, também pode copiar o link da cobrança diretamente e repassar ao cliente</p>
+<p>Neste terceiro quadro temos as opções de compartilhamento do link para pagamento, você pode utilizar o compartilhamento via Whatsapp ou E-mail. Mas caso queira, também pode copiar o link da cobrança diretamente e repassar ao cliente.</p>
 
 ![criar_cobranca_card_3](/assets/prints/criar_cobranca_card_3.png)
 
@@ -54,8 +53,8 @@ Os dados do pagador podem ser preenchidos por você no ato da cobrança, ou caso
 ![criar_cobranca_card_4](/assets/prints/criar_cobranca_card_4.png)
 
 <p>No quinto quadro temos:<br>
-    - Endereço do cliente (Lembrando que nesta parte o próprio cliente pode fazer o preenchimento quando for efetuar o pagamento 😉);<br>
-    - Configurações da cobrança (Caso tenha definido parcelas para o caso do cartão de crédito e a Taxa de transação se definiu para o cliente pagar).<br></p>
+    - Endereço do cliente (Lembrando que o próprio cliente pode fazer o preenchimento quando for pagar 😉);<br>
+    - Configurações da cobrança (Caso tenha definido parcelas para o caso do Cartão de Crédito e a Taxa de transação se definiu para o cliente pagar).<br></p>
 
 ![criar_cobranca_card_5](/assets/prints/criar_cobranca_card_5.png)
 
@@ -63,7 +62,7 @@ Os dados do pagador podem ser preenchidos por você no ato da cobrança, ou caso
 
 
  {% hint style="warning" %}
-**Atenção:**  As opções do Boleto só serão exibidas caso você tenha adicionado ele como uma opção de pagamento, do contrário, ele não ficará disponível.
+**Atenção:**  As opções do Boleto só serão exibidas caso você tenha adicionado ele como uma opção de pagamento, do contrário, ele ficará indisponível.
 {% endhint %}
 
 ![criar_cobranca_card_6](/assets/prints/criar_cobranca_card_6.png)
