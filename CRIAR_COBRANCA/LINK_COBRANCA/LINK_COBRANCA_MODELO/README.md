@@ -46,13 +46,13 @@ Ali em Configurações da cobrança, caso tenha definido parcelas para o caso do
 
 ![criar_cobranca_card_4_e_5](/assets/prints/criar_cobranca_modelo_card_4.png)
 
-<p>Por último no sexto card temos a Incorporação de Link para pagamento, vejamos mais informações abaixo:<br>
+<p>Por último, no sexto card, temos a Incorporação de Link para pagamento, vejamos mais informações abaixo:<br>
     - Ao lado esquerdo em Personalizar, você pode escolher entre duas opções, sendo elas a opção Botão, que permite você alterar a cor de fundo, cor do texto e a Descrição ou o nome que terá escrito neste botão.<br>
 
 ![criar_cobranca_card_6](/assets/prints/criar_cobranca_modelo_card_6.gif)
 
 
 
-<p>Como segunda opção de Tipo, nós temos o Link, esta opção é interessante para você que deseja adicionar o link de Cobrança em alguma postagem ou publicação em site agregando com algum texto já existente, você tem a opção de alterar a cor do texto e a Descrição.</p>
+<p>Como segunda opção de Tipo, nós temos o Link, ela é interessante para você que deseja adicionar o link de Cobrança em alguma postagem ou publicação em site, agregando com algum texto já existente, você tem a opção de alterar a cor do texto e a Descrição.</p>
 
 ![criar_cobranca_card_6_1](/assets/prints/criar_cobranca_modelo_card_6_1.png)
