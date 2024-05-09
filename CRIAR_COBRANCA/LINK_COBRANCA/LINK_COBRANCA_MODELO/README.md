@@ -11,17 +11,16 @@
 
 {% tabs %}
 
-{% tab title="↗️ Notificar" %} Quando você usar esta função, será enviada uma notificação ao cliente do status atual da cobrança.<br>
-**São estas mesagens:** <br>
-Nova Cobrança: Olá "........", Esperamos que esteja bem. Estamos entrando em contato para informá-lo(a) de que foi gerada uma nova cobrança por GESTÃO ONLINE para você e ela está pronta e disponível para pagamento.<br>
-Pagamento Recusado: Prezado(a) "........", Estamos entrando em contato para informá-lo(a) que houve um problema ao processar o seu pagamento e a transação não foi concluída.<br>
-Pagamento Aprovado: Prezado(a) "........", Gostaríamos de confirmar que o seu pagamento foi recebido com sucesso. Agradecemos por escolher os produtos/serviços da GESTÃO ONLINE e por sua pontualidade no pagamento.{% endtab %}
+{% tab title="↗️ Notificar" %} Quando você usar esta função, será enviada uma notificação ao cliente do status atual da cobrança.São estas mensagens: <br><br>
+- Nova Cobrança: Olá "........", Esperamos que esteja bem. Estamos entrando em contato para informá-lo(a) de que foi gerada uma nova cobrança por GESTÃO ONLINE para você e ela está pronta e disponível para pagamento.<br><br>
+- Pagamento Recusado: Prezado(a) "........", Estamos entrando em contato para informá-lo(a) que houve um problema ao processar o seu pagamento e a transação não foi concluída.<br><br>
+- Pagamento Aprovado: Prezado(a) "........", Gostaríamos de confirmar que o seu pagamento foi recebido com sucesso. Agradecemos por escolher os produtos/serviços da GESTÃO ONLINE e por sua pontualidade no pagamento.{% endtab %}
 
 {% tab title="🗑️ Excluir cobrança" %} Em caso de erros você tem disponível esta opção para poder excluir a cobrança, lembrando que essa função só estará disponível enquanto não houver o pagamento por parte do cliente, após o pagamento não será mais possível excluir.{% endtab %}
 
-{% tab title="➕ Criar cobrança novamente"%} Com esta função você pode ganhar tempo ao reutilizar a mesma cobrança com os dados do cliente caso seja necessário, ou alterar algum item antes de faze-la novamente. {% endtab %}
+{% tab title="➕ Criar cobrança novamente"%} Com esta função você pode ganhar tempo ao reutilizar a mesma cobrança com os dados do cliente caso seja necessário, ou alterar algum item antes de usar novamente. {% endtab %}
 
-{% tab title="🖋️ Editar cobrança" %} Caso tenho faltado alguma informação, ou chegou a fazer algum lançamento errado, você pode editá-la antes do pagamento, mas lembre-se após o pagamento esta função não estará mais diponível.{% endtab %}
+{% tab title="🖋️ Editar cobrança" %} Caso tenho faltado alguma informação, ou chegou a fazer algum lançamento errado, você pode editar a cobrança antes do pagamento, mas lembre-se após o pagamento esta função não estará mais diponível.{% endtab %}
 
 {% endtabs %}
 
@@ -34,8 +33,7 @@ Pagamento Aprovado: Prezado(a) "........", Gostaríamos de confirmar que o seu p
 
 ![criar_cobranca_card_1](/assets/prints/criar_cobranca_card_1.gif)
 
-<p>Já com o segundo card, temos as Formas de pagamentos disponíveis (Aparecendo somente as selecionadas no momento da geraçāo da cobrança
-) </p>
+<p>Já com o segundo card, temos as Formas de pagamentos disponíveis (Aparecendo somente às selecionadas no momento da geraçāo da cobrança) </p>
 
 ![criar_cobranca_card_2](/assets/prints/criar_cobranca_card_2.png)
 
@@ -44,7 +42,7 @@ Pagamento Aprovado: Prezado(a) "........", Gostaríamos de confirmar que o seu p
 ![criar_cobranca_card_3](/assets/prints/criar_cobranca_card_3.png)
 
 <p>Agora no quarto e quinto card temos os Dados da Cobrança e Configurações da cobrança. Saiba que a cada cobrança gerada nós criamos um código único para maior controle do nosso sistema 😊.<br><br>
-Ali em Configurações da cobrança, caso tenha definido parcelas para o caso do Cartão de Crédito serão exibidas as parcelas disponíveis, e a Taxa de transação se você definiu para o cliente pagar:</p>
+Ali em Configurações da cobrança, caso tenha definido parcelas para o caso do Cartão de Crédito serão exibidas as parcelas disponíveis para o cliente pagar:</p>
 
 ![criar_cobranca_card_4_e_5](/assets/prints/criar_cobranca_modelo_card_4.png)
 

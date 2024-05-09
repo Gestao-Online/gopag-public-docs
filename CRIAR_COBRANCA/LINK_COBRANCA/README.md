@@ -24,9 +24,9 @@
 
 {% tab title="🗑️ Excluir cobrança" %} Em caso de erros você tem disponível esta opção para poder excluir a cobrança, lembrando que essa função só estará disponível enquanto não houver o pagamento por parte do cliente, após o pagamento não será mais possível excluir.{% endtab %}
 
-{% tab title="➕ Criar cobrança novamente"%} Com esta função você pode ganhar tempo ao reutilizar a mesma cobrança com os dados do cliente caso seja necessário, ou alterar algum item antes de faze-la novamente. {% endtab %}
+{% tab title="➕ Criar cobrança novamente"%} Com esta função você pode ganhar tempo ao reutilizar a mesma cobrança com os dados do cliente caso seja necessário, ou alterar algum item antes de usar novamente. {% endtab %}
 
-{% tab title="🖋️ Editar cobrança" %} Caso tenho faltado alguma informação, ou chegou a fazer algum lançamento errado, você pode editá-la antes do pagamento, mas lembre-se após o pagamento esta função não estará mais diponível.{% endtab %}
+{% tab title="🖋️ Editar cobrança" %} Caso tenho faltado alguma informação, ou chegou a fazer algum lançamento errado, você pode editar a cobrança antes do pagamento, mas lembre-se após o pagamento esta função não estará mais diponível.{% endtab %}
 
 {% endtabs %}
 
