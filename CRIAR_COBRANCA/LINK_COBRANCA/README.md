@@ -1,4 +1,4 @@
-# 🛒 Link de Cobrança
+# 🛒 Gerar Link de Cobrança
 
 
 <p>Após você clicar para Gerar o Link de Cobrança, teremos esta tela abaixo com todas as informações necessárias para que possamos acompanhar todo o processo do pagamento:</p>
@@ -11,10 +11,9 @@
 
 {% tabs %}
 
-{% tab title="↗️ Notificar" %} Quando você usar esta função, será enviada uma notificação ao cliente do status atual da cobrança.<br>
-**São estas mesagens:** <br>
-- Nova Cobrança: Olá "........", Esperamos que esteja bem. Estamos entrando em contato para informá-lo(a) de que foi gerada uma nova cobrança por GESTÃO ONLINE para você e ela está pronta e disponível para pagamento.<br>
-- Pagamento Recusado: Prezado(a) "........", Estamos entrando em contato para informá-lo(a) que houve um problema ao processar o seu pagamento e a transação não foi concluída.<br>
+{% tab title="↗️ Notificar" %} Quando você usar esta função, será enviada uma notificação ao cliente do status atual da cobrança.São estas mensagens: <br><br>
+- Nova Cobrança: Olá "........", Esperamos que esteja bem. Estamos entrando em contato para informá-lo(a) de que foi gerada uma nova cobrança por GESTÃO ONLINE para você e ela está pronta e disponível para pagamento.<br><br>
+- Pagamento Recusado: Prezado(a) "........", Estamos entrando em contato para informá-lo(a) que houve um problema ao processar o seu pagamento e a transação não foi concluída.<br><br>
 - Pagamento Aprovado: Prezado(a) "........", Gostaríamos de confirmar que o seu pagamento foi recebido com sucesso. Agradecemos por escolher os produtos/serviços da GESTÃO ONLINE e por sua pontualidade no pagamento.{% endtab %}
 
 <!-- USE EM CASO DE ALTERAÇÃO DAS MENSAGENS DE AVISO AO CLIENTE

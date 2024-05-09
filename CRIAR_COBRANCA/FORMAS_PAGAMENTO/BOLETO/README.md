@@ -25,13 +25,13 @@ Na forma de pagamento Boleto Bancário, temos o prazo de compensação de até 4
 
 <br>
 
-<p>Pode também configurar o Juro Mora ou Moratórios que pode ser em dinheiro ou porcentagem conforme imagem abaixo. Esses Juros consistem em uma taxa aplicada sobre o atraso no pagamento de uma conta, sendo disponível colocar 1% ao mês no máximo, conforme estabelecido pelo Código Tributário Nacional:</p>
+<p>Pode também configurar o Juro Mora ou Moratórios que pode ser em dinheiro ou porcentagem conforme imagem abaixo. Esses Juros consistem em uma taxa aplicada sobre o atraso no pagamento de uma conta, sendo possível colocar 1% ao mês no máximo, conforme estabelecido pelo Código Tributário Nacional:</p>
 
 ![criar_cobranca_formas_pagamento_boleto_4](/assets/prints/criar_cobranca_formas_pagamento_boleto_4.png)
 
 <br>
 
-<p>Finalizando então com a Data Limite Para Pagamento, podendo o boleto ser pago no período que você definir sendo o prazo máximo de 90 dias, após isso o cliente precisará entrar em contato com você para a emissão de um novo Boleto:</p>
+<p>Finalizando então com a Data Limite Para Pagamento, podendo o boleto ser pago no período que você definir, sendo o prazo máximo até 90 dias, após isso o cliente precisará entrar em contato com você para a emissão de um novo Boleto:</p>
 
 ![criar_cobranca_formas_pagamento_boleto_5](/assets/prints/criar_cobranca_formas_pagamento_boleto_5.png)
 
