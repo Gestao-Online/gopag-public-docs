@@ -1,6 +1,6 @@
 # Detalhes Transações
 
-<p>Agora no detalhamento de cada transação temos alguns pontos importantes a tratar, de início a tela que você cerá será parecida com esta:</p>
+<p>Agora no detalhamento de cada transação temos alguns pontos importantes a tratar, de início a tela que você verá será parecida com esta:</p>
 
 ![transacoes_menu_detalhe_transacao](/assets/prints/transacoes_menu_detalhe_transacao.png)
 
