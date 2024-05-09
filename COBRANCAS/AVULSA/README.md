@@ -7,14 +7,14 @@
 <p>Para ficar mais fácil a busca por uma cobrança específica, você pode usar a nossa barra de pesquisa que está marcada na imagem abaixo:</p>
 
 {% hint style="warning" %}
-**Importante:**  A barra de pesquisa faz uma busca pelo texto que foi colocado na Descrição da cobrança, para outro tipo de busca confira mais abaixo as opções disponíveis 😉
+**Importante:**  A barra de pesquisa faz uma busca pelo texto que foi colocado na Descrição da cobrança, para outro tipo de busca confira abaixo as opções disponíveis 😉
 {% endhint %}
 
 ![cobrancas_menu_avulsa_barra_pesquisa](/assets/prints/cobrancas_menu_avulsa_barra_pesquisa.png)
 
 <br>
 
-<p>Em cada item das Cobranças colocamos filtros para facilitar a pesquisa por algo mais específico, por exemplo a opção da Data de criação, escolhendo data de início e término da busca, ou você pode usar ums dos nossos atalhos de período que aparecem assim que se abre o calendário, abaixo uma breve demonstração de uso:</p>
+<p>Em cada item das Cobranças colocamos filtros para facilitar a pesquisa por algo mais específico, por exemplo a opção da Data de criação, escolhendo data de início e término da busca, ou você pode usar um dos nossos atalhos de período que aparecem assim que se abre o calendário, abaixo uma breve demonstração de uso:</p>
 
 ![cobrancas_menu_avulsa_filtro_data_criacao](/assets/prints/cobrancas_menu_avulsa_filtro_data_criacao.gif)
 
