@@ -1,7 +1,5 @@
 # 💸 Formas de Pagamento
 
-**Métodos de pagamento**
-
 <p>Após preencher os dados iniciais da cobrança, você pode limitar as formas de pagamento para o cliente, sendo elas Cartão de Crédito, Pix ou Boleto, e você pode também definir a quantidade de parcelas que ele pode utilizar, caso seja a forma de cartão de crédito, ou definindo somente a opção de Pix, deixando o cliente com uma única forma para pagar.</p>
 
 {% hint style="warning" %}
@@ -11,5 +9,5 @@
 ![criar_cobranca_formas_pagamento](/assets/prints/criar_cobranca_formas_pagamento.png)
 
 {% hint style="danger" %}
-**Importante:**  Para mais informações sobre as taxas, [clique aqui](/TAXAS/README.md) e acesse nossa explicação detalhada sobre elas!
+**Importante:**  Para mais informações sobre as taxas, [clique aqui](https://docs.gopag.com.br/taxas) e acesse nossa explicação detalhada sobre elas!
 {% endhint %}
