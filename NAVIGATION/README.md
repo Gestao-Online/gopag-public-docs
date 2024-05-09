@@ -8,8 +8,8 @@
 
 <p>Porém com suas informações de saldo!</p>
 
-<p>Agora, voltando nossa atenção para o canto superior direito da tela, poderemos visualizar um campo com nosso nome incluso. Clicando sobre este campo, uma janelinha irá aparecer logo abaixo do nosso nome com algumas informações, geralmente o nome da empresa e o cnpj da mesma e a opção de poder sair da conta.<br>
-Podemos ver esses detalhes na imagem abaixo:</p>
+<p>Agora, voltando nossa atenção para o canto superior direito da tela, poderemos visualizar um campo com nosso nome incluso. Clicando sobre este campo, uma janelinha irá aparecer logo abaixo do nosso nome com algumas informações, ou nome da empresa e o cnpj da mesma, ou nome da pessoa e cpf (Essas informações dependem do plano que você fechou conosco) e logo abaixo a opção de poder sair da conta.<br>
+Podemos ver esses detalhes na imagem:</p>
 
 ![tela_inicial_campo_nome](../assets/prints/tela_inicial_campo_nome.png)
 
@@ -23,6 +23,10 @@ Podemos ver esses detalhes na imagem abaixo:</p>
 
 ![tela_inicial_menus_ampliado](../assets/prints/tela_inicial_menus_ampliado.png)
 
+<p>Clicando no ícone de fixar, o menu lateral ficará sempre com o tamanho cheio, você pode ver além dos ícones os nomes de cada um deles.</p>
+
+![tela_inicial_menus_fixado](../assets/prints/tela_inicial_menus_fixado.gif)
+
 <p>Além disso, temos mais um detalhe que é essencial para podermos nos localizar dentro da plataforma. Quando selecionamos um menu, o mesmo ficará destacado em uma cor laranja claro.</p>
 
 ![tela_inicial_menus_coluna](../assets/prints/tela_inicial_menus_coluna.png)
@@ -32,6 +36,6 @@ Podemos ver esses detalhes na imagem abaixo:</p>
 
 <p>Portanto, prepare-se, pois estamos prestes a conhecer cada uma das áreas dísponíveis dentro da plataforma GOPag!</p>
 
-{% hint style="warning" %}
-**Detalhe:**  O menu "CRIAR COBRANÇA", iremos abordar mais a frente, primeiramente vamos nos atentar aos demais menus que serão explicados nas próximas páginas.
-{% endhint %}
+<!-- {% hint style="warning" %}
+**Detalhe:**  O menu "CRIAR COBRANÇA", iremos abordar mais a frente, primeiramente vamos nos atentar aos demais itens do menu que serão explicados nas próximas páginas.
+{% endhint %} -->
