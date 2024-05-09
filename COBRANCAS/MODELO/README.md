@@ -1,7 +1,7 @@
 # Cobranças Modelo
 
 
-<p>Este é o nosso menu de Cobranças Modelo, todos os links gerados ficam registrados neste relatório e você pode acompanhar melhor as movimentações, vamos conhecer agora cada parte dele:</p>
+<p>Este é o nosso menu de Cobranças Modelo, todos os links gerados ficam registrados neste relatório e você pode acompanhar melhor as movimentações, vamos conhecer agora cada parte dele 😁:</p>
 
 ![cobrancas_menu_modelo](/assets/prints/cobrancas_menu_modelo.png)
 
@@ -10,7 +10,7 @@
 <p>Para ficar mais fácil a busca específica por uma cobrança, você pode usar a nossa barra de pesquisa que está marcada na imagem abaixo:</p>
 
 {% hint style="warning" %}
-**Importante:**  A barra de pesquisa faz uma busca pelo texto que foi colocado na Descrição da cobrança Modelo.
+**Importante:**  A barra de pesquisa faz uma busca somente pelo texto que foi colocado na Descrição da cobrança Modelo.
 {% endhint %}
 
 ![cobrancas_menu_modelo_barra_pesquisa](/assets/prints/cobrancas_menu_modelo_barra_pesquisa.png)
