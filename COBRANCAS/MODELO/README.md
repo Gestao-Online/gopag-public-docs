@@ -17,7 +17,7 @@
 
 <br>
 
-<p>Em cada item das Cobranças Modelo colocamos filtros para facilitar a pesquisa por algo mais específico, por exemplo a opção na Data de criação, escolhendo data de início e término da busca, ou você pode usar ums dos nossos atalhos de período que aparecem assim que se abre o calendário, abaixo uma breve demonstração de uso:</p>
+<p>Em cada item das Cobranças Modelo colocamos filtros para facilitar a pesquisa por algo mais específico, por exemplo, a opção na Data de criação, escolhendo data de início e término da busca, ou você pode usar um dos nossos atalhos de período que aparecem assim que se abre o calendário, abaixo uma breve demonstração de uso:</p>
 
 ![cobrancas_menu_modelo_filtro_data_criacao](/assets/prints/cobrancas_menu_modelo_filtro_data_criacao.gif)
 
