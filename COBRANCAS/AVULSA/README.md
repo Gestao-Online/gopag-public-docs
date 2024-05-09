@@ -54,7 +54,7 @@
 ![cobrancas_menu_avulsa_detalhes_cobranca](/assets/prints/cobrancas_menu_avulsa_detalhes_cobranca.png)
 
 
-<p>Colocamos também um atalho para que você possa criar uma nova cobrança enquanto estiver vendo os relatórios clicando aqui nesta opção:</p>
+<p>Colocamos também um atalho para que você possa criar uma nova cobrança enquanto estiver vendo os relatórios, clicando aqui nesta opção:</p>
 
 ![cobrancas_menu_avulsa_criar_cobranca](/assets/prints/cobrancas_menu_avulsa_criar_cobranca.png)
 
