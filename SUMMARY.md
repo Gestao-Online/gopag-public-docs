@@ -18,3 +18,4 @@
 * [🔢 Simular venda](SIMULAR_VENDA/README.md)
 * [🆘 Suporte](SUPORTE/README.md)
 * [⚙️ Configurações](CONFIGURACOES/README.md)
+* [💲 Taxas](/TAXAS/README.md)
