@@ -2,7 +2,8 @@
 
 **Boleto**
 
-<p>Na forma de pagamento Boleto Bancário, você só terá disponível a opção de adicionar a Taxa de Transação para o cliente, nao sendo possivel fazer parcelamento.</p>
+<p>Na forma de pagamento Boleto Bancário, temos o prazo de compensação de até 48h, e lembrando que não tem opção de parcelamento.<br>
+Caso você tenha mais de um boleto a ser emitido, é possivel repetir essa cobrança através do menu [ **Criar Cobrança Novamente** ](https://docs.gopag.com.br/criar_cobranca/link_cobranca) </p>
 
 ![criar_cobranca_formas_pagamento_boleto_1](/assets/prints/criar_cobranca_formas_pagamento_boleto_1.gif)
 
@@ -25,3 +26,9 @@
 <p>Nesta parte em laranja mais claro temos um simulador de valores em caso de atraso, para que você confira o as variações de acordo com os dias de atraso:
 
 ![criar_cobranca_formas_pagamento_boleto_6](/assets/prints/criar_cobranca_formas_pagamento_boleto_6.png)
+
+<br>
+
+{% hint style="danger" %}
+**Importante:**  Para mais informações sobre as taxas, [clique aqui](/TAXAS/README.md) e acesse nossa explicação detalhada sobre elas!
+{% endhint %}
