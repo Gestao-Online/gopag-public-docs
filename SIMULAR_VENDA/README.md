@@ -6,7 +6,7 @@
 
 <br>
 
-<p>Bem fácil de se utilizar, bastando inserir o valor desejado para a simulação de Taxas e parcelas, são quatro funções diponíveis, entre elas, quanto você quer cobrar que seria o valor da cobrança em si, o Tipo de pagamento, se será online ou presencial, a opção de Repassar Taxa ao cliente e qual a bandeira do Cartão a ser utilizado.</p>
+<p>Bem fácil de se utilizar, bastando inserir o valor desejado para a simulação de Taxas e parcelas, são quatro funções diponíveis, entre elas, quanto você quer cobrar que seria o valor da cobrança em si, o Tipo de pagamento, se será online ou presencial e qual a bandeira do Cartão a ser utilizado.</p>
 
 {% hint style="warning" %}
 **Detalhe:**  Cada bandeira de Cartão terá uma porcentagem de taxa diferente a ser cobrada, observe bem estes valores 😉
@@ -16,9 +16,13 @@
 
 <br>
 
-<p>No tipo de pagamento temos duas opções, a Online e Presencial, o cálculo é feito com 12 parcelas e incluso até o Cartão de Débito, lembrando que o Cartão de Débito funciona somente no modo presencial:</p>
+<p>No tipo de pagamento temos duas opções, a Online e Presencial, o cálculo é feito com doze parcelas e incluso até o Cartão de Débito, lembrando que o Cartão de Débito funciona somente no modo presencial:</p>
 
 ![simulador_menu_tipo_pagamento](/assets/prints/simulador_menu_tipo_pagamento.png)
+
+
+
+<!-- ESTA PARTE ESTÁ FORA PORQUE SERÁ CENTRALIZADA NO BLOCO DE TAXAS TUDO QUE FOR REFERENTE.
 
 <br>
 
@@ -26,4 +30,4 @@
 
 ![simulador_menu_](/assets/prints/simulador_menu_repassar_taxa.png)
 
-<br>
+<br> -->
