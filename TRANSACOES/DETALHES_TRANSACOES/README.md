@@ -12,7 +12,7 @@
 
 <br>
 
-<p>No card Quatro pode ver os Dados do vendedor e descrição do Link de cobrança gerado, enquanto no quinto quadro podemos ver os Dados do pagador, sendo eles Nome, quantidade de Parcelas que esse cliente utilizou (Dependendo do tanto que você determinou ao criar o Link de Cobrança), o número do Cartão que foi utilizado e validade do mesmo. Além do código de Autorização e código de NSU que usamos para identificar cada transação de cartão, seja crédito ou Débito. 😉</p>
+<p>No Quatro quadro pode ver os Dados do vendedor e descrição do Link de cobrança gerado, enquanto no quinto quadro podemos ver os Dados do pagador, sendo eles, Nome, quantidade de Parcelas que esse cliente utilizou (Dependendo do tanto que você determinou ao criar o Link de Cobrança), o número do Cartão que foi utilizado e validade do mesmo. Além do código de Autorização e código de NSU que usamos para identificar cada transação de cartão, seja crédito ou Débito. 😉</p>
 
 ![transacoes_menu_detalhe_transacao_cards_4_5](/assets/prints/transacoes_menu_detalhe_transacao_card_4_e_5.png)
 
