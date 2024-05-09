@@ -12,13 +12,13 @@
 {% tabs %}
 
 {% tab title="↗️ Notificar" %} Quando você usar esta função, será enviada uma notificação ao cliente do status atual da cobrança.<br>
-Exemplo: Se a cobrança acaba de ser emitida e você envia a mensagem, para ocliente chegará avisando que tem uma cobrança a ser paga, se estiver próximo do dia de vencimento a mensagem será avisando o dia para pagar, e no último caso se o cliente tiver atrasado o pagamento, a mensagem será informando que a cobrança está em atraso e ele precisa pagá-la. {% endtab %}
+**Exemplo:** Se a cobrança acaba de ser emitida e você envia a mensagem, para ocliente chegará avisando que tem uma cobrança a ser paga, se estiver próximo do dia de vencimento a mensagem será avisando o dia para pagar, e no último caso se o cliente tiver atrasado o pagamento, a mensagem será informando que a cobrança está em atraso e ele precisa pagá-la. {% endtab %}
 
-{% tab title="🗑️ Excluir cobrança" %} Em caso de erros você tem disponível esta opção para poder excluir a cobrança, lembrando que essa função só estará disponível enquanto não houver o pagamento por parte do cliente, após o pagamento nao será mais possível excluir.{% endtab %}
+{% tab title="🗑️ Excluir cobrança" %} Em caso de erros você tem disponível esta opção para poder excluir a cobrança, lembrando que essa função só estará disponível enquanto não houver o pagamento por parte do cliente, após o pagamento não será mais possível excluir.{% endtab %}
 
-{% tab title="➕ Criar cobrança novamente"%} Com esta função você pode ganhar tempo ao reutilizar a mesma cobrança com os mesmo dados caso seja necessário, ou alterar algum item antes de faze-la novamente. {% endtab %}
+{% tab title="➕ Criar cobrança novamente"%} Com esta função você pode ganhar tempo ao reutilizar a mesma cobrança com os dados do cliente caso seja necessário, ou alterar algum item antes de faze-la novamente. {% endtab %}
 
-{% tab title="🖋️ Editar cobrança" %} Caso tenho faltado alguma informação, ou chegou a fazer algum lançamento errado, você pode edita-la antes do pagamento, mas lembre-se após o pagamento esta função não estará mais diponível.{% endtab %}
+{% tab title="🖋️ Editar cobrança" %} Caso tenho faltado alguma informação, ou chegou a fazer algum lançamento errado, você pode editá-la antes do pagamento, mas lembre-se após o pagamento esta função não estará mais diponível.{% endtab %}
 
 {% endtabs %}
 
