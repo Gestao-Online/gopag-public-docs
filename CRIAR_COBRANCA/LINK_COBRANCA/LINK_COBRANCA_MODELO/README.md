@@ -12,7 +12,10 @@
 {% tabs %}
 
 {% tab title="↗️ Notificar" %} Quando você usar esta função, será enviada uma notificação ao cliente do status atual da cobrança.<br>
-**Exemplo:** Se a cobrança acaba de ser emitida e você envia a mensagem, para ocliente chegará avisando que tem uma cobrança a ser paga, se estiver próximo do dia de vencimento a mensagem será avisando o dia para pagar, e no último caso se o cliente tiver atrasado o pagamento, a mensagem será informando que a cobrança está em atraso e ele precisa pagá-la. {% endtab %}
+**São estas mesagens:** <br>
+Nova Cobrança: Olá "........", Esperamos que esteja bem. Estamos entrando em contato para informá-lo(a) de que foi gerada uma nova cobrança por GESTÃO ONLINE para você e ela está pronta e disponível para pagamento.<br>
+Pagamento Recusado: Prezado(a) "........", Estamos entrando em contato para informá-lo(a) que houve um problema ao processar o seu pagamento e a transação não foi concluída.<br>
+Pagamento Aprovado: Prezado(a) "........", Gostaríamos de confirmar que o seu pagamento foi recebido com sucesso. Agradecemos por escolher os produtos/serviços da GESTÃO ONLINE e por sua pontualidade no pagamento.{% endtab %}
 
 {% tab title="🗑️ Excluir cobrança" %} Em caso de erros você tem disponível esta opção para poder excluir a cobrança, lembrando que essa função só estará disponível enquanto não houver o pagamento por parte do cliente, após o pagamento não será mais possível excluir.{% endtab %}
 
