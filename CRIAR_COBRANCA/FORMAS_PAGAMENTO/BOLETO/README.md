@@ -1,7 +1,5 @@
 # 📄 Boleto
 
-**Boleto**
-
 Na forma de pagamento Boleto Bancário, temos o prazo de compensação de até 48h, e lembrando que não tem opção de parcelamento.<br>
 
 {% hint style="warning" %}
