@@ -45,7 +45,7 @@
 
 ![cobrancas_menu_avulsa_paginacao_2](/assets/prints/cobrancas_menu_avulsa_paginacao_2.png)
 
-<p>Em cada cobrança gerada, você pode observar que na opção detalhes, temos dois ícones, o olhinho abrirá o link de cobrança pra você conferir detalhes sobre ela, e o botão da caixinha com a seta faz a mesma função, porém abrirá para você em uma nova janela, te dando assim mais de uma possibilidade para acessar as informações 😉👍</p>
+<p>Em cada cobrança gerada, você pode observar que na opção detalhes, temos dois ícones, o olhinho abrirá o link de cobrança pra você conferir detalhes sobre ela, e o botão da caixinha com a seta tem a mesma função, porém abrirá para você em uma nova janela, te dando assim mais de uma possibilidade para acessar as informações 😉👍</p>
 
 {% hint style="warning" %}
 **Detalhe:** Caso queira mais informações sobre Detalhes de Cobrança [clique aqui ](https://docs.gopag.com.br/criar_cobranca/link_cobranca) para acessar a explicação sobre cada parte desta função.
