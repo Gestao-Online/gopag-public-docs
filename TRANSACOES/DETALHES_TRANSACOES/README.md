@@ -18,7 +18,7 @@
 
 <br>
 
-<p>Logo no sexto quadro você pode visualizar os Detalhes da transação, tais como valores, a Taxa de venda que foi aplicada, e o valor líquido que vai como saldo para você, assim como o ID da transação de de referencia que podem ajudar nossos Suportes em algum caso de solução de problema.</p>
+<p>Logo no sexto quadro você pode visualizar os Detalhes da transação, tais como valores, a Taxa de venda que foi aplicada, e o valor líquido que vai como saldo para você, assim como o ID da transação de referência, que podem ajudar nossos Suportes em algum caso de solução de problema.</p>
 
 ![transacoes_menu_detalhe_transacao_card_6](/assets/prints/transacoes_menu_detalhe_transacao_card_6.png)
 
@@ -30,7 +30,7 @@
 
 <br>
 
-<p>Em caso de uso do boleto temos algumas diferenças nas Informações de pagamento, no caso abaixo temos a linha digitável do boleto, a Descrição com o dia/horário que foi efetuado o pagamento:</p>
+<p>Em caso de uso do boleto, temos algumas diferenças nas Informações de pagamento, no caso abaixo temos a linha digitável do boleto, a Descrição com o dia/horário que foi efetuado o pagamento:</p>
 
 ![transacoes_menu_detalhe_transacao_boleto](/assets/prints/transacoes_menu_detalhe_transacao_boleto.png)
 
