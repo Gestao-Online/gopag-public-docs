@@ -58,7 +58,7 @@
 
 <br>
 
-<p>Em cada Cobrança Modelo gerada, você pode observar que na opção Detalhes, temos dois ícones, o olhinho abrirá o link de cobrança pra você conferir detalhes sobre ela, e o botão da caixinha com a seta faz a mesma função, porém abrirá em uma nova janela, te dando assim mais de uma possibilidade para acessar as informações 😉👍</p>
+<p>Em cada Cobrança Modelo gerada, você pode observar que na opção Detalhes, temos dois ícones, o olhinho abrirá o link de cobrança pra você conferir detalhes sobre ela, e o botão da caixinha com a seta tem a mesma função, porém abrirá em uma nova janela, te dando assim mais de uma possibilidade para acessar as informações 😉👍</p>
 
 {% hint style="warning" %}
 **Detalhe:** Caso queira mais informações sobre Detalhes de Cobrança Modelo [clique aqui ](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_modelo) para acessar a explicação sobre cada parte desta função.
