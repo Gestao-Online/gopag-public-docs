@@ -31,7 +31,7 @@
 
 <!--- Neste parte abaixo eu tirei duvida com o Filipe, e ele me informou que farão alteração no menu dropdown alterando o nome PAGO para SENDO UTILIZADO, para não confundir os clientes --->
 
-<p>Temos o Filtro de Status com todas as opções disponíveis, lembrando que os Filtros também podem ser utilizados em conjunto para uma busca específica:<br>
+Temos o Filtro de Status com todas as opções disponíveis, lembrando que os Filtros também podem ser utilizados em conjunto para uma busca específica:<br>
  - Sendo utilizado<br>
  - Cancelado<br>
  - Pendente<br>
@@ -43,7 +43,7 @@
  - Disputa<br>
  - Charged Back<br>
 
- Confira no exemplo abaixo:</p>
+ Confira no exemplo abaixo:
 
 ![cobrancas_menu_modelo_filtro_status](/assets/prints/cobrancas_menu_modelo_filtro_status.png)
 
