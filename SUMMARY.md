@@ -19,7 +19,7 @@
 * [🆘 Suporte](SUPORTE/README.md)
 * [⚙️ Configurações](CONFIGURACOES/README.md)
 * [💲 Taxas](TAXAS/README.md)
-* [📲 Maquinhinhas](MAQUININHAS/README.md)
+* [📲 Maquinhinha GOPag](MAQUININHAS/README.md)
     * [👩‍🏫 Conheça sua maquininha](MAQUININHAS/1_CONHECA_MAQ/README.md)
     * [✅ Como ligar sua maquininha](MAQUININHAS/2_COMO_LIGAR_MAQ/README.md)
     * [🧾 Trocar bobina da maquininha](MAQUININHAS/3_TROCAR_BOBINA/README.md)
