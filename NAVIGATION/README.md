@@ -8,7 +8,7 @@
 
 <p>Porém com suas informações de saldo!</p>
 
-<p>Agora, voltando nossa atenção para o canto superior direito da tela, poderemos visualizar um campo com nosso nome incluso. Clicando sobre este campo, uma janelinha irá aparecer logo abaixo do nosso nome com algumas informações, ou nome da empresa e o cnpj da mesma, ou nome da pessoa e cpf (Essas informações dependem do plano que você fechou conosco) e logo abaixo a opção de poder sair da conta.<br>
+<p>Agora, voltando nossa atenção para o canto superior direito da tela, poderemos visualizar um campo com nosso nome incluso. Clicando sobre este campo, uma janelinha irá aparecer logo abaixo do nosso nome com algumas informações, ou nome da empresa e o CNPJ da mesma, ou nome da pessoa e CPF (Essas informações dependem do plano que você fechou conosco) e logo abaixo a opção de poder sair da conta.<br>
 Podemos ver esses detalhes na imagem:</p>
 
 ![tela_inicial_campo_nome](../assets/prints/tela_inicial_campo_nome.png)
