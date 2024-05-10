@@ -32,15 +32,15 @@
 <!--- Neste parte abaixo eu tirei duvida com o Filipe, e ele me informou que farão alteração no menu dropdown alterando o nome PAGO para SENDO UTILIZADO, para não confundir os clientes --->
 
 Temos o Filtro de Status com todas as opções disponíveis, lembrando que os Filtros também podem ser utilizados em conjunto para uma busca específica:<br>
- - Sendo utilizado<br>
- - Cancelado<br>
- - Pendente<br>
- - Falha<br>
- - Novo<br>
- - Pré Autorizado<br>
- - Revertido<br>
- - Reembolsado<br>
- - Disputa<br>
+ - Sendo utilizado
+ - Cancelado
+ - Pendente
+ - Falha
+ - Novo
+ - Pré Autorizado
+ - Revertido
+ - Reembolsado
+ - Disputa
  - Charged Back<br>
 
  Confira no exemplo abaixo:
@@ -58,7 +58,11 @@ Temos o Filtro de Status com todas as opções disponíveis, lembrando que os Fi
 
 <br>
 
-<p>Em cada Cobrança Modelo gerada, você pode observar que na opção Detalhes, temos dois ícones, o olhinho abrirá o link de cobrança pra você conferir detalhes sobre ela, e o botão da caixinha com a seta tem a mesma função, porém abrirá em uma nova janela, te dando assim mais de uma possibilidade para acessar as informações 😉👍</p>
+Em cada Cobrança Modelo gerada, você pode observar que na opção Detalhes, temos dois ícones:
+
+- <img src="/assets/prints/icon_olho_detalhes_transacao.png" alt="" data-size="line"> abrirá o link de cobrança pra você conferir detalhes sobre ela.
+- <img src="/assets/prints/icon_quadrado_detalhes_transacao.png" alt="" data-size="line"> tem a mesma função, porém abrirá para você em uma nova janela.<br>
+Passando assim, mais de uma possibilidade para acessar as informações 😉👍
 
 {% hint style="warning" %}
 **Detalhe:** Caso queira mais informações sobre Detalhes de Cobrança Modelo [clique aqui ](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_modelo) para acessar a explicação sobre cada parte desta função.

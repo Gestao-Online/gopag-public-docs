@@ -23,15 +23,15 @@
 ![cobrancas_menu_avulsa_filtro_descricao](/assets/prints/cobrancas_menu_avulsa_filtro_descricao.png)
 
 Temos o Filtro de Status com todas as opções disponíveis, lembrando que os Filtros podem ser utilizados em conjunto para uma busca específica:<br>
- - Pago<br>
- - Cancelado<br>
- - Pendente<br>
- - Falha<br>
- - Novo<br>
- - Pré Autorizado<br>
- - Revertido<br>
- - Reembolsado<br>
- - Disputa<br>
+ - Pago
+ - Cancelado
+ - Pendente
+ - Falha
+ - Novo
+ - Pré Autorizado
+ - Revertido
+ - Reembolsado
+ - Disputa
  - Charged Back<br>
 
  Confira no exemplo abaixo:
@@ -45,7 +45,7 @@ Temos o Filtro de Status com todas as opções disponíveis, lembrando que os Fi
 
 ![cobrancas_menu_avulsa_paginacao_2](/assets/prints/cobrancas_menu_avulsa_paginacao_2.png)
 
-Em cada cobrança gerada, você pode observar que na opção detalhes, temos dois ícones:
+Em cada cobrança gerada, você pode observar que na opção Detalhes, temos dois ícones:
 - <img src="/assets/prints/icon_olho_detalhes_transacao.png" alt="" data-size="line"> abrirá o link de cobrança pra você conferir detalhes sobre ela.
 - <img src="/assets/prints/icon_quadrado_detalhes_transacao.png" alt="" data-size="line"> tem a mesma função, porém abrirá para você em uma nova janela.<br>
 Passando assim, mais de uma possibilidade para acessar as informações 😉👍
