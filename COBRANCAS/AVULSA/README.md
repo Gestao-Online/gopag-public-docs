@@ -47,7 +47,7 @@ Temos o Filtro de Status com todas as opções disponíveis, lembrando que os Fi
 
 Em cada cobrança gerada, você pode observar que na opção detalhes, temos dois ícones:
 - <img src="/assets/prints/icon_olho_detalhes_transacao.png" alt="" data-size="line"> abrirá o link de cobrança pra você conferir detalhes sobre ela.
-- <img src="/assets/prints/icon_quadrado_detalhes_transacao.png" alt="" data-size="line"> tem a mesma função, porém abrirá para você em uma nova janela.
+- <img src="/assets/prints/icon_quadrado_detalhes_transacao.png" alt="" data-size="line"> tem a mesma função, porém abrirá para você em uma nova janela.<br>
 Passando assim, mais de uma possibilidade para acessar as informações 😉👍
 
 {% hint style="warning" %}
