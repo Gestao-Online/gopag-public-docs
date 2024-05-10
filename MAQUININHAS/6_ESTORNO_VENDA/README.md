@@ -14,7 +14,7 @@
 
 <br>
 
-**Passo 4 -** Aproxime ou insira o cartão que deseja estrnar a venda.
+**Passo 4 -** Aproxime ou insira o cartão que deseja estornar a venda.
 
 <br>
 

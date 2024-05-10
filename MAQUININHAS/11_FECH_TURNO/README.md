@@ -10,7 +10,7 @@
 
 <br>
 
-**Passo 3 -** Confira a data e Hrário do Início do turno.
+**Passo 3 -** Confira a data e Horário do Início do turno.
 
 <br>
 
