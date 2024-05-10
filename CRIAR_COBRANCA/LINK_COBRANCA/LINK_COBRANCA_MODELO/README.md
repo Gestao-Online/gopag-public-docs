@@ -31,7 +31,13 @@
     - Status do Pagamento (Novo, Sendo utilizado, Pendente ou Falha);<br>
     - Data da Criação da Cobrança;<br></p>
 
-![criar_cobranca_card_1](/assets/prints/criar_cobranca_card_1.gif)
+<!-- ![criar_cobranca_card_1](/assets/prints/criar_cobranca_card_1.gif) -->
+
+![status_pgto_modelo_novo](/assets/prints/status_pgto_modelo_novo.png)
+![status_pgto_modelo_sendo_utilizado](/assets/prints/status_pgto_modelo_sendo_utilizado.png)
+![status_pgto_modelo_pendente](/assets/prints/status_pgto_modelo_pendente.png)
+![status_pgto_modelo_falha](/assets/prints/status_pgto_modelo_falha.png)
+
 
 <p>Já com o segundo card, temos as Formas de pagamentos disponíveis (Aparecendo somente às selecionadas no momento da geraçāo da cobrança) </p>
 
