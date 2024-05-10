@@ -19,4 +19,3 @@
 * [🆘 Suporte](SUPORTE/README.md)
 * [⚙️ Configurações](CONFIGURACOES/README.md)
 * [💲 Taxas](TAXAS/README.md)
-* [Tópico]
