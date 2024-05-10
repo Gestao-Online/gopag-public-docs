@@ -1,5 +1,7 @@
 # Estornando uma venda
 
+<br>
+
 **Passo 1 -** Clique na tela em "<mark style="color:orange;background-color:white;">2.FUNÇÕES</mark>" ou tecle 2.
 
 <br>

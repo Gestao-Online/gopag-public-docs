@@ -1,5 +1,7 @@
 # Economizando Bateria
 
+<br>
+
 **Passo 1 -** Clique na tela em "<mark style="color:orange;background-color:white;">1. MENU</mark>" ou tecle o número 1 na página inicial.
 
 <br>

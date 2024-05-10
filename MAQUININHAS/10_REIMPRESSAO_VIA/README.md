@@ -1,5 +1,7 @@
 # Reimpressão da via
 
+<br>
+
 **Passo 1 -** Acesse o menu clicando em "<mark style="color:orange;background-color:white;">1. MENU</mark>" ou tecle o número 1 na página inicial.
 
 <br>
