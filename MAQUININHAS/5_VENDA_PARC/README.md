@@ -3,7 +3,7 @@
 ![maquininha_parcelar_venda_1](/assets/prints/maquininha_parcelar_venda_1.png)
 
 
-**Passo 1 -** Inicie uma Venda. Digite o valor da venda utilizando o teclado numérico, após digitar o valor, clique em <mark style="color:orange;background-color:white;">"Confirmar".
+**Passo 1 -** Inicie uma Venda. Digite o valor da venda utilizando o teclado numérico, após digitar o valor, clique em <mark style="color:orange;background-color:white;">"Confirmar"</mark>.
 
 <br>
 
@@ -17,7 +17,7 @@
 ![maquininha_parcelar_venda_3](/assets/prints/maquininha_parcelar_venda_3.png)
 
 
-**Passo 3 -** Digite o número de parcelas utilizando o teclado numérico, após digitar o número de parcelas clique em <mark style="color:orange;background-color:white;">"Confirmar".
+**Passo 3 -** Digite o número de parcelas utilizando o teclado numérico, após digitar o número de parcelas clique em <mark style="color:orange;background-color:white;">"Confirmar"</mark>.
 
 <br>
 
