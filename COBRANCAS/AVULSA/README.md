@@ -45,7 +45,7 @@
 
 ![cobrancas_menu_avulsa_paginacao_2](/assets/prints/cobrancas_menu_avulsa_paginacao_2.png)
 
-Em cada cobrança gerada, você pode observar que na opção detalhes, temos dois ícones, o olhinho <svg data-v-49fcd1ab="" xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2 img-eye"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z" key="rwhkz3"></path><circle cx="12" cy="12" r="3" key="1v7zrd"></circle></svg> <img src="/assets/prints/icon_olho_detalhes_transacao.png" alt="" data-size="line"> abrirá o link de cobrança pra você conferir detalhes sobre ela, e o botão da caixinha com a seta tem a mesma função, porém abrirá para você em uma nova janela, te dando assim mais de uma possibilidade para acessar as informações 😉👍
+Em cada cobrança gerada, você pode observar que na opção detalhes, temos dois ícones, o olhinho <img src="/assets/prints/icon_olho_detalhes_transacao.png" alt="" data-size="line"> abrirá o link de cobrança pra você conferir detalhes sobre ela, e o botão da caixinha com a seta <img src="/assets/prints/icon_olho_detalhes_transacao.png" alt="" data-size="line"> tem a mesma função, porém abrirá para você em uma nova janela, te dando assim mais de uma possibilidade para acessar as informações 😉👍
 
 {% hint style="warning" %}
 **Detalhe:** Caso queira mais informações sobre Detalhes de Cobrança [clique aqui ](https://docs.gopag.com.br/criar_cobranca/link_cobranca) para acessar a explicação sobre cada parte desta função.
