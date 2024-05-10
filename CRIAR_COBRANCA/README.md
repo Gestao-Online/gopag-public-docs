@@ -24,5 +24,3 @@ Não há compromisso de pagamento recorrente ou periódico associado a esse tipo
 <p>A cobrança recorrente é comum em serviços de assinatura, como Netflix ou Spotify, e pode ocorrer com a frequência que você desejar, ou seja, o cliente paga o valor nesse perído que você definiu e então ele pode usufruir do produto.</p>
 
 ![tela_inicial_menu_criar_cobranca](../assets/prints/criar_cobranca.gif)
-
-
