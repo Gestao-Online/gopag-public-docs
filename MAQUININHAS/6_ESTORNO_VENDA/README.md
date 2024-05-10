@@ -1,6 +1,6 @@
 # Estornando uma venda
 
-**Passo 1 -** Clique na tela em <mark style="color:orange;background-color:white;">"2.FUNÇÕES"</mark> ou tecle 2.
+**Passo 1 -** Clique na tela em "<mark style="color:orange;background-color:white;">2.FUNÇÕES</mark>" ou tecle 2.
 
 <br>
 
@@ -8,7 +8,7 @@
 
 <br>
 
-**Passo 3 -** Selecione a primeira opção <mark style="color:orange;background-color:white;">"1- Cancelar Venda"</mark> ou tecle 1.
+**Passo 3 -** Selecione a primeira opção "<mark style="color:orange;background-color:white;">1- Cancelar Venda</mark>" ou tecle 1.
 
 <br>
 
@@ -16,4 +16,4 @@
 
 <br>
 
-**Passo 5 -** Selecione a venda que deseja estornar o pagamento e clique em <mark style="color:orange;background-color:white;">"Confirmar"</mark>.
+**Passo 5 -** Selecione a venda que deseja estornar o pagamento e clique em "<mark style="color:orange;background-color:white;">Confirmar</mark>".
