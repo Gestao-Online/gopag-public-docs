@@ -32,7 +32,11 @@
     - Data da Criação da Cobrança;<br>
     - Forma de Pagamento (Cartão de Crédito, Pix ou Boleto).<br></p>
 
-![criar_cobranca_card_1](/assets/prints/criar_cobranca_card_1.gif)
+![status_pgto_novo](/assets/prints/status_pgto_novo.png)
+![status_pgto_pago](/assets/prints/status_pgto_pago.png)
+![status_pgto_pendente](/assets/prints/status_pgto_pendente.png)
+![status_pgto_falha](/assets/prints/status_pgto_falha.png)
+<!-- ![criar_cobranca_card_1](/assets/prints/criar_cobranca_card_1.gif) -->
 
 <p>Já com o segundo quadro, temos as Formas de pagamentos disponíveis (Aparecendo somente as selecionadas no momento da geraçāo da cobrança). </p>
 
