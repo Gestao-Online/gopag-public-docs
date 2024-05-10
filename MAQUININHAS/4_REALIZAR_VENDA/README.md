@@ -3,14 +3,14 @@
 ![maquininha_realizar_venda_1](/assets/prints/maquininha_realizar_venda_1.png)
 
 
-**Passo 1 -** Para iniciar uma venda, na tela inicial, clique no botão "Confirmar".
+**Passo 1 -** Para iniciar uma venda, na tela inicial, clique no botão <mark style="color:orange;background-color:white;">"Confirmar".
 
 <br>
 
 ![maquininha_realizar_venda_2](/assets/prints/maquininha_realizar_venda_2.png)
 
 
-**Passo 2 -** Digite o valor da venda utilizando o teclado numérico, após isso, clique em "Confirmar".
+**Passo 2 -** Digite o valor da venda utilizando o teclado numérico, após isso, clique em <mark style="color:orange;background-color:white;">"Confirmar".
 
 ![maquininha_realizar_venda_3](/assets/prints/maquininha_realizar_venda_3.png)
 
