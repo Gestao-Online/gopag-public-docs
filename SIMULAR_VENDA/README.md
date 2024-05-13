@@ -1,12 +1,12 @@
 # Simulador de venda
 
-<p>Adicionamos ao nosso sistema a função de Simular vendas para que você possa fazer alguns testes antes de gerar a Cobrança, ou então repassar as informações de Taxas e acréscimos em valores e condições diferentes pra seu cliente antes de gerar o Link da cobrança:</p>
+<p>Adicionamos ao nosso sistema a função de Simular vendas para que você possa fazer alguns testes antes de gerar a Cobrança, ou então repassar as informações de Taxas e acréscimos em valores e condições diferentes para seu cliente antes de gerar o Link da cobrança:</p>
 
 ![simulador_menu](/assets/prints/simulador_menu.png)
 
 <br>
 
-<p>Bem fácil de se utilizar, bastando inserir o valor desejado para a simulação de Taxas e parcelas, são quatro funções diponíveis, entre elas, o valor você quer cobrar, que seria o valor da cobrança em si, o Tipo de pagamento, se será online ou presencial e qual a bandeira do Cartão a ser utilizado.</p>
+<p>Bem fácil de se utilizar, bastando inserir o valor desejado para a simulação de Taxas e parcelas, são quatro funções disponíveis, entre elas, o valor você quer cobrar, que seria o valor da cobrança em si, o Tipo de pagamento, se será online ou presencial e qual a bandeira do Cartão a ser utilizado.</p>
 
 {% hint style="warning" %}
 **Detalhe:**  Cada bandeira de Cartão terá uma porcentagem de taxa diferente a ser cobrada, observe bem estes valores 😉

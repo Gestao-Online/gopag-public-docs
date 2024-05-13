@@ -20,7 +20,7 @@
 
 {% tab title="➕ Criar cobrança novamente"%} Com esta função você pode ganhar tempo ao reutilizar a mesma cobrança com os dados do cliente caso seja necessário, ou alterar algum item antes de usar novamente. {% endtab %}
 
-{% tab title="🖋️ Editar cobrança" %} Caso tenho faltado alguma informação, ou chegou a fazer algum lançamento errado, você pode editar a cobrança antes do pagamento, mas lembre-se após o pagamento esta função não estará mais diponível.{% endtab %}
+{% tab title="🖋️ Editar cobrança" %} Caso tenha faltado alguma informação, ou chegou a fazer algum lançamento errado, você pode editar a cobrança antes do pagamento, mas lembre-se, após o pagamento esta função não estará mais disponível.{% endtab %}
 
 {% endtabs %}
 

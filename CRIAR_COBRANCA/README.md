@@ -1,16 +1,14 @@
-# ➕ Criar Cobrança
+De início você tem a Configuração da cobrança, onde pode identificar o tipo de cobrança que será gerada, o valor e escolher um dos tipos disponíveis, sendo eles:
 
-<p>De início você tem a Configuração da cobrança, onde pode identificar o tipo de cobrança que será gerada, o valor e escolher um dos tipos disponíveis, sendo eles:</p>
+## [- **Avulsa**](https://docs.gopag.com.br/criar_cobranca/link_cobranca)
 
-# [- **Avulsa**](https://docs.gopag.com.br/criar_cobranca/link_cobranca)
-
-<p>Quando falamos de cobrança do tipo Avulsa nos referimos a um pagamento único ou pontual que é feito por um produto ou serviço específico, sem a necessidade de um compromisso contínuo. Como exemplo a compra de um item em uma loja online e pagar por ele uma única vez.</p>
+Quando falamos de cobrança do tipo Avulsa nos referimos a um pagamento único ou pontual que é feito por um produto ou serviço específico, sem a necessidade de um compromisso contínuo. Como exemplo a compra de um item em uma loja online e pagar por ele uma única vez.
 
 
-# [- **Modelo**](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_modelo)
+## [- **Modelo**](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_modelo)
 
 
-<p>A cobrança modelo ao ser gerada, cria um link único que pode ser utilizado diversas vezes para pagamento de um valor fixo, e para cada transação nesse único link você terá um relatório completo de quem efetuou o pagamento, tudo isso e muito mais na nossa  plataforma da GOPag.</p>
+A cobrança modelo ao ser gerada, cria um link único que pode ser utilizado diversas vezes para pagamento de um valor fixo, e para cada transação nesse único link você terá um relatório completo de quem efetuou o pagamento, tudo isso e muito mais na nossa  plataforma da GOPag.
 
 
 <!-- # [- **Recorrente**](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_recorrente)

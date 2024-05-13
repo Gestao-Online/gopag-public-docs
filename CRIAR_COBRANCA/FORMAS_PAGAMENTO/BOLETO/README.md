@@ -4,7 +4,7 @@ Na forma de pagamento Boleto Bancário, o prazo de compensação é de até 48h 
 
 
 {% hint style="warning" %}
-**Detalhe:**  Caso você tenha mais de um boleto a ser emitido, é possivel repetir essa cobrança reaproveitando os dados que o cliente preencheu, através do menu [Criar Cobrança Novamente](https://docs.gopag.com.br/criar_cobranca/link_cobranca)
+**Detalhe:**  Caso você tenha mais de um boleto a ser emitido, é possível repetir essa cobrança reaproveitando os dados que o cliente já preencheu, através do menu [Criar Cobrança Novamente](https://docs.gopag.com.br/criar_cobranca/link_cobranca)
 {% endhint %}
 
 

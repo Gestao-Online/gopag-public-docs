@@ -1,6 +1,6 @@
 # Link de Cobrança Avulsa
 
-<p>De início você verá um menu no canto direito da tela, com algumas funções importantes para você utilizar, são elas:<br></p>
+De início você verá um menu no canto direito da tela, com algumas funções importantes para você utilizar, são elas:<br>
 
 ![criar_cobranca_menu_cabecalho](/assets/prints/criar_cobranca_menu_cabecalho.png)
 
@@ -15,7 +15,7 @@
 
 {% tab title="➕ Criar cobrança novamente"%} Com esta função você pode ganhar tempo ao reutilizar a mesma cobrança com os dados do cliente caso seja necessário, ou alterar algum item antes de usar novamente. {% endtab %}
 
-{% tab title="🖋️ Editar cobrança" %} Caso tenho faltado alguma informação, ou chegou a fazer algum lançamento errado, você pode editar a cobrança antes do pagamento, mas lembre-se após o pagamento esta função não estará mais diponível.{% endtab %}
+{% tab title="🖋️ Editar cobrança" %} Caso tenha faltado alguma informação, ou chegou a fazer algum lançamento errado, você pode editar a cobrança antes do pagamento, mas lembre-se, após o pagamento esta função não estará mais disponível.{% endtab %}
 
 {% endtabs %}
 
@@ -32,26 +32,26 @@
 ![status_pgto_falha](/assets/prints/status_pgto_falha.png)
 <!-- ![criar_cobranca_card_1](/assets/prints/criar_cobranca_card_1.gif) -->
 
-<p>Já no segundo quadro, colocamos as Formas de pagamentos disponíveis (Aparecendo somente as selecionadas no momento da geraçāo da cobrança). </p>
+Já no segundo quadro, colocamos as Formas de pagamentos disponíveis (Aparecendo somente as selecionadas no momento da geraçāo da cobrança).
 
 ![criar_cobranca_card_2](/assets/prints/criar_cobranca_card_2.png)
 
-<p>Neste terceiro quadro estão as opções de compartilhamento do link para pagamento, você pode utilizar o compartilhamento via Whatsapp ou E-mail. Mas caso queira, também pode copiar o link da cobrança diretamente e repassar ao cliente.</p>
+Neste terceiro quadro estão as opções de compartilhamento do link para pagamento, você pode utilizar o compartilhamento via Whatsapp ou E-mail. Mas caso queira, também pode copiar o link da cobrança diretamente e repassar ao cliente.
 
 ![criar_cobranca_card_3](/assets/prints/criar_cobranca_card_3.png)
 
-<p>Agora no quarto quadro você vê os Dados da Cobrança e Dados do Pagador. Saiba que a cada cobrança gerada nós criamos um código único para maior controle do nosso sistema 😊.<br><br>
-Os dados do pagador podem ser preenchidos por você no ato da cobrança, ou caso prefira, deixar o proprio cliente preencher quando ele for efetuar o pagamento:</p>
+Agora no quarto quadro você vê os Dados da Cobrança e Dados do Pagador. Saiba que a cada cobrança gerada nós criamos um código único para maior controle do nosso sistema 😊.<br><br>
+Os dados do pagador podem ser preenchidos por você no ato da cobrança, ou caso prefira, deixar o proprio cliente preencher quando ele for efetuar o pagamento:
 
 ![criar_cobranca_card_4](/assets/prints/criar_cobranca_card_4.png)
 
-<p>No quinto quadro vemos:<br>
+No quinto quadro vemos:
     - Endereço do cliente (Lembrando que o próprio cliente pode fazer o preenchimento quando for pagar 😉);<br>
-    - Configurações da cobrança (Caso tenha definido parcelas para o caso do Cartão de Crédito e a Taxa de transação se definiu para o cliente pagar).<br></p>
+    - Configurações da cobrança (Caso tenha definido parcelas para o caso do Cartão de Crédito e a Taxa de transação se definiu para o cliente pagar).<br>
 
 ![criar_cobranca_card_5](/assets/prints/criar_cobranca_card_5.png)
 
-<p>Aqui no último quadro colocamos as configurações que foram aplicadas no boleto, como Taxas, Data de vencimento e Juros aplicados:</p>
+Aqui no último quadro colocamos as configurações que foram aplicadas no boleto, como Taxas, Data de vencimento e Juros aplicados:
 
 
  {% hint style="warning" %}

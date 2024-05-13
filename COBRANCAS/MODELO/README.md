@@ -8,7 +8,7 @@ Este é o nosso menu de Cobranças Modelo, todos os links gerados ficam registra
 Colocamos já no início um atalho para que você possa criar uma nova cobrança enquanto estiver vendo os relatórios clicando aqui nesta opção:
 
 {% hint style="warning" %}
-**Importante:** Caso queira mais informações sobre Criar Cobrança [clique aqui ](https://docs.gopag.com.br/criar_cobranca) para acessar a explicação completa desta função.
+**Importante:** Caso queira mais informações sobre Criar Cobrança [clique aqui ](https://docs.gopag.com.br/criar_cobranca) para acessar a explicação completa dessa função.
 {% endhint %}
 
 ![cobrancas_menu_modelo_criar_cobranca](/assets/prints/cobrancas_menu_modelo_criar_cobranca.png)
@@ -48,8 +48,8 @@ Já o Filtro de Status, trás todas as opções de status disponíveis, lembrand
 
 Em cada Cobrança Modelo gerada, você pode observar que na opção Detalhes, existem dois ícones:
 
-- <img src="/assets/prints/icon_olho_detalhes_transacao.png" alt="" data-size="line"> abrirá o link de cobrança pra você conferir detalhes sobre ela.
-- <img src="/assets/prints/icon_quadrado_detalhes_transacao.png" alt="" data-size="line"> tem a mesma função, porém abrirá para você em uma nova janela.<br>
+- <img src="/assets/prints/icon_olho_detalhes_transacao.png" alt="" data-size="line"> Abrirá o link de cobrança para você conferir detalhes sobre ela.
+- <img src="/assets/prints/icon_quadrado_detalhes_transacao.png" alt="" data-size="line"> Tem a mesma função, porém abrirá para você em uma nova janela.<br>
 Passando assim, mais de uma possibilidade para acessar as informações 😉👍
 
 {% hint style="warning" %}

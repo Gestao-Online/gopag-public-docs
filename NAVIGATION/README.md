@@ -8,22 +8,22 @@
 
 <p>Porém com suas informações de saldo!</p>
 
-<p>Agora, voltando nossa atenção para o canto superior direito da tela, poderemos visualizar um campo com seu nome incluso. Clicando sobre este campo, uma janelinha irá aparecer logo abaixo do seu nome com algumas informações:
+<p>Agora, voltando nossa atenção para o canto superior direito da tela, podemos visualizar um campo com seu nome incluso. Clicando sobre este campo, uma janelinha irá aparecer logo abaixo do seu nome com algumas informações:
 
 - Nome da empresa e o CNPJ da mesma, isso para planos de conta do tipo Pessoa Jurídica;
 - Nome da pessoa e CPF, este sendo para Pessoas Físicas; 
-- A últimaa opção é a de sair/logout da conta.<br>
+- A última opção é a de sair/logout da conta.<br>
 Você pode observar esses detalhes na imagem abaixo:</p>
 
 ![tela_inicial_campo_nome](../assets/prints/tela_inicial_campo_nome.png)
 
-<p>Olhando agora para o lado esquerdo da tela poderemos visualizar uma coluna com algumas figuras.</p> 
+<p>Olhando agora para o lado esquerdo da tela pode-se visualizar uma coluna com algumas figuras.</p> 
 
 ![tela_inicial_menus](../assets/prints/tela_inicial_menus.png)
 
 <p><strong>Essas figuras são as opções de menu!</strong></p>
 
-<p>Quando passamos a setinha do mouse por cima dessa coluna ela irá se expandir e com isso os nomes de cada icone irá aparecer.</p>
+<p>Quando passamos a setinha do mouse por cima desta coluna ela irá se expandir e com isso os nomes de cada ícone irá aparecer.</p>
 
 ![tela_inicial_menus_ampliado](../assets/prints/tela_inicial_menus_ampliado.png)
 
@@ -38,8 +38,4 @@ Você pode observar esses detalhes na imagem abaixo:</p>
 <p>Isso foi pensado justamente para poder facilitar nossa navegação dentro da plataforma.<br>
 <strong>Incrível, não é mesmo!</strong></p>
 
-<p>Portanto, prepare-se, pois estamos prestes a conhecer cada uma das áreas dísponíveis dentro da plataforma GOPag!</p>
-
-<!-- {% hint style="warning" %}
-**Detalhe:**  O menu "CRIAR COBRANÇA", iremos abordar mais a frente, primeiramente vamos nos atentar aos demais itens do menu que serão explicados nas próximas páginas.
-{% endhint %} -->
+<p>Portanto, prepare-se, pois estamos prestes a conhecer cada uma das áreas disponíveis dentro da plataforma GOPag!</p>

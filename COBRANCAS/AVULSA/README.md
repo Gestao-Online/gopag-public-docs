@@ -7,7 +7,7 @@
 Colocamos já no início um atalho para que você possa criar uma nova cobrança enquanto estiver vendo os relatórios, clicando aqui nesta opção:
 
 {% hint style="warning" %}
-**Importante:** Caso queira mais informações sobre Criar Cobrança [clique aqui ](https://docs.gopag.com.br/criar_cobranca) para acessar a explicação completa desta função.
+**Importante:** Caso queira mais informações sobre Criar Cobrança [clique aqui ](https://docs.gopag.com.br/criar_cobranca) para acessar a explicação completa dessa função.
 {% endhint %}
 
 ![cobrancas_menu_avulsa_criar_cobranca](/assets/prints/cobrancas_menu_avulsa_criar_cobranca.png)
@@ -46,9 +46,9 @@ Contamos com o Filtro de Status com todas as opções disponíveis, lembrando qu
 
 ![cobrancas_menu_avulsa_filtro_status](/assets/prints/cobrancas_menu_avulsa_filtro_status.png)
 
-Em cada cobrança gerada, você pode observar que na opção Detalhes, exitem dois ícones:
-- <img src="/assets/prints/icon_olho_detalhes_transacao.png" alt="" data-size="line"> abrirá o link de cobrança pra você conferir detalhes sobre ela.
-- <img src="/assets/prints/icon_quadrado_detalhes_transacao.png" alt="" data-size="line"> tem a mesma função, porém abrirá para você em uma nova janela.
+Em cada cobrança gerada, você pode observar que na opção Detalhes, existem dois ícones:
+- <img src="/assets/prints/icon_olho_detalhes_transacao.png" alt="" data-size="line"> Abrirá o link de cobrança para você conferir detalhes sobre ela.
+- <img src="/assets/prints/icon_quadrado_detalhes_transacao.png" alt="" data-size="line"> Tem a mesma função, porém abrirá para você em uma nova janela.
 
 Passando assim, mais de uma possibilidade para acessar as informações 😉👍
 
