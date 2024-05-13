@@ -20,7 +20,7 @@
 
 <br>
 
-<p>O mesmo também se aplica a logo da sua empresa, você pode configurá-la igual o exemplo abaixo, deixando a identidade visual da sua empresa agregada ao nosso portal, aparecendo nos Boletos, links de cobrança mensagens de aviso! 😉</p>
+<p>O mesmo também se aplica a logo da sua empresa, você pode configurá-la igual o exemplo abaixo, deixando a identidade visual da sua empresa agregada ao nosso portal, aparecendo nos Boletos, links de cobrança e mensagens de aviso! 😉</p>
 
 {% hint style="warning" %}
 **Detalhe:** As regras de imagem da Logo da empresa são as mesmas para a foto de perfil descritos acima. Ou seja, a imagem precisa ter um dos seguintes formatos, PNG, JPEG ou SVG. O tamanho também tem um limite que é de apenas 5MB!
