@@ -11,7 +11,7 @@
     * [🔗 Gerar Link de Cobrança](CRIAR_COBRANCA/LINK_COBRANCA/README.md)
         * [🔗 Gerar Link Cobrança Avulsa](CRIAR_COBRANCA/LINK_COBRANCA/LINK_COBRANCA_AVULSA/README.md)
         * [📍 Gerar Link Cobrança Modelo](CRIAR_COBRANCA/LINK_COBRANCA/LINK_COBRANCA_MODELO/README.md)
-        * [📌 Gerar Link Cobrança Recorrente](CRIAR_COBRANCA/LINK_COBRANCA/LINK_COBRANCA_RECORRENTE/README.md)
+        <!-- * [📌 Gerar Link Cobrança Recorrente](CRIAR_COBRANCA/LINK_COBRANCA/LINK_COBRANCA_RECORRENTE/README.md) -->
 * [💰 Cobranças](COBRANCAS/README.md)
     * [🔗 Cobranças Avulsa](COBRANCAS/AVULSA/README.md)
     * [📍 Cobranças Modelo](COBRANCAS/MODELO/README.md)
@@ -20,7 +20,7 @@
 * [🔢 Simular venda](SIMULAR_VENDA/README.md)
 * [🆘 Suporte](SUPORTE/README.md)
 * [⚙️ Configurações](CONFIGURACOES/README.md)
-* [💲 Taxas](TAXAS/README.md)
+* [💲 Planos GOPag](TAXAS/README.md)
 * [📲 Maquinhinha GOPag](MAQUININHAS/README.md)
     * [👩‍🏫 Conheça sua maquininha](MAQUININHAS/1_CONHECA_MAQ/README.md)
     * [✅ Como ligar sua maquininha](MAQUININHAS/2_COMO_LIGAR_MAQ/README.md)
