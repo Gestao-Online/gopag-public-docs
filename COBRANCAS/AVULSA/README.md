@@ -12,12 +12,10 @@ Colocamos já no início um atalho para que você possa criar uma nova cobrança
 
 ![cobrancas_menu_avulsa_criar_cobranca](/assets/prints/cobrancas_menu_avulsa_criar_cobranca.png)
 
-<br>
-
 Dando sequência a explicação, caso queira fazer uma busca por uma cobrança específica, você pode usar a nossa barra de pesquisa que está marcada na imagem abaixo:
 
 {% hint style="warning" %}
-**Importante:**  A barra de pesquisa faz uma busca somente pelo texto que foi colocado na Descrição da cobrança, para outro tipo de busca, confira abaixo as opções disponíveis 😉
+**Importante:**  A barra de pesquisa faz uma busca somente pelo texto que foi colocado na Descrição da cobrança Avulsa, para outro tipo de busca, confira abaixo as opções disponíveis 😉
 {% endhint %}
 
 ![cobrancas_menu_avulsa_barra_pesquisa](/assets/prints/cobrancas_menu_avulsa_barra_pesquisa.png)

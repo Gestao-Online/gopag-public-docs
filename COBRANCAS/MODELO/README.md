@@ -5,12 +5,18 @@ Este é o nosso menu de Cobranças Modelo, todos os links gerados ficam registra
 
 ![cobrancas_menu_modelo](/assets/prints/cobrancas_menu_modelo.png)
 
-<br>
+Colocamos já no início um atalho para que você possa criar uma nova cobrança enquanto estiver vendo os relatórios clicando aqui nesta opção:
+
+{% hint style="warning" %}
+**Importante:** Caso queira mais informações sobre Criar Cobrança [clique aqui ](https://docs.gopag.com.br/criar_cobranca) para acessar a explicação completa desta função.
+{% endhint %}
+
+![cobrancas_menu_modelo_criar_cobranca](/assets/prints/cobrancas_menu_modelo_criar_cobranca.png)
 
 Para ficar mais fácil a busca específica por uma cobrança, você pode usar a nossa barra de pesquisa que está marcada na imagem abaixo:
 
 {% hint style="warning" %}
-**Importante:**  A barra de pesquisa faz uma busca somente pelo texto que foi colocado na Descrição da cobrança Modelo.
+**Importante:**  A barra de pesquisa faz uma busca somente pelo texto que foi colocado na Descrição da Cobrança Modelo, para outro tipo de busca, confira abaixo as opções disponíveis 😉
 {% endhint %}
 
 ![cobrancas_menu_modelo_barra_pesquisa](/assets/prints/cobrancas_menu_modelo_barra_pesquisa.png)
@@ -29,34 +35,16 @@ Também é possível usar o filtro de busca por Descrição, ele tem a mesma fun
 
 <br>
 
-<!--- Neste parte abaixo eu tirei duvida com o Filipe, e ele me informou que farão alteração no menu dropdown alterando o nome PAGO para SENDO UTILIZADO, para não confundir os clientes --->
+Já o Filtro de Status, trás todas as opções de status disponíveis, lembrando que os Filtros também podem ser utilizados em conjunto para uma busca específica:
 
-Já o Filtro de Status, trás todas as opções de status disponíveis, lembrando que os Filtros também podem ser utilizados em conjunto para uma busca específica:<br>
  - Sendo utilizado
  - Cancelado
  - Pendente
- - Falha
  - Novo
- - Pré Autorizado
- - Revertido
- - Reembolsado
- - Disputa
- - Charged Back<br>
 
  Confira no exemplo abaixo:
 
 ![cobrancas_menu_modelo_filtro_status](/assets/prints/cobrancas_menu_modelo_filtro_status.png)
-
-<br>
-
-Aqui na Paginação, logo na parte final do relatório, e você também pode aumentar a quantidade visível de cobranças mostradas para até 1000 itens na página:
-
-![cobrancas_menu_modelo_paginacao_1](/assets/prints/cobrancas_menu_avulsa_paginacao.png)
-<p>.</p>
-
-![cobrancas_menu_modelo_paginacao_2](/assets/prints/cobrancas_menu_avulsa_paginacao_2.png)
-
-<br>
 
 Em cada Cobrança Modelo gerada, você pode observar que na opção Detalhes, existem dois ícones:
 
@@ -72,10 +60,9 @@ Passando assim, mais de uma possibilidade para acessar as informações 😉👍
 
 <br>
 
-Colocamos também um atalho para que você possa criar uma nova cobrança enquanto estiver vendo os relatórios clicando aqui nesta opção:
+Aqui na Paginação, logo na parte final do relatório, e você também pode aumentar a quantidade visível de cobranças mostradas para até 1000 itens na página:
 
-![cobrancas_menu_modelo_criar_cobranca](/assets/prints/cobrancas_menu_modelo_criar_cobranca.png)
+![cobrancas_menu_modelo_paginacao_1](/assets/prints/cobrancas_menu_avulsa_paginacao.png)
+<p>.</p>
 
-{% hint style="warning" %}
-**Importante:** Caso queira mais informações sobre Criar Cobrança [clique aqui ](https://docs.gopag.com.br/criar_cobranca) para acessar a explicação completa desta função.
-{% endhint %}
+![cobrancas_menu_modelo_paginacao_2](/assets/prints/cobrancas_menu_avulsa_paginacao_2.png)
