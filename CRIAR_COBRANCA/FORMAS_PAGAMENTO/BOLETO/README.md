@@ -42,7 +42,7 @@ Na forma de pagamento Boleto Bancário, temos o prazo de compensação de até 4
 
 <br>
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 **Importante:**  Para a Forma de Pagamento via Boleto bancário, não temos a opção de parcelamento.
 {% endhint %}
 
