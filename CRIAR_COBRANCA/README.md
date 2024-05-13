@@ -4,8 +4,7 @@
 
 # [- **Avulsa**](https://docs.gopag.com.br/criar_cobranca/link_cobranca)
 
-<p>Quando falamos de cobrança do tipo Avulsa nos referimos a um pagamento único ou pontual que é feito por um produto ou serviço específico, sem a necessidade de um compromisso contínuo. Como exemplo a compra de um item em uma loja online e pagar por ele uma única vez.<br>
-Não há compromisso de pagamento recorrente ou periódico associado a esse tipo de transação.</p>
+<p>Quando falamos de cobrança do tipo Avulsa nos referimos a um pagamento único ou pontual que é feito por um produto ou serviço específico, sem a necessidade de um compromisso contínuo. Como exemplo a compra de um item em uma loja online e pagar por ele uma única vez.</p>
 
 
 <!-- <p>Uma cobrança do tipo avulsa pode ser gerada a qualquer momento e após ser paga é então finalizada, nela será necessário o preenchimento dos dados do cliente, ou se optar pode deixar o proprio cliente para fazer este preenchimento.</p> -->
@@ -21,6 +20,8 @@ Não há compromisso de pagamento recorrente ou periódico associado a esse tipo
 
 # [- **Recorrente**](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_recorrente)
 
-<p>A cobrança recorrente é comum em serviços de assinatura, como Netflix ou Spotify, e pode ocorrer com a frequência que você desejar, ou seja, o cliente paga o valor nesse perído que você definiu e então ele pode usufruir do produto.</p>
+<p>O pagamento recorrente é um método de cobrança periódica, feita com recorrência mensal, quinzenal ou anual enquanto o contrato de serviço durar. Entre os serviços que utilizam o sistema de pagamento recorrente, podemos falar de Cursos, Contabilidade, Mensalidade escolar, Honorários, Editoras e Empresas de Telecomunicações.</p>
+
+<!-- <p>A cobrança recorrente é comum em serviços de assinatura, como Netflix ou Spotify, e pode ocorrer com a frequência que você desejar, ou seja, o cliente paga o valor nesse perído que você definiu e então ele pode usufruir do produto.</p> -->
 
 ![tela_inicial_menu_criar_cobranca](../assets/prints/criar_cobranca.gif)
