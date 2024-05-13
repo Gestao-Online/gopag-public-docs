@@ -6,7 +6,7 @@
 
 <br>
 
-<p>Bem fácil de se utilizar, bastando inserir o valor desejado para a simulação de Taxas e parcelas, são quatro funções diponíveis, entre elas, quanto você quer cobrar que seria o valor da cobrança em si, o Tipo de pagamento, se será online ou presencial e qual a bandeira do Cartão a ser utilizado.</p>
+<p>Bem fácil de se utilizar, bastando inserir o valor desejado para a simulação de Taxas e parcelas, são quatro funções diponíveis, entre elas, o valor você quer cobrar, que seria o valor da cobrança em si, o Tipo de pagamento, se será online ou presencial e qual a bandeira do Cartão a ser utilizado.</p>
 
 {% hint style="warning" %}
 **Detalhe:**  Cada bandeira de Cartão terá uma porcentagem de taxa diferente a ser cobrada, observe bem estes valores 😉
@@ -20,15 +20,17 @@
 
 ![simulador_menu_tipo_pagamento](/assets/prints/simulador_menu_tipo_pagamento.png)
 
-E se você está nessa página, é porque tem dúvidas sobre o nosso sistema de repasse de taxas, então vamos te explicar cada parte delas, para que possa utilizar da melhor maneira possível! 😁
+E se você está nessa página, é porque pode ter dúvidas sobre o sistema de repasse de taxas, então vamos te explicar cada parte delas, para que possa utilizar da melhor maneira possível! 😁
 
 Logo ao clicar no botão [Criar cobrança](https://docs.gopag.com.br/criar_cobranca) você inicia o preenchimento dos dados iniciais e após escolher a [Forma de Pagamento](https://docs.gopag.com.br/criar_cobranca/formas_pagamento) se depara então com este card:
 
 ![taxas_card_configuracao_parcelas_e_taxas](/assets/prints/taxas_card_configuracao_parcelas_e_taxas.png)
 
-As taxas que são cobradas pela plataforma da GOPag, não são repassadas automaticamente para seus clientes, elas são aplicadas em todos os meios de pagamento, seja Cartão de Crédito, Pix ou Boleto. Quando se Cria uma Cobrança, é necessário você mesmo calcular e preencher o campo Taxa adicional.
+{% hint style="danger" %}
+**Informação:** As taxas que são cobradas pela plataforma da GOPag, não são repassadas automaticamente para seus clientes, elas são aplicadas em todos os meios de pagamento, seja Cartão de Crédito, Pix ou Boleto. Quando se Cria uma Cobrança, é necessário você mesmo calcular e preencher o campo Taxa adicional..
+{% endhint %}
 
-Você pode usar o nosso menu [Simular Venda](https://docs.gopag.com.br/simular_venda), para saber qual valor será necessário repassar ao cliente (caso seja este o seu desejo) e então criar uma cobrança já baseada nesse valor, confira abaixo o exemplo do simulador:
+No menu Simular Venda, você pode marcar o botão `Repassar Taxas` para saber qual valor será necessário repassar ao cliente (caso seja este o seu desejo) e então criar uma cobrança já baseada nesse valor, confira abaixo o exemplo do simulador:
 
 ![taxas_card_simulacao_venda](/assets/prints/taxas_card_simulacao_venda.png)
 
