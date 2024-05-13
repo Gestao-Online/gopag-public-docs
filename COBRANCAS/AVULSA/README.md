@@ -4,10 +4,20 @@
 
 ![cobrancas_menu_avulsa](/assets/prints/cobrancas_menu_avulsa.png)
 
-<p>Para ficar mais fácil a busca por uma cobrança específica, você pode usar a nossa barra de pesquisa que está marcada na imagem abaixo:</p>
+Colocamos já no início um atalho para que você possa criar uma nova cobrança enquanto estiver vendo os relatórios, clicando aqui nesta opção:
 
 {% hint style="warning" %}
-**Importante:**  A barra de pesquisa faz uma busca pelo texto que foi colocado na Descrição da cobrança, para outro tipo de busca confira abaixo as opções disponíveis 😉
+**Importante:** Caso queira mais informações sobre Criar Cobrança [clique aqui ](https://docs.gopag.com.br/criar_cobranca) para acessar a explicação completa desta função.
+{% endhint %}
+
+![cobrancas_menu_avulsa_criar_cobranca](/assets/prints/cobrancas_menu_avulsa_criar_cobranca.png)
+
+<br>
+
+Dando sequência a explicação, caso queira fazer uma busca por uma cobrança específica, você pode usar a nossa barra de pesquisa que está marcada na imagem abaixo:
+
+{% hint style="warning" %}
+**Importante:**  A barra de pesquisa faz uma busca somente pelo texto que foi colocado na Descrição da cobrança, para outro tipo de busca, confira abaixo as opções disponíveis 😉
 {% endhint %}
 
 ![cobrancas_menu_avulsa_barra_pesquisa](/assets/prints/cobrancas_menu_avulsa_barra_pesquisa.png)
@@ -18,11 +28,11 @@
 
 ![cobrancas_menu_avulsa_filtro_data_criacao](/assets/prints/cobrancas_menu_avulsa_filtro_data_criacao.gif)
 
-<p>Também temos o filtro de busca por Descrição, ele tem a mesma função que nossa barra de pesquisa, e você pode usar o que for mais prático para o momento:</p>
+<p>Também é possível usar o filtro de busca por Descrição, ele tem a mesma função que nossa barra de pesquisa, e você pode usar o que for mais prático para o momento:</p>
 
 ![cobrancas_menu_avulsa_filtro_descricao](/assets/prints/cobrancas_menu_avulsa_filtro_descricao.png)
 
-Temos o Filtro de Status com todas as opções disponíveis, lembrando que os Filtros podem ser utilizados em conjunto para uma busca específica:<br>
+Contamos com o Filtro de Status com todas as opções disponíveis, lembrando que os Filtros podem ser utilizados em conjunto para uma busca específica:<br>
  - Pago
  - Cancelado
  - Pendente
@@ -38,16 +48,10 @@ Temos o Filtro de Status com todas as opções disponíveis, lembrando que os Fi
 
 ![cobrancas_menu_avulsa_filtro_status](/assets/prints/cobrancas_menu_avulsa_filtro_status.png)
 
-<p>Temos a Paginação logo na parte final do relatório, e você também pode aumentar a quantidade visível de cobranças mostradas para até 1000 itens na página:</p>
-
-![cobrancas_menu_avulsa_paginacao_1](/assets/prints/cobrancas_menu_avulsa_paginacao.png)
-<p>.</p>
-
-![cobrancas_menu_avulsa_paginacao_2](/assets/prints/cobrancas_menu_avulsa_paginacao_2.png)
-
-Em cada cobrança gerada, você pode observar que na opção Detalhes, temos dois ícones:
+Em cada cobrança gerada, você pode observar que na opção Detalhes, exitem dois ícones:
 - <img src="/assets/prints/icon_olho_detalhes_transacao.png" alt="" data-size="line"> abrirá o link de cobrança pra você conferir detalhes sobre ela.
-- <img src="/assets/prints/icon_quadrado_detalhes_transacao.png" alt="" data-size="line"> tem a mesma função, porém abrirá para você em uma nova janela.<br>
+- <img src="/assets/prints/icon_quadrado_detalhes_transacao.png" alt="" data-size="line"> tem a mesma função, porém abrirá para você em uma nova janela.
+
 Passando assim, mais de uma possibilidade para acessar as informações 😉👍
 
 {% hint style="warning" %}
@@ -57,10 +61,9 @@ Passando assim, mais de uma possibilidade para acessar as informações 😉👍
 ![cobrancas_menu_avulsa_detalhes_cobranca](/assets/prints/cobrancas_menu_avulsa_detalhes_cobranca.png)
 
 
-<p>Colocamos também um atalho para que você possa criar uma nova cobrança enquanto estiver vendo os relatórios, clicando aqui nesta opção:</p>
+Paginação logo na parte final do relatório, e você também pode aumentar a quantidade visível de cobranças mostradas para até 1000 itens na página:
 
-![cobrancas_menu_avulsa_criar_cobranca](/assets/prints/cobrancas_menu_avulsa_criar_cobranca.png)
+![cobrancas_menu_avulsa_paginacao_1](/assets/prints/cobrancas_menu_avulsa_paginacao.png)
+<p>.</p>
 
-{% hint style="warning" %}
-**Importante:** Caso queira mais informações sobre Criar Cobrança [clique aqui ](https://docs.gopag.com.br/criar_cobranca) para acessar a explicação completa desta função.
-{% endhint %}
+![cobrancas_menu_avulsa_paginacao_2](/assets/prints/cobrancas_menu_avulsa_paginacao_2.png)

@@ -22,13 +22,13 @@
 
 <br>
 
-<p>Também temos o Filtro de busca por Código de Transação, ele tem a mesma função que nossa Barra de Pesquisa, e você pode utilizar o que for mais prático para o momento:</p>
+<p>Também é possível usar o Filtro de busca por Código de Transação, ele tem a mesma função que nossa Barra de Pesquisa, e você pode utilizar o que for mais prático para o momento:</p>
 
 ![transacoes_menu_filtro_codigo_transacoes](/assets/prints/transacoes_menu_filtro_codigo_transacao.png)
 
 <br>
 
-<p>Temos o Filtro de Status com todas as opções disponíveis, lembrando que os Filtros podem ser utilizados em conjunto para uma busca específica:<br>
+<p>Já o Filtro de Status, trás todas as opções de status disponíveis, lembrando que os Filtros também podem ser utilizados em conjunto para uma busca específica:<br>
  - Pago<br>
  - Cancelado<br>
  - Pendente<br>
@@ -62,7 +62,7 @@
 
 <br>
 
-<p>Temos a Paginação logo na parte final do relatório, e você também pode aumentar a quantidade visível de cobranças mostradas para até 1000 itens na página:</p>
+<p>Logo na parte final do relatório fica a Paginação, onde você pode aumentar a quantidade visível de cobranças mostradas para até 1000 itens na página:</p>
 
 ![cobrancas_menu_avulsa_paginacao_1](/assets/prints/cobrancas_menu_avulsa_paginacao.png)
 <p>.</p>

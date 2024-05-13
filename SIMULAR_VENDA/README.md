@@ -16,7 +16,7 @@
 
 <br>
 
-<p>No tipo de pagamento temos duas opções, a Online e Presencial, o cálculo é feito com doze parcelas e incluso até o Cartão de Débito, lembrando que o Cartão de Débito funciona somente no modo presencial:</p>
+<p>No tipo de pagamento colocamos duas opções, a Online e Presencial, o cálculo é feito com doze parcelas e incluso até o Cartão de Débito, lembrando que o Cartão de Débito funciona somente no modo presencial:</p>
 
 ![simulador_menu_tipo_pagamento](/assets/prints/simulador_menu_tipo_pagamento.png)
 

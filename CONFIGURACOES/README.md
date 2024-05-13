@@ -6,7 +6,7 @@
 
 <br>
 
-<p>Agora no segundo card temos a opção de Alterar a senha, observe que deixamos um botão de segurança que só deixa esse card funcionar se ele estiver marcado, o procedimento é simples e rápido, precisando apenas digitar sua antiga senha e depois a nova para você usá-la, confira abaixo:</p>
+<p>Agora no segundo card você vê a opção de Alterar a senha, observe que deixamos um botão de segurança que só deixa esse card funcionar se ele estiver marcado, o procedimento é simples e rápido, precisando apenas digitar sua antiga senha e depois a nova para você usá-la, confira abaixo:</p>
 
 {% hint style="danger" %}
 **Importante:** As senhas seguem algumas regras para serem aceitas, precisa ter no mínimo 8 caracteres, dentre eles Letra Minúscula (a - z), Letra Maiúscula (A - Z) e Número (0 - 9).
@@ -14,7 +14,7 @@
 
 ![configuracoes_menu_alterar_senha](../assets/prints/configuracoes_menu_alterar_senha.gif)
 
-<p>Mais abaixo, temos a opção de alterar a Imagem do Perfil, nós temos apenas alguns requisitos, para que tudo funcione direitinho no nosso portal, essa imagem precisa ter um dos seguintes formatos, PNG, JPEG ou SVG. O tamanho também tem um limite, que é de apenas 5MB, confira abaixo o passo a passo para substuição da sua foto de perfil:</p>
+<p>Mais abaixo, tem a opção de alterar a Imagem do Perfil, nós pedimos apenas alguns requisitos, para que tudo funcione direitinho no nosso portal, essa imagem precisa ter um dos seguintes formatos, PNG, JPEG ou SVG. O tamanho também tem um limite, que é de apenas 5MB, confira abaixo o passo a passo para substuição da sua foto de perfil:</p>
 
 ![configuracoes_menu_alterar_foto_perfil](../assets/prints/configuracoes_menu_alterar_foto_perfil.gif)
 

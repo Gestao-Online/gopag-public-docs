@@ -18,5 +18,5 @@ E só mais uma pequena observação, sobre a opção de pagamento via Pix, o par
 
 
 {% hint style="danger" %}
-**Importante:**  Para a Forma de Pagamento via Pix, não temos a opção de parcelamento.
+**Importante:**  Para a Forma de Pagamento via Pix, não existe a opção de parcelamento.
 {% endhint %}

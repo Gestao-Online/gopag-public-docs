@@ -1,7 +1,7 @@
 # 💳 Cartão de Crédito
 
 
-<p>Neste momento você irá definir a quantidade de parcelas (Caso seja Cartão de credito). Dando uma maior atenção a este método, nós temos duas formas de utilização dele, confira logo abaixo.
+<p>Neste momento você irá definir a quantidade de parcelas (Caso seja Cartão de credito). Dando uma maior atenção a este método, nós colocamos duas formas de utilização dele, confira logo abaixo.
 
 
 Primeiro Exemplo: O cliente deseja pagar o valor parcelado em três vezes, você irá marcar a opção 3x. </p>

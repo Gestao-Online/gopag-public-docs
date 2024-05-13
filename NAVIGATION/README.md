@@ -27,7 +27,7 @@ Podemos ver esses detalhes na imagem:</p>
 
 ![tela_inicial_menus_fixado](../assets/prints/tela_inicial_menus_fixado.gif)
 
-<p>Além disso, temos mais um detalhe que é essencial para podermos nos localizar dentro da plataforma. Quando selecionamos um menu, o mesmo ficará destacado em uma cor laranja claro.</p>
+<p>Além disso, tem mais um detalhe que é essencial para podermos nos localizar dentro da plataforma. Quando selecionamos um menu, o mesmo ficará destacado em uma cor laranja claro.</p>
 
 ![tela_inicial_menus_coluna](../assets/prints/tela_inicial_menus_coluna.png)
 

@@ -1,6 +1,6 @@
 # Detalhes Transações
 
-<p>Agora no detalhamento de cada transação temos alguns pontos importantes a tratar, de início a tela que você verá será parecida com esta:</p>
+<p>Agora no detalhamento de cada transação existem alguns pontos importantes a tratar, de início a tela que você verá será parecida com esta:</p>
 
 ![transacoes_menu_detalhe_transacao](/assets/prints/transacoes_menu_detalhe_transacao.png)
 
@@ -30,7 +30,7 @@
 
 <br>
 
-<p>Em caso de uso do boleto, temos algumas diferenças nas Informações de pagamento, no caso abaixo temos a linha digitável do boleto, a Descrição com o dia/horário que foi efetuado o pagamento:</p>
+<p>Em caso de uso do boleto, existem algumas diferenças nas Informações de pagamento, no caso abaixo temos a linha digitável do boleto, a Descrição com o dia/horário que foi efetuado o pagamento:</p>
 
 ![transacoes_menu_detalhe_transacao_boleto](/assets/prints/transacoes_menu_detalhe_transacao_boleto.png)
 
