@@ -15,5 +15,5 @@ Confira abaixo a visão do cliente no momento do pagamento:
 ![criar_cobranca_informacoes_checkout](/assets/prints/criar_cobranca_informacoes_checkout.png)
 
 {% hint style="warning" %}
-**Detalhe:** Esta opção só estará disponível caso você tenha definido na Configuração a opção **Cobrança Avulsa**. 😉👍
+**Detalhe:** Esta opção só estará disponível caso você tenha definido na Configuração a opção **Cobrança Avulsa**.
 {% endhint %}
