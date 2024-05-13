@@ -1,6 +1,7 @@
 # 📄 Boleto
 
-Na forma de pagamento Boleto Bancário, temos o prazo de compensação de até 48h, e lembrando que não tem opção de parcelamento.<br>
+Na forma de pagamento Boleto Bancário, temos o prazo de compensação de até 48h úteis. Mas não se preocupe, a compensação normalmente ocorre no próximo dia útil após o pagamento. 
+
 
 {% hint style="warning" %}
 **Detalhe:**  Caso você tenha mais de um boleto a ser emitido, é possivel repetir essa cobrança reaproveitando os dados que o cliente preencheu, através do menu [Criar Cobrança Novamente](https://docs.gopag.com.br/criar_cobranca/link_cobranca)
@@ -40,6 +41,10 @@ Na forma de pagamento Boleto Bancário, temos o prazo de compensação de até 4
 ![criar_cobranca_formas_pagamento_boleto_6](/assets/prints/criar_cobranca_formas_pagamento_boleto_6.png)
 
 <br>
+
+{% hint style="danger" %}
+**Importante:**  Para a Forma de Pagamento via Boleto bancário, não temos a opção de parcelamento.
+{% endhint %}
 
 {% hint style="danger" %}
 **Importante:**  Para mais informações sobre as taxas, [clique aqui](https://docs.gopag.com.br/taxas) e acesse nossa explicação detalhada sobre elas!
