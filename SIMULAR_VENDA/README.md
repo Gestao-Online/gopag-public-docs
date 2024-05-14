@@ -6,7 +6,7 @@ Adicionamos ao nosso sistema a função de Simular vendas para que você possa f
 
 <br>
 
-Bem fácil de se utilizar, bastando inserir o valor desejado para a simulação de Taxas e parcelas, são quatro funções disponíveis, entre elas, o valor você quer cobrar, que seria o valor da cobrança em si, o Tipo de pagamento, se será online ou presencial e qual a bandeira do Cartão a ser utilizado.
+Bem fácil de se utilizar, bastando inserir o valor desejado para a simulação de Taxas e parcelas, são quatro funções disponíveis, entre elas, o valor que você quer cobrar, que seria o da cobrança em si, o Tipo de pagamento, se será online ou presencial e qual a bandeira do Cartão a ser utilizado.
 
 {% hint style="warning" %}
 **Detalhe:**  Cada bandeira de Cartão terá uma porcentagem de taxa diferente a ser cobrada, observe bem estes valores 😉
