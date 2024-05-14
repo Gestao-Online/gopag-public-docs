@@ -1,10 +1,10 @@
 # 💳 Cartão de Crédito
 
 
-Neste momento você irá definir a quantidade de parcelas (Caso seja Cartão de Crédito). Dando uma maior atenção a este método, nós colocamos duas formas de utilização dele, confira logo abaixo.
+Neste momento você irá definir a quantidade de parcelas disponíveis para o cliente. Mas, dando uma maior atenção a este método, nós colocamos duas formas de utilização dele, confira logo abaixo.
 
 
-Primeiro Exemplo: O cliente deseja pagar o valor parcelado em três vezes, você irá marcar a opção 3x.
+**Primeiro Exemplo:** O cliente deseja pagar o valor parcelado em três vezes, você irá marcar a opção 3x.
 
 ![criar_cobranca_formas_pagamento_cartao_credito](/assets/prints/criar_cobranca_formas_pagamento_cartao_credito.gif)
 
@@ -12,7 +12,7 @@ Fazendo assim, quando o cliente for efetuar o pagamento, ficará disponível som
 
 ![tela_cliente_pagamento_parcelado](/assets/prints/tela_cliente_pagamento_parcelado.gif)
 
-Segundo Exemplo: Agora se deseja deixar disponível para o cliente escolher entre as opções de parcelamento, você precisa marcar as opções 1x, 2x e 3x. Observe abaixo como precisa ficar.
+**Segundo Exemplo:** Agora se deseja deixar disponível para o cliente escolher entre as opções de parcelamento, você precisa marcar as opções 1x, 2x e 3x. Observe abaixo como precisa ficar.
 
 ![criar_cobranca_formas_pagamento_cartao_credito_2](/assets/prints/criar_cobranca_formas_pagamento_cartao_credito_2.png)
 
@@ -22,5 +22,5 @@ Feito isso, aparecerá para o cliente três opções de parcelamento, dando assi
 
 
 {% hint style="danger" %}
-**Importante:**  Para mais informações sobre as taxas, [clique aqui](https://docs.gopag.com.br/taxas) e acesse nossa explicação detalhada sobre elas!
+**Importante:**  Para mais informações sobre as taxas, [clique aqui](https://docs.gopag.com.br/simular_venda) e acesse nossa explicação detalhada sobre elas!
 {% endhint %}

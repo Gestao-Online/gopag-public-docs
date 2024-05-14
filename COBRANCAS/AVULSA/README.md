@@ -47,17 +47,16 @@ Contamos com o Filtro de Status com todas as opções disponíveis, lembrando qu
 ![cobrancas_menu_avulsa_filtro_status](/assets/prints/cobrancas_menu_avulsa_filtro_status.png)
 
 Em cada cobrança gerada, você pode observar que na opção Detalhes, existem dois ícones:
-- <img src="/assets/prints/icon_olho_detalhes_transacao.png" alt="" data-size="line"> Abrirá o link de cobrança para você conferir detalhes sobre ela.
-- <img src="/assets/prints/icon_quadrado_detalhes_transacao.png" alt="" data-size="line"> Tem a mesma função, porém abrirá para você em uma nova janela.
+- <img src="/assets/prints/icon_olho_detalhes_transacao.png" alt="" data-size="line"> O ícone do olhinho abrirá o link de cobrança para você conferir detalhes sobre ela.
+- <img src="/assets/prints/icon_quadrado_detalhes_transacao.png" alt="" data-size="line"> E o ícone do quadrado com a setinha, tem quase a mesma função, porém abrirá para você em uma nova janela.
 
 Passando assim, mais de uma possibilidade para acessar as informações 😉👍
 
-{% hint style="warning" %}
-**Detalhe:** Caso queira mais informações sobre Detalhes de Cobrança [clique aqui ](https://docs.gopag.com.br/criar_cobranca/link_cobranca) para acessar a explicação sobre cada parte desta função.
-{% endhint %}
-
 ![cobrancas_menu_avulsa_detalhes_cobranca](/assets/prints/cobrancas_menu_avulsa_detalhes_cobranca.png)
 
+{% hint style="warning" %}
+**Detalhe:** Caso queira mais informações sobre Detalhes de Cobrança Avulsa [clique aqui ](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_avulsa) para acessar a explicação sobre cada parte desta função.
+{% endhint %}
 
 Paginação logo na parte final do relatório, e você também pode aumentar a quantidade visível de cobranças mostradas para até 1000 itens na página:
 

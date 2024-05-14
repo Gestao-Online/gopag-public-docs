@@ -1,6 +1,6 @@
 # 📄 Boleto
 
-Na forma de pagamento Boleto Bancário, o prazo de compensação é de até 48h úteis. Mas não se preocupe, a compensação normalmente ocorre no próximo dia útil após o pagamento. 😉👍
+Na forma de pagamento Boleto Bancário, o prazo de compensação é de até 48h úteis. Mas não se preocupe, a compensação normalmente ocorre no próximo dia útil após o pagamento. 😁
 
 
 {% hint style="warning" %}
@@ -18,25 +18,29 @@ Na forma de pagamento Boleto Bancário, o prazo de compensação é de até 48h 
 
 <br>
 
-<p>Neste menu será possível configurar a Multa de atraso do boleto, podendo cobrar até 2% sobre o valor de pagamento em caso de atrasos, nós colocamos duas opções, e você define em dinheiro ou porcentagem, a plataforma corrige o valor automaticamente para você caso coloque acima do padrão de 2% estabelecido pelo Código Tributário Nacional:</p>
+Neste menu será possível configurar a Multa de atraso do boleto, podendo cobrar até 2% sobre o valor de pagamento em caso de atrasos. 
+
+Nós colocamos duas opções, e você define se será em dinheiro ou porcentagem (a plataforma da GOPag corrige o valor automaticamente para você, caso coloque acima do padrão de 2% estabelecido pelo Código Tributário Nacional 😅)
 
 ![criar_cobranca_formas_pagamento_boleto_3](/assets/prints/criar_cobranca_formas_pagamento_boleto_3.png)
 
 <br>
 
-<p>Pode também configurar o Juro Mora ou Moratórios que pode ser em dinheiro ou porcentagem conforme imagem abaixo. Esses Juros consistem em uma taxa aplicada sobre o atraso no pagamento de uma conta, sendo possível colocar 1% ao mês no máximo, conforme estabelecido pelo Código Tributário Nacional:</p>
+Pode também configurar o Juro Mora ou Moratórios, podendo ser em dinheiro ou porcentagem conforme imagem abaixo. 
+
+Esses Juros consistem em uma taxa aplicada sobre o atraso no pagamento de uma conta, sendo possível colocar 1% ao mês no máximo, conforme estabelecido pelo Código Tributário Nacional:
 
 ![criar_cobranca_formas_pagamento_boleto_4](/assets/prints/criar_cobranca_formas_pagamento_boleto_4.png)
 
 <br>
 
-<p>Finalizando então com a Data Limite Para Pagamento, podendo o boleto ser pago no período que você definir, sendo o prazo máximo até 90 dias, após isso o cliente precisará entrar em contato com você para a emissão de um novo Boleto:</p>
+Finalizando então com a Data Limite Para Pagamento, podendo o boleto ser pago no período que você definir, sendo o prazo máximo até 90 dias, após isso o cliente precisará entrar em contato com você para a emissão de um novo Boleto:
 
 ![criar_cobranca_formas_pagamento_boleto_5](/assets/prints/criar_cobranca_formas_pagamento_boleto_5.png)
 
 <br>
 
-<p>Nesta parte em laranja mais claro, tem um simulador de valores em caso de atraso, para que você confira as variações de valores de acordo com os dias de atraso:
+Nesta parte em laranja mais claro, tem um simulador de valores em caso de atraso, para que você confira as variações de valores de acordo com os dias de atraso:
 
 ![criar_cobranca_formas_pagamento_boleto_6](/assets/prints/criar_cobranca_formas_pagamento_boleto_6.png)
 
@@ -47,5 +51,5 @@ Na forma de pagamento Boleto Bancário, o prazo de compensação é de até 48h 
 {% endhint %}
 
 {% hint style="danger" %}
-**Importante:**  Para mais informações sobre as taxas, [clique aqui](https://docs.gopag.com.br/taxas) e acesse nossa explicação detalhada sobre elas!
+**Importante:**  Para mais informações sobre as taxas, [clique aqui](https://docs.gopag.com.br/simular_venda) e acesse nossa explicação detalhada sobre elas!
 {% endhint %}

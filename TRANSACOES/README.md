@@ -28,25 +28,26 @@ Também é possível usar o Filtro de busca por Código de Transação, ele tem 
 
 <br>
 
-<p>Já o Filtro de Status, trás todas as opções de status disponíveis, lembrando que os Filtros também podem ser utilizados em conjunto para uma busca específica:<br>
- - Pago<br>
- - Cancelado<br>
- - Pendente<br>
- - Falha<br>
- - Novo<br>
- - Pré Autorizado<br>
- - Revertido<br>
- - Reembolsado<br>
- - Disputa<br>
- - Charged Back<br>
+Já o Filtro de Status, trás todas as opções de status disponíveis, lembrando que os Filtros também podem ser utilizados em conjunto para uma busca específica:
 
- Confira no exemplo abaixo:</p>
+ - Pago
+ - Cancelado
+ - Pendente
+ - Falha
+ - Novo
+ - Pré Autorizado
+ - Revertido
+ - Reembolsado
+ - Disputa
+ - Charged Back
+
+ Confira no exemplo abaixo:
 
 ![transacoes_menu_filtro_status](/assets/prints/transacoes_menu_filtro_status.png)
 
 <br>
 
-Outro Filtro importante é o do Tipo de Pagamento, onde você procura pelo método utilizado e pode filtrar melhor, ou usá-lo em conjunto com outro filtro:
+Outro Filtro importante é o do **Tipo de Pagamento**, onde você procura pelo método utilizado e pode filtrar melhor, ou usá-lo em conjunto com outro filtro:
 
 ![transacoes_menu_filtro_tipo_pagamento](/assets/prints/transacoes_menu_filtro_tipo_pagamento.png)
 

@@ -27,11 +27,11 @@ Você pode observar esses detalhes na imagem abaixo:</p>
 
 ![tela_inicial_menus_ampliado](../assets/prints/tela_inicial_menus_ampliado.png)
 
-<p>Clicando no ícone de fixar, o menu lateral ficará sempre com o tamanho cheio, você pode ver além dos ícones os nomes de cada um deles.</p>
+<p>Clicando no ícone de fixar 📌, o seu menu lateral irá ficar sempre com o tamanho cheio, você pode ver além dos ícones os nomes de cada um deles. 😉👍</p>
 
 ![tela_inicial_menus_fixado](../assets/prints/tela_inicial_menus_fixado.gif)
 
-<p>Além disso, tem mais um detalhe que é essencial para podermos nos localizar dentro da plataforma. Quando selecionamos um menu, o mesmo ficará destacado em uma cor laranja claro.</p>
+<p>Além disso, tem mais um detalhe que é essencial para podermos nos localizarmos dentro da plataforma. Quando selecionamos um menu, ele ficará destacado em uma cor laranja claro.</p>
 
 ![tela_inicial_menus_coluna](../assets/prints/tela_inicial_menus_coluna.png)
 

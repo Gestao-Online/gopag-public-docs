@@ -9,11 +9,9 @@ O legal, é que o nosso portal gera uma "chave" de PIX copia e cola para cada tr
 
 O controle dos pagamentos segue normalmente na nossa plataforma da GOPag, para você acompanhar qualquer situação! 😁
 
-E só mais uma pequena observação, sobre a opção de pagamento via Pix, o parcelamento fica desabilitado.
-
 ![criar_cobranca_formas_pagamento_pix_checkout](/assets/prints/criar_cobranca_informacoes_checkout.png)
 
 
 {% hint style="danger" %}
-**Importante:**  Para a Forma de Pagamento via Pix, não existe a opção de parcelamento.
+**Importante:**  Para a Forma de Pagamento via Pix, a opção de parcelamento fica desabilitada!
 {% endhint %}

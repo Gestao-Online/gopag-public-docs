@@ -1,4 +1,4 @@
-De início você tem a Configuração da cobrança, onde pode identificar o tipo de cobrança que será gerada, o valor e escolher um dos tipos disponíveis, sendo eles:
+De início você tem a Configuração da cobrança, onde pode identificar o tipo de cobrança que será gerada, valor, e escolher um dos tipos disponíveis, sendo eles:
 
 ## [- **Avulsa**](https://docs.gopag.com.br/criar_cobranca/link_cobranca)
 

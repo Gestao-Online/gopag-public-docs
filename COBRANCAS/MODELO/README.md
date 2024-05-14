@@ -1,4 +1,4 @@
-# Cobranças Modelo
+# 📍 Cobranças Modelo
 
 
 Este é o nosso menu de Cobranças Modelo, todos os links gerados ficam registrados neste relatório e você pode acompanhar melhor as movimentações, vamos conhecer agora cada parte dele 😁:
@@ -29,7 +29,7 @@ Em cada item das Cobranças Modelo colocamos filtros para facilitar a pesquisa p
 
 <br>
 
-Também é possível usar o filtro de busca por Descrição, ele tem a mesma função que nossa Barra de Pesquisa, e você pode usar o que for mais prático para o momento:
+Também é possível usar o filtro de busca por **Descrição**, ele tem a mesma função que nossa Barra de Pesquisa, e você pode usar o que for mais prático para o momento:
 
 ![cobrancas_menu_modelo_filtro_descricao](/assets/prints/cobrancas_menu_modelo_filtro_descricao.png)
 
@@ -48,8 +48,9 @@ Já o Filtro de Status, trás todas as opções de status disponíveis, lembrand
 
 Em cada Cobrança Modelo gerada, você pode observar que na opção Detalhes, existem dois ícones:
 
-- <img src="/assets/prints/icon_olho_detalhes_transacao.png" alt="" data-size="line"> Abrirá o link de cobrança para você conferir detalhes sobre ela.
-- <img src="/assets/prints/icon_quadrado_detalhes_transacao.png" alt="" data-size="line"> Tem a mesma função, porém abrirá para você em uma nova janela.<br>
+- <img src="/assets/prints/icon_olho_detalhes_transacao.png" alt="" data-size="line"> O ícone do olhinho abrirá o link de cobrança para você conferir detalhes sobre ela.
+- <img src="/assets/prints/icon_quadrado_detalhes_transacao.png" alt="" data-size="line"> E o ícone do quadrado com a setinha, tem quase a mesma função, porém abrirá para você em uma nova janela.
+
 Passando assim, mais de uma possibilidade para acessar as informações 😉👍
 
 {% hint style="warning" %}

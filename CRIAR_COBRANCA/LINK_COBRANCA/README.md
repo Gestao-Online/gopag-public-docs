@@ -1,7 +1,7 @@
 # 🛒 Gerar Link de Cobrança
 
 
-<p>Após você clicar para Gerar o Link de Cobrança, teremos esta tela abaixo com todas as informações necessárias para que possamos acompanhar todo o processo do pagamento:</p>
+<p>Após você clicar para Gerar o Link de Cobrança, teremos esta tela abaixo, aqui estão todas as informações necessárias para que você possa acompanhar o processo do pagamento/recebimento:</p>
 
 ![criar_cobranca_gerar_link](/assets/prints/criar_cobranca_gerar_link.png)
 
