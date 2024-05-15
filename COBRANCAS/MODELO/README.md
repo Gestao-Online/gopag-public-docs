@@ -13,7 +13,7 @@ Colocamos já no início um atalho para que você possa criar uma nova cobrança
 
 ![](/assets/prints/cobrancas_menu_modelo_criar_cobranca.png)
 
-Para ficar mais fácil a busca específica por uma cobrança, você pode usar a nossa `barra de pesquisa` que está marcada na imagem abaixo:
+Para ficar mais fácil a busca específica por uma cobrança, você pode usar a nossa **`barra de pesquisa`** que está marcada na imagem abaixo:
 
 {% hint style="warning" %}
 **Importante:**  A barra de pesquisa faz uma busca somente pelo texto que foi colocado na descrição da cobrança modelo, para outro tipo de busca, confira abaixo as opções disponíveis 😉
@@ -23,19 +23,19 @@ Para ficar mais fácil a busca específica por uma cobrança, você pode usar a 
 
 <br>
 
-Em cada item das cobranças modelo colocamos filtros para facilitar a pesquisa por algo mais específico, por exemplo, a opção na `data de criação`, escolhendo data de início e término da busca, ou você pode usar um dos nossos atalhos de período que aparecem assim que se abre o calendário, abaixo uma breve demonstração de uso:
+Em cada item das cobranças modelo colocamos filtros para facilitar a pesquisa por algo mais específico, por exemplo, a opção na **`data de criação`**, escolhendo data de início e término da busca, ou você pode usar um dos nossos atalhos de período que aparecem assim que se abre o calendário, abaixo uma breve demonstração de uso:
 
 ![](/assets/prints/cobrancas_menu_modelo_filtro_data_criacao.gif)
 
 <br>
 
-Também é possível usar o filtro de busca por `Descrição`, ele tem a mesma função que nossa barra de pesquisa, e você pode usar o que for mais prático para o momento:
+Também é possível usar o filtro de busca por **`Descrição`**, ele tem a mesma função que nossa barra de pesquisa, e você pode usar o que for mais prático para o momento:
 
 ![](/assets/prints/cobrancas_menu_modelo_filtro_descricao.png)
 
 <br>
 
-Já o filtro de `status`, trás todas as opções de status disponíveis, lembrando que os filtros também podem ser utilizados em conjunto para uma busca específica:
+Já o filtro de **`status`**, trás todas as opções de status disponíveis, lembrando que os filtros também podem ser utilizados em conjunto para uma busca específica:
 
  - Sendo utilizado
  - Cancelado

@@ -49,13 +49,13 @@ Já o filtro de **`Status`**, trás todas as opções de status disponíveis, le
 
 <br>
 
-Outro filtro importante é o do `Tipo de pagamento`, onde você procura pelo método utilizado e pode filtrar melhor, ou usá-lo em conjunto com outro filtro:
+Outro filtro importante é o do **`Tipo de pagamento`**, onde você procura pelo método utilizado e pode filtrar melhor, ou usá-lo em conjunto com outro filtro:
 
 ![](/assets/prints/transacoes_menu_filtro_tipo_pagamento.png)
 
 <br>
 
-Em cada transação gerada, você pode observar que na opção `Detalhes`, temos dois ícones:
+Em cada transação gerada, você pode observar que na opção **`Detalhes`**, temos dois ícones:
 
 - <img src="/assets/prints/icon_olho_detalhes_transacao.png" alt="" data-size="line"> O ícone do olhinho abrirá o link de cobrança para você conferir detalhes sobre ela.
 - <img src="/assets/prints/icon_quadrado_detalhes_transacao.png" alt="" data-size="line"> E o ícone do quadrado com a setinha, tem quase a mesma função, porém abrirá para você em uma nova janela.
