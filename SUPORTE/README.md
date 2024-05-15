@@ -2,13 +2,13 @@
 
 Em caso de problemas com a nossa plataforma, ou algo fora do comum e que não esteja de acordo com a normalidade do nosso sistema, você pode nos contatar pelo Suporte para que nossa equipe ajude o mais rápido possível:
 
-![suporte_menu_inicio](../assets/prints/suporte_menu_inicio.png)
+![](../assets/prints/suporte_menu_inicio.png)
 
 <br>
 
 Você pode falar conosco direto pelo Whatsapp clicando no ícone, e será encaminhado ao mensageiro automaticamente, conforme exemplo abaixo:
 
-![suporte_menu_link_whatsapp](../assets/prints/suporte_menu_link_whatsapp.gif)
+![](../assets/prints/suporte_menu_link_whatsapp.gif)
 
 <br>
 
@@ -20,10 +20,10 @@ Pedimos sempre que explique bem o problema ou ajuda que está precisando, para q
 **Importante:** Na solicitação de suporte, você precisa preencher todos os campos que estão com asterisco vermelho, para que a mensagem seja enviada até nós, quando clicar no botão Enviar solicitação!
 {% endhint %}
 
-![suporte_menu_mensagem_suporte](../assets/prints/suporte_menu_mensagem_suporte.png)
+![](../assets/prints/suporte_menu_mensagem_suporte.png)
 
 <br>
 
 Você pode também nos enviar um e-mail em caso de ajuda ou dúvida, para o contato@gopag.com.br, lembrando de tentar explicar o mais detalhadamente possível a situação para que possamos te ajudar o mais breve possível, conforme exemplo abaixo:
 
-![suporte_menu_mensagem_email](../assets/prints/suporte_menu_menssagem_email.gif)
+![](../assets/prints/suporte_menu_mensagem_email.gif)
