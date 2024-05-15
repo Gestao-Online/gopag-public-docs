@@ -10,7 +10,7 @@ Qual o tipo de cobrança você está gerando? clique abaixo na de sua preferênc
 |[Gerar Link cobrança Avulsa](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_modelo) | [Gerar Link cobrança Modelo](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_avulsa) | 
 |-                          |-                           |
 
-<!--  USAR ESTA TABELA  QUANDO ESTIVER PRONTA A cOBRANÇA REcORRENTE
+<!--  USAR ESTA TABELA  QUANDO ESTIVER PRONTA A COBRANÇA RECORRENTE
 
 |[Gerar Link cobrança Avulsa](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_modelo) | [Gerar Link cobrança Modelo](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_avulsa) | [Gerar Link cobrança Recorrente](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_recorrente) |
 |-                          |-                           |-                               | -->

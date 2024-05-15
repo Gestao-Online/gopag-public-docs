@@ -10,8 +10,8 @@ Porém com suas informações de saldo!
 
 Agora, voltando nossa atenção para o canto superior direito da tela, podemos visualizar um campo com seu nome incluso. Clicando sobre este campo, uma janelinha irá aparecer logo abaixo do seu nome com algumas informações:
 
-- Nome da empresa e o CNPJ da mesma, isso para planos de conta do tipo Pessoa Jurídica;
-- Nome da pessoa e CPF, este sendo para Pessoas Físicas; 
+- Nome da empresa e o CNPJ da mesma, isso para planos de conta do tipo pessoa jurídica;
+- Nome da pessoa e CPF, este sendo para pessoas físicas; 
 - A última opção é a de sair/logout da conta.
 
 Você pode observar esses detalhes na imagem abaixo:

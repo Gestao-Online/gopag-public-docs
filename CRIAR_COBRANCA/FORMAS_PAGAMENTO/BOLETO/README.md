@@ -20,7 +20,7 @@ Observe que um novo menu de opções será mostrado:
 
 Neste menu será possível configurar a multa de atraso do boleto, podendo cobrar até 2% sobre o valor de pagamento em caso de atrasos. 
 
-Nós colocamos duas opções, e você define se será em dinheiro ou porcentagem (a plataforma da GOPag corrige o valor automaticamente para você, caso coloque acima do padrão de 2% estabelecido pelo código Tributário Nacional 😅)
+Nós colocamos duas opções, e você define se será em dinheiro ou porcentagem (a plataforma da GOPag corrige o valor automaticamente para você, caso coloque acima do padrão de 2% estabelecido pelo Código Tributário Nacional 😅)
 
 ![](/assets/prints/criar_cobranca_formas_pagamento_boleto_3.png)
 
@@ -28,7 +28,7 @@ Nós colocamos duas opções, e você define se será em dinheiro ou porcentagem
 
 Pode também configurar o juro mora ou moratórios, podendo ser em dinheiro ou porcentagem conforme imagem abaixo. 
 
-Esses juros consistem em uma taxa aplicada sobre o atraso no pagamento de uma conta, sendo possível colocar 1% ao mês no máximo, conforme estabelecido pelo código Tributário Nacional:
+Esses juros consistem em uma taxa aplicada sobre o atraso no pagamento de uma conta, sendo possível colocar 1% ao mês no máximo, conforme estabelecido pelo Código Tributário Nacional:
 
 ![](/assets/prints/criar_cobranca_formas_pagamento_boleto_4.png)
 

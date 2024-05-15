@@ -1,6 +1,6 @@
 # 💸 Formas de pagamento
 
-Após preencher os dados iniciais da cobrança, você pode limitar as formas de pagamento para o cliente, sendo elas cartão de crédito (e a quantidade de parcelas), Pix e/ou Boleto.
+Após preencher os dados iniciais da cobrança, você pode limitar as formas de pagamento para o cliente, sendo elas cartão de crédito (e a quantidade de parcelas), pix e/ou boleto.
 
 
 {% hint style="warning" %}
