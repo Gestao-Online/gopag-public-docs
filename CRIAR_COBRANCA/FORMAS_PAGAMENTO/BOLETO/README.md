@@ -46,6 +46,9 @@ Nesta parte em laranja mais claro, tem um simulador de valores em caso de atraso
 
 <br>
 
+Logo, para o cliente irá aparecer da seguinte forma para ele preencher os dados e logo após ter acesso ao boleto para pagamento:
+![](/assets/prints/criar_cobranca_formas_pagamento_boleto__7.gif)
+
 {% hint style="warning" %}
 **Importante:**  Para a Forma de Pagamento via Boleto bancário, não existe a opção de parcelamento.
 {% endhint %}
