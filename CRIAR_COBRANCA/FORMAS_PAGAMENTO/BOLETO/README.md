@@ -8,13 +8,13 @@ Na forma de pagamento Boleto Bancário, o prazo de compensação é de até 48h 
 {% endhint %}
 
 
-![criar_cobranca_formas_pagamento_boleto_1](/assets/prints/criar_cobranca_formas_pagamento_boleto_1.gif)
+![](/assets/prints/criar_cobranca_formas_pagamento_boleto_1.gif)
 
 <br>
 
 <p>Observe que um novo menu de opções será mostrado:</p>
 
-![criar_cobranca_formas_pagamento_boleto_2](/assets/prints/criar_cobranca_formas_pagamento_boleto_2.png)
+![](/assets/prints/criar_cobranca_formas_pagamento_boleto_2.png)
 
 <br>
 
@@ -22,7 +22,7 @@ Neste menu será possível configurar a Multa de atraso do boleto, podendo cobra
 
 Nós colocamos duas opções, e você define se será em dinheiro ou porcentagem (a plataforma da GOPag corrige o valor automaticamente para você, caso coloque acima do padrão de 2% estabelecido pelo Código Tributário Nacional 😅)
 
-![criar_cobranca_formas_pagamento_boleto_3](/assets/prints/criar_cobranca_formas_pagamento_boleto_3.png)
+![](/assets/prints/criar_cobranca_formas_pagamento_boleto_3.png)
 
 <br>
 
@@ -30,19 +30,19 @@ Pode também configurar o Juro Mora ou Moratórios, podendo ser em dinheiro ou p
 
 Esses Juros consistem em uma taxa aplicada sobre o atraso no pagamento de uma conta, sendo possível colocar 1% ao mês no máximo, conforme estabelecido pelo Código Tributário Nacional:
 
-![criar_cobranca_formas_pagamento_boleto_4](/assets/prints/criar_cobranca_formas_pagamento_boleto_4.png)
+![](/assets/prints/criar_cobranca_formas_pagamento_boleto_4.png)
 
 <br>
 
 Finalizando então com a Data Limite Para Pagamento, podendo o boleto ser pago no período que você definir, sendo o prazo máximo até 90 dias, após isso o cliente precisará entrar em contato com você para a emissão de um novo Boleto:
 
-![criar_cobranca_formas_pagamento_boleto_5](/assets/prints/criar_cobranca_formas_pagamento_boleto_5.png)
+![](/assets/prints/criar_cobranca_formas_pagamento_boleto_5.png)
 
 <br>
 
 Nesta parte em laranja mais claro, tem um simulador de valores em caso de atraso, para que você confira as variações de valores de acordo com os dias de atraso:
 
-![criar_cobranca_formas_pagamento_boleto_6](/assets/prints/criar_cobranca_formas_pagamento_boleto_6.png)
+![](/assets/prints/criar_cobranca_formas_pagamento_boleto_6.png)
 
 <br>
 
