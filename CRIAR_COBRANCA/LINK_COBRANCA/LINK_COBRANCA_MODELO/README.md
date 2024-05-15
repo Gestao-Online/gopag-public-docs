@@ -1,7 +1,7 @@
 # Link de cobrança modelo
 
 
-Após você clicar para `gerar o link de cobrança`, teremos esta tela abaixo com todas as informações necessárias para que possamos acompanhar todo o processo do pagamento:
+Após você clicar para **`gerar o link de cobrança`**, teremos esta tela abaixo com todas as informações necessárias para que possamos acompanhar todo o processo do pagamento:
 
 ![](/assets/prints/criar_cobranca_modelo.png)
 
