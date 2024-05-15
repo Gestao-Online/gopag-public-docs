@@ -8,7 +8,7 @@ Quando falamos de cobrança do tipo Avulsa nos referimos a um pagamento único o
 ## [- **Modelo**](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_modelo)
 
 
-A cobrança modelo ao ser gerada, cria um link único que pode ser utilizado diversas vezes para pagamento de um valor fixo, e para cada transação nesse único link você terá um relatório completo de quem efetuou o pagamento, tudo isso e muito mais na nossa  plataforma da GOPag.
+A cobrança modelo ao ser gerada, cria um link único que pode ser utilizado diversas vezes para pagamento de um valor fixo, e para cada transação nesse único link você terá a informação completa de quem efetuou o pagamento, tudo isso e muito mais na nossa  plataforma da GOPag.
 
 
 <!-- # [- **Recorrente**](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_recorrente)

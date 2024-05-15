@@ -1,11 +1,11 @@
 # 📍 Cobranças Modelo
 
 
-Este é o nosso menu de Cobranças Modelo, todos os links gerados ficam registrados neste relatório e você pode acompanhar melhor as movimentações, vamos conhecer agora cada parte dele 😁:
+Este é o nosso menu de Cobranças Modelo, todos os links gerados ficam registrados aqui e você pode acompanhar melhor as movimentações, vamos conhecer agora cada parte dele 😁:
 
 ![cobrancas_menu_modelo](/assets/prints/cobrancas_menu_modelo.png)
 
-Colocamos já no início um atalho para que você possa criar uma nova cobrança enquanto estiver vendo os relatórios clicando aqui nesta opção:
+Colocamos já no início um atalho para que você possa criar uma nova cobrança enquanto estiver vendo os links de cobrança gerados, clicando aqui nesta opção:
 
 {% hint style="warning" %}
 **Importante:** Caso queira mais informações sobre Criar Cobrança [clique aqui ](https://docs.gopag.com.br/criar_cobranca) para acessar a explicação completa dessa função.
@@ -61,7 +61,7 @@ Passando assim, mais de uma possibilidade para acessar as informações 😉👍
 
 <br>
 
-Aqui na Paginação, logo na parte final do relatório, e você também pode aumentar a quantidade visível de cobranças mostradas para até 1000 itens na página:
+A paginação na parte final, onde você pode aumentar a quantidade visível de cobranças mostradas para até 1000 itens na página:
 
 ![cobrancas_menu_modelo_paginacao_1](/assets/prints/cobrancas_menu_avulsa_paginacao.png)
 <p>.</p>

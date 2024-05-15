@@ -70,7 +70,7 @@ Passando assim, mais de uma possibilidade para acessar as informações 😉👍
 
 <br>
 
-Logo na parte final do relatório fica a paginação, onde você pode aumentar a quantidade visível de cobranças mostradas para até 1000 itens na página:
+Logo na parte final das transações fica a paginação, onde você pode aumentar a quantidade visível de cobranças mostradas para até 1000 itens na página:
 
 ![](/assets/prints/cobrancas_menu_avulsa_paginacao.png)
 <p>.</p>
