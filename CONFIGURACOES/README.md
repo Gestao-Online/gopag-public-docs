@@ -2,7 +2,7 @@
 
 Aqui você encontra as configurações do usuário, nestes quatro cards que veremos o primeiro deles é o único que já mostra os dados que você nos passou no ato da contratação do nosso portal 😊
 
-![configuracoes_menu](../assets/prints/configuracoes_menu.png)
+![](../assets/prints/configuracoes_menu.png)
 
 <br>
 
@@ -12,11 +12,13 @@ Agora no segundo card você vê a opção de alterar a senha, observe que deixam
 **Importante:** As senhas seguem algumas regras para serem aceitas, precisa ter no mínimo 8 caracteres, dentre eles Letra Minúscula (a - z), Letra Maiúscula (A - Z) e Número (0 - 9).
 {% endhint %}
 
-![configuracoes_menu_alterar_senha](../assets/prints/configuracoes_menu_alterar_senha.gif)
+![](../assets/prints/configuracoes_menu_alterar_senha.gif)
 
-Mais abaixo, tem a opção de alterar a imagem do perfil, nós pedimos apenas alguns requisitos, para que tudo funcione direitinho no nosso portal, essa imagem precisa ter um dos seguintes formatos, PNG, JPEG ou SVG. O tamanho também tem um limite, que é de apenas 5MB, confira abaixo o passo a passo para substituição da sua foto de perfil:
+Mais abaixo, tem a opção de alterar a imagem do perfil, nós pedimos apenas alguns requisitos, para que tudo funcione direitinho no nosso portal, essa imagem precisa ter um dos seguintes formatos, PNG, JPEG ou SVG. 
 
-![configuracoes_menu_alterar_foto_perfil](../assets/prints/configuracoes_menu_alterar_foto_perfil.gif)
+O tamanho também tem um limite, que é de apenas 5MB, confira abaixo o passo a passo para substituição da sua foto de perfil:
+
+![](../assets/prints/configuracoes_menu_alterar_foto_perfil.gif)
 
 <br>
 
@@ -26,6 +28,6 @@ O mesmo também se aplica a logo da sua empresa, você pode configurá-la igual 
 **Detalhe:** As regras de imagem da logo da empresa são as mesmas para a foto de perfil descritos acima. Ou seja, a imagem precisa ter um dos seguintes formatos, PNG, JPEG ou SVG. O tamanho também tem um limite que é de apenas 5MB!
 {% endhint %}
 
-![configuracoes_menu_alterar_foto_empresa](../assets/prints/configuracoes_menu_alterar_foto_empresa.png)
+![](../assets/prints/configuracoes_menu_alterar_foto_empresa.png)
 
 

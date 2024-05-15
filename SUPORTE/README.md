@@ -24,6 +24,6 @@ Pedimos sempre que explique bem o problema ou ajuda que está precisando, para q
 
 <br>
 
-Você pode também nos enviar um e-mail em caso de ajuda ou dúvida, para o contato@gopag.com.br, lembrando de tentar explicar o mais detalhadamente possível a situação para que possamos te ajudar o mais breve possível, conforme exemplo abaixo:
+Você pode também nos enviar um e-mail em caso de ajuda ou dúvida, para o suporte@gopag.com.br, lembrando de tentar explicar o mais detalhadamente possível a situação para que possamos te ajudar o mais breve possível, conforme exemplo abaixo:
 
 ![](../assets/prints/suporte_menu_mensagem_email.gif)

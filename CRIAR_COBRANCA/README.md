@@ -16,4 +16,4 @@ A cobrança modelo ao ser gerada, cria um link único que pode ser utilizado div
 <p>O pagamento recorrente é um método de cobrança periódica, feita com recorrência mensal, quinzenal ou anual enquanto o contrato de serviço durar. Entre os serviços que utilizam o sistema de pagamento recorrente, podemos falar de cursos, contabilidade, mensalidade escolar, honorários, editoras e empresas de telecomunicações.</p> -->
 
 
-![tela_inicial_menu_criar_cobranca](../assets/prints/criar_cobranca.gif)
+![](../assets/prints/criar_cobranca.gif)

@@ -16,7 +16,7 @@ Bem fácil de se utilizar, bastando inserir o valor desejado para a simulação 
 
 <br>
 
-No `Tipo de pagamento` colocamos duas opções, a online e presencial, o cálculo é feito com doze parcelas e incluso até o cartão de débito, lembrando que o cartão de débito funciona somente no modo presencial:
+No **`Tipo de pagamento`** colocamos duas opções, a online e presencial, o cálculo é feito com doze parcelas e incluso até o cartão de débito, lembrando que o cartão de débito funciona somente no modo presencial:
 
 ![](/assets/prints/simulador_menu_tipo_pagamento.png)
 
@@ -30,7 +30,7 @@ Logo ao clicar no botão [Criar cobrança](https://docs.gopag.com.br/criar_cobra
 **Informação:** As taxas que são cobradas pela plataforma da GOPag, não são repassadas automaticamente para seus clientes, elas são aplicadas em todos os meios de pagamento, seja cartão de crédito, pix ou boleto. Quando se [cria uma cobrança](https://docs.gopag.com.br/criar_cobranca), é necessário você mesmo calcular e preencher o campo taxa adicional.
 {% endhint %}
 
-No menu simular venda, você pode marcar o botão `Repassar taxas` para saber qual valor será necessário repassar ao cliente (caso seja este o seu desejo) e então criar uma cobrança já baseada nesse valor, confira abaixo o exemplo do simulador:
+No menu simular venda, você pode marcar o botão **`Repassar taxas`** para saber qual valor será necessário repassar ao cliente (caso seja este o seu desejo) e então criar uma cobrança já baseada nesse valor, confira abaixo o exemplo do simulador:
 
 ![](/assets/prints/taxas_card_simulacao_venda.png)
 

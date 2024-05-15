@@ -5,11 +5,11 @@ O sistema de pagamento PIX no Brasil também adotou uma forma profissional de re
 O legal, é que o nosso portal gera uma "chave" de PIX copia e cola para cada transação, dessa forma, o cliente realiza pagamentos de maneira instantânea bastando ler esse QRcode ou usar o PIX copia e cola.
 
 
-![criar_cobranca_formas_pagamento_pix](/assets/prints/criar_cobranca_formas_pagamento_pix.gif)
+![](/assets/prints/criar_cobranca_formas_pagamento_pix.gif)
 
 O controle dos pagamentos segue normalmente na nossa plataforma da GOPag, para você acompanhar qualquer situação! 😁
 
-![criar_cobranca_formas_pagamento_pix_checkout](/assets/prints/criar_cobranca_informacoes_checkout.png)
+![](/assets/prints/criar_cobranca_informacoes_checkout.png)
 
 
 {% hint style="danger" %}
