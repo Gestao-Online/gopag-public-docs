@@ -1,3 +1,3 @@
-# Link de Cobrança Recorrente
+# Link de cobrança recorrente
 
 ![ERRO_404](/assets/prints/erro404.jpg)

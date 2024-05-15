@@ -1,4 +1,4 @@
-# Menu Transações
+# Menu transações
 
 Com nosso plataforma da GOPag sendo omnichannel, neste menu estão organizadas para você todas as transações realizadas, por máquinas MPOS(Mobile Point os Sale), POS(Point of Sale), PIN Pad, TEF e até mesmo E-commerces parceiros. 
 
@@ -49,7 +49,7 @@ Já o filtro de `Status`, trás todas as opções de status disponíveis, lembra
 
 <br>
 
-Outro filtro importante é o do `Tipo de Pagamento`, onde você procura pelo método utilizado e pode filtrar melhor, ou usá-lo em conjunto com outro filtro:
+Outro filtro importante é o do `Tipo de pagamento`, onde você procura pelo método utilizado e pode filtrar melhor, ou usá-lo em conjunto com outro filtro:
 
 ![](/assets/prints/transacoes_menu_filtro_tipo_pagamento.png)
 

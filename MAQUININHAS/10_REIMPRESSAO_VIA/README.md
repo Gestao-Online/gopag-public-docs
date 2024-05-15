@@ -6,7 +6,7 @@
 
 <br>
 
-**Passo 2 -** Selecione a opção "<mark style="color:orange;background-color:white;">4- Reimpressão de Via</mark>" ou tecle o número 4.
+**Passo 2 -** Selecione a opção "<mark style="color:orange;background-color:white;">4- Reimpressão de via</mark>" ou tecle o número 4.
 
 <br>
 

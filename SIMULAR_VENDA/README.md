@@ -6,7 +6,7 @@
 
 <br>
 
-Bem fácil de se utilizar, bastando inserir o valor desejado para a simulação de Taxas e parcelas, são quatro funções disponíveis, entre elas, o valor que você quer cobrar, que seria o da cobrança em si, o tipo de pagamento, se será online ou presencial e qual a bandeira do cartão a ser utilizado.
+Bem fácil de se utilizar, bastando inserir o valor desejado para a simulação de taxas e parcelas, são quatro funções disponíveis, entre elas, o valor que você quer cobrar, que seria o da cobrança em si, o tipo de pagamento, se será online ou presencial e qual a bandeira do cartão a ser utilizado.
 
 {% hint style="warning" %}
 **Detalhe:**  Cada bandeira de cartão pode ter variação na porcentagem de taxa a ser cobrada, observe bem estes valores 😉
@@ -27,10 +27,10 @@ Logo ao clicar no botão [Criar cobrança](https://docs.gopag.com.br/criar_cobra
 ![](/assets/prints/taxas_card_configuracao_parcelas_e_taxas.png)
 
 {% hint style="danger" %}
-**Informação:** As taxas que são cobradas pela plataforma da GOPag, não são repassadas automaticamente para seus clientes, elas são aplicadas em todos os meios de pagamento, seja cartão de crédito, pix ou boleto. Quando se [cria uma cobrança](https://docs.gopag.com.br/criar_cobranca), é necessário você mesmo calcular e preencher o campo Taxa adicional.
+**Informação:** As taxas que são cobradas pela plataforma da GOPag, não são repassadas automaticamente para seus clientes, elas são aplicadas em todos os meios de pagamento, seja cartão de crédito, pix ou boleto. Quando se [cria uma cobrança](https://docs.gopag.com.br/criar_cobranca), é necessário você mesmo calcular e preencher o campo taxa adicional.
 {% endhint %}
 
-No menu simular venda, você pode marcar o botão `Repassar Taxas` para saber qual valor será necessário repassar ao cliente (caso seja este o seu desejo) e então criar uma cobrança já baseada nesse valor, confira abaixo o exemplo do simulador:
+No menu simular venda, você pode marcar o botão `Repassar taxas` para saber qual valor será necessário repassar ao cliente (caso seja este o seu desejo) e então criar uma cobrança já baseada nesse valor, confira abaixo o exemplo do simulador:
 
 ![](/assets/prints/taxas_card_simulacao_venda.png)
 

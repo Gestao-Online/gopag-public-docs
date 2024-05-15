@@ -1,4 +1,4 @@
-# Menu Planos GOPag
+# Menu planos GOPag
 
 Ficou interessado no nosso sistema? Ainda não faz uso da nossa plataforma? Então não perca tempo e fale com o nosso comercial, nós temos a melhor condição para você. 
 

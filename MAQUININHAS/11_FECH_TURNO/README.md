@@ -1,4 +1,4 @@
-# Fechamento de Turno
+# Fechamento de turno
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-**Passo 3 -** Confira a data e Horário do Início do turno.
+**Passo 3 -** Confira a data e horário do Início do turno.
 
 <br>
 

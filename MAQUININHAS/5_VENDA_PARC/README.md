@@ -1,9 +1,9 @@
-# Parcelando uma Venda
+# Parcelando uma venda
 
 ![maquininha_parcelar_venda_1](/assets/prints/maquininha_parcelar_venda_1.png)
 
 
-**Passo 1 -** Inicie uma Venda. Digite o valor da venda utilizando o teclado numérico, após digitar o valor, clique em "<mark style="color:orange;background-color:white;">Confirmar</mark>".
+**Passo 1 -** Inicie uma venda. Digite o valor da venda utilizando o teclado numérico, após digitar o valor, clique em "<mark style="color:orange;background-color:white;">Confirmar</mark>".
 
 <br>
 

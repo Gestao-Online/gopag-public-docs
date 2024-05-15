@@ -1,4 +1,4 @@
-# ↕️ Menus de Navegação
+# ↕️ Menus de navegação
 
 Ao acessar seu ambiente GOPag, nesse primeiro momento será a hora de conhecer a aplicação que está utilizando!
 

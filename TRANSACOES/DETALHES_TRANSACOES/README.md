@@ -1,4 +1,4 @@
-# Detalhes Transações
+# Detalhes transações
 
 Agora no detalhamento de cada transação existem alguns pontos importantes a tratar, de início a tela que você verá será parecida com esta:
 
@@ -13,11 +13,11 @@ Já no primeiro card podemos ver o `Status` do pagamento, que pode ter as opçõ
 - Pendente
 - Falha
 - Novo
-- Pré-Autorizado
+- Pré-autorizado
 - Revertido
 - Reembolsado
 - Disputa
-- Charged Back
+- Charged back
 
 Enquanto que no segundo card podemos ver a data e hora da transação. Fechamos com o terceiro card exibindo qual foi a forma de pagamento utilizada pelo cliente:
 
@@ -25,7 +25,7 @@ Enquanto que no segundo card podemos ver a data e hora da transação. Fechamos 
 
 <br>
 
-No quarto card pode ver os `Dados do vendedor` e descrição do Link de cobrança gerado, enquanto no quinto card podemos ver os `Dados do pagador`, sendo eles, nome, quantidade de Parcelas que esse cliente utilizou (Dependendo do tanto que você determinou ao criar o link de cobrança), o número do cartão que foi utilizado e validade do mesmo. Além do código de autorização e código de NSU que usamos para identificar cada transação de cartão, seja crédito ou débito. 😉
+No quarto card pode ver os `Dados do vendedor` e descrição do link de cobrança gerado, enquanto no quinto card podemos ver os `Dados do pagador`, sendo eles, nome, quantidade de parcelas que esse cliente utilizou (Dependendo do tanto que você determinou ao criar o link de cobrança), o número do cartão que foi utilizado e validade do mesmo. Além do código de autorização e código de NSU que usamos para identificar cada transação de cartão, seja crédito ou débito. 😉
 
 ![](/assets/prints/transacoes_menu_detalhe_transacao_card_4_e_5.png)
 
@@ -35,7 +35,7 @@ Logo no sexto card você pode visualizar os `Detalhes da transação`, tais como
 
 ![](/assets/prints/transacoes_menu_detalhe_transacao_card_6.png)
 
-Na parte inicial da tela de detalhes da transação você pode ver um botão chamado `Estornar Pagamento`, esse botāo faz com o que os pagamentos em cartāo de crédito ou PIX seja cancelado (os valores serāo devolvidos):
+Na parte inicial da tela de detalhes da transação você pode ver um botão chamado `Estornar pagamento`, esse botāo faz com o que os pagamentos em cartāo de crédito ou PIX seja cancelado (os valores serāo devolvidos):
 
 {% hint style="warning" %}
 **Importante:** Este recurso `Estornar pagamento` não está disponível para boleto bancário.
@@ -47,13 +47,13 @@ Na parte inicial da tela de detalhes da transação você pode ver um botão cha
 
 <br>
 
-Em caso de uso do boleto, existem algumas diferenças nas informações de pagamento, no caso abaixo temos a linha digitável do boleto, a Descrição com o dia/horário que foi efetuado o pagamento:
+Em caso de uso do boleto, existem algumas diferenças nas informações de pagamento, no caso abaixo temos a linha digitável do boleto, a descrição com o dia/horário que foi efetuado o pagamento:
 
 ![](/assets/prints/transacoes_menu_detalhe_transacao_boleto.png)
 
 <br>
 
-Outra parte interessante é que dos botões disponíveis você pode conferir o link disponibilizado ao cliente, ou até mesmo ver o Boleto que foi emitido para o cliente, conforme a demonstração abaixo:
+Outra parte interessante é que dos botões disponíveis você pode conferir o link disponibilizado ao cliente, ou até mesmo ver o boleto que foi emitido para o cliente, conforme a demonstração abaixo:
 
 ![](/assets/prints/transacoes_menu_detalhe_transacao_boleto_1.gif)
 

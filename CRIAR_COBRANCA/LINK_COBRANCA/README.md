@@ -1,16 +1,16 @@
-# 🛒 Gerar Link de Cobrança
+# 🛒 Gerar link de cobrança
 
 
-<p>Após você clicar para Gerar o Link de Cobrança, teremos esta tela abaixo, aqui estão todas as informações necessárias para que você possa acompanhar o processo do pagamento/recebimento:</p>
+Após você clicar para gerar o link de cobrança, teremos esta tela abaixo, aqui estão todas as informações necessárias para que você possa acompanhar o processo do pagamento/recebimento:
 
-![criar_cobranca_gerar_link](/assets/prints/criar_cobranca_gerar_link.png)
+![](/assets/prints/criar_cobranca_gerar_link.png)
 
-Qual o tipo de cobrança você está gerando? Clique abaixo na de sua preferência e veja mais informações sobre ela:
+Qual o tipo de cobrança você está gerando? clique abaixo na de sua preferência e veja mais informações sobre ela:
 
-|[Gerar Link Cobrança Avulsa](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_modelo) | [Gerar Link Cobrança Modelo](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_avulsa) | 
+|[Gerar Link cobrança Avulsa](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_modelo) | [Gerar Link cobrança Modelo](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_avulsa) | 
 |-                          |-                           |
 
-<!--  USAR ESTA TABELA  QUANDO ESTIVER PRONTA A COBRANÇA RECORRENTE
+<!--  USAR ESTA TABELA  QUANDO ESTIVER PRONTA A cOBRANÇA REcORRENTE
 
-|[Gerar Link Cobrança Avulsa](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_modelo) | [Gerar Link Cobrança Modelo](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_avulsa) | [Gerar Link Cobrança Recorrente](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_recorrente) |
+|[Gerar Link cobrança Avulsa](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_modelo) | [Gerar Link cobrança Modelo](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_avulsa) | [Gerar Link cobrança Recorrente](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_recorrente) |
 |-                          |-                           |-                               | -->

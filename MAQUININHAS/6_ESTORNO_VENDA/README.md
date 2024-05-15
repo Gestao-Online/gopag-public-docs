@@ -10,7 +10,7 @@
 
 <br>
 
-**Passo 3 -** Selecione a primeira opção "<mark style="color:orange;background-color:white;">1- Cancelar Venda</mark>" ou tecle 1.
+**Passo 3 -** Selecione a primeira opção "<mark style="color:orange;background-color:white;">1- Cancelar venda</mark>" ou tecle 1.
 
 <br>
 

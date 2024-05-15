@@ -1,4 +1,4 @@
-# Realizando uma Venda
+# Realizando uma venda
 
 ![maquininha_realizar_venda_1](/assets/prints/maquininha_realizar_venda_1.png)
 
