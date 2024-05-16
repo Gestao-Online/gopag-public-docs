@@ -36,7 +36,7 @@ Qual o tipo de cobrança você está gerando? clique abaixo na de sua preferênc
                     <a href="/CRIAR_COBRANCA/LINK_COBRANCA/LINK_COBRANCA_AVULSA/README.md">README.md</a>
                 </td>
                 <td>
-                    <a href="/assets/icon_cobranca_avulsa.png">icon_cobranca_avulsa.png</a>
+                    <a href="/assets/prints/icon_cobranca_avulsa.png">icon_cobranca_avulsa.png</a>
                 </td>
             </tr>
             <tr>
@@ -49,7 +49,7 @@ Qual o tipo de cobrança você está gerando? clique abaixo na de sua preferênc
                     <a href="/CRIAR_COBRANCA/LINK_COBRANCA/LINK_COBRANCA_MODELO/README.md">README.md</a>
                 </td>
                 <td>
-                    <a href="/assets/icon_cobranca_modelo.png">icon_cobranca_modelo.png</a>
+                    <a href="/assets/prints/icon_cobranca_modelo.png">icon_cobranca_modelo.png</a>
                 </td>
             </tr>
         </tbody>
