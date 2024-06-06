@@ -18,7 +18,7 @@
 * [🔄️ Transações](TRANSACOES/README.md)
     * [📝 Detalhes Transações](TRANSACOES/DETALHES_TRANSACOES/README.md)
 * [🔢 Simular venda](SIMULAR_VENDA/README.md)
-* [🧾 Relatórios](RELATORIOS/README.md)
+* [🧾 Relatórios.](RELATORIOS/README.md)
 * [🆘 Suporte](SUPORTE/README.md)
 * [⚙️ Configurações](CONFIGURACOES/README.md)
 * [💲 Planos GOPag](PLANOS_GOPAG/README.md)
