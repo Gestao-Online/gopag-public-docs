@@ -1,3 +1,9 @@
+# ➕ Criar cobrança
+
+Deixamos facilitado o acesso a criação de uma cobraça, já no momento que você faz login na nossa plataforma da GOPag o botão de criar cobrança fica disponível pra você clicar:
+
+![](../assets/prints/criar_cobranca_dashboard.gif)
+
 De início você tem a configuração da cobrança, onde pode identificar o tipo de cobrança que será gerada, valor, e escolher um dos tipos disponíveis, sendo eles:
 
 ## [- **Avulsa**](https://docs.gopag.com.br/criar_cobranca/link_cobranca)
