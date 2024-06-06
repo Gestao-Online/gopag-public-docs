@@ -1,6 +1,6 @@
 # ➕ Criar cobrança
 
-Deixamos facilitado o acesso a criação de uma cobraça, já no momento que você faz login na nossa plataforma da GOPag o botão de criar cobrança fica disponível pra você clicar:
+Deixamos facilitado o acesso a criação de uma cobrança, já no momento que você faz login na nossa plataforma da GOPag o botão de criar cobrança fica disponível pra você clicar:
 
 ![](../assets/prints/criar_cobranca_dashboard.gif)
 
