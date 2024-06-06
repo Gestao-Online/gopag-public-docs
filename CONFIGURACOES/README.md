@@ -42,11 +42,15 @@ O mesmo também se aplica a `Logo da empresa`, você pode configurá-la igual o 
 
 ### Alterar política de recebimento
 
-Outra configuração importante presente na plataforma é a oção de `Alterar politica de recebimento` você pode deixar automática ou manual as transferências de valores.
+No dashboard da plataforma da GOPag, você tem um atalho para definir o tipo de recebimento, o atalho vai levar você para a página de configurações:
+
+![](../assets/prints/tela_inicial_tipo_saque.gif)
+
+Uma configuração importante presente na plataforma é a opção de `Alterar politica de recebimento` você pode deixar automática ou manual as transferências de valores.
 
 Quando esta opção está ativada, você precisa definir o intervalo de transferência entre diário, semanal ou mensal (No modo mensal você pode definir o dia que ocorrerá a transferência, caso queira).
 
-No útlimo campo você define qual a menor quantia em dinheiro que pode ser transferida. Veja o exemplo abaixo:
+No último campo você define qual a menor quantia em dinheiro que pode ser transferida. Veja o exemplo abaixo:
 
 ![](../assets/prints/configuracoes_menu_alterar_politica.gif)
 
@@ -54,15 +58,15 @@ No útlimo campo você define qual a menor quantia em dinheiro que pode ser tran
 
 ## Conta bancária
 
-Fechando a opções do menu de configurações, temos a `Conta bancária`, você pode cadastar mais de uma conta, e definir para onde irá as transferências.
+Fechando a opções do menu de configurações, temos a `Conta bancária`, você pode cadastrar mais de uma conta, e definir para onde irá as transferências.
 
 ![](../assets/prints/configuracoes_menu_conta_bancaria.png)
 
-Caso você queria a troca de conta por uma outra já cadastrada, um aviso será mostrado a você para confirmar a alteração, observe abaixo:
+Caso você queira a troca de conta por uma outra já cadastrada, um aviso será mostrado a você para confirmar a alteração, observe abaixo:
 
 ![](../assets/prints/configuracoes_menu_conta_alterar.gif)
 
-Mas não fica só por aí, caso queria adicionar uma nova conta bancári, basta clicar no botão `Cadastrar conta` do lado esquerdo da tela:
+Mas não fica só por aí, caso queira adicionar uma nova conta bancária, basta clicar no botão `Cadastrar conta` do lado esquerdo da tela:
 
 ![](../assets/prints/configuracoes_menu_conta_btn_add.png)
 
