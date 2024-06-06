@@ -36,7 +36,7 @@ Basta clicar no link abaixo e será encaminhado para um de nossos atendentes, e 
 </table>
 
 
-### 🧑‍💻 [Fale Conosco!](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%2C%20gostaria%20de%20informações%20sobre%20os%20planos%20da%20GOpag)
+<!-- ### 🧑‍💻 [Fale Conosco!](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%2C%20gostaria%20de%20informações%20sobre%20os%20planos%20da%20GOpag) -->
 
 
 ![](https://gopag.com.br/loja/assets/img/logo.png)
