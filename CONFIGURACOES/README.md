@@ -28,6 +28,4 @@ O mesmo também se aplica a logo da sua empresa, você pode configurá-la igual 
 **Detalhe:** As regras de imagem da logo da empresa são as mesmas para a foto de perfil descritos acima. Ou seja, a imagem precisa ter um dos seguintes formatos, PNG, JPEG ou SVG. O tamanho também tem um limite que é de apenas 5MB!
 {% endhint %}
 
-![](../assets/prints/configuracoes_menu_alterar_foto_empresa.png)
-
-
+![](../assets/prints/configuracoes_menu_alterar_foto_empresa.gif)

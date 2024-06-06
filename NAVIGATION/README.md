@@ -6,7 +6,7 @@ Sua tela inicial será similar ao que consta na imagem da tela teste abaixo:
 
 ![](../assets/prints/tela_inicial.png)
 
-Porém com suas informações de saldo!
+**Porém, com suas informações de saldo!**
 
 Agora, voltando nossa atenção para o canto superior direito da tela, podemos visualizar um campo com seu nome incluso. Clicando sobre este campo, uma janelinha irá aparecer logo abaixo do seu nome com algumas informações:
 
