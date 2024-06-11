@@ -2,11 +2,11 @@
 
 <!-- Os relatórios gerados pela plataforma da GOPag, oferecem benefícios como decisões assertivas, controle de estoque, conformidade regulatória e análise de desempenho. Eles basicamente são ferramentas essenciais para uma gestão eficiente, se baseando nos dados gerados: -->
 
-Os relatorios podem ser gerados de forma simples.... sendo somente para extratos de vmovimentaçoes bancarias.....
+Os relatorios podem ser gerados de forma simples, apenas com alguns cliques. Lembrando que eles são extratos de movimentações bancarias
 
 
 {% hint style="warning" %}
-**Importante:** Os relatórios dos extratos podem ser gerados em dois formatos, PDF ou Excel, escolha o que melhor se aplicará para você.
+**Importante:** Os extratos podem ser gerados em dois formatos, PDF ou Excel, escolha o que melhor se aplicará para você.
 {% endhint %}
 
 ![](../assets/prints/relatorios_menu.png)
