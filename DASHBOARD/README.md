@@ -10,7 +10,7 @@ De início você tem o botão de atalho para gerar uma nova cobrança, ele está
 
 ![](../assets/prints/dashboard_btn_cobranca.png)
 
-Ambos botões irão te direcionar para a criação de uma nova cobrança, seja ela do tipo avulsa, ou modelo.
+Ambos os botões irão te direcionar para a criação de uma nova cobrança, seja ela do tipo avulsa, ou modelo.
 
 {% hint style="warning" %}
 **Atenção:** Para mais informações sobre como criar uma cobrança, [**`clique aqui`**](/CRIAR_COBRANCA/README.md)
@@ -20,7 +20,7 @@ Logo ao lado, você tem disponível o botão para sacar o valor do saldo atual, 
 
 ![](../assets/prints/dashboard_btn_saque.png)
 
-Clicando neste botâo você será direcionado para uma janela pop-up solicitando o valor a ser sacado, após inserir o valor e clicar em confirmar saque, ele será agendado a transferência bancária para a conta que estiver ativa no momento:
+Clicando neste botão você será direcionado para uma janela pop-up solicitando o valor a ser sacado, após inserir o valor e clicar em confirmar saque, ele será agendado a transferência bancária para a conta que estiver ativa no momento:
 
 {% hint style="warning" %}
 **Atenção:** Para mais informações sobre a conta bancária cadastrada, [**`clique aqui`**](/CONFIGURACOES/README.md)
