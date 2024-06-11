@@ -40,7 +40,7 @@ O mesmo também se aplica a `Logo da empresa`, você pode configurá-la igual o 
 
 <br>
 
-### Alterar política de recebimento
+### Configurações de recebimento
 
 No dashboard da plataforma da GOPag, você tem um atalho para definir o tipo de recebimento, o atalho vai levar você para a página de configurações:
 

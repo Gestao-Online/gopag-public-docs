@@ -2,6 +2,7 @@
 
 * [🧑‍🏫 Apresentação](README.md)
 * [↕️ Menu de Navegação](NAVIGATION/README.md)
+* [📊 Dashboard](/DASHBOARD/README.md)
 * [➕ Criar Cobrança](CRIAR_COBRANCA/README.md)
     * [💸 Formas de Pagamento](CRIAR_COBRANCA/FORMAS_PAGAMENTO/README.md)
         * [💳 Cartão de Crédito](CRIAR_COBRANCA/FORMAS_PAGAMENTO/CARTAO_CREDITO/README.md)
