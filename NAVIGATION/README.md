@@ -40,4 +40,4 @@ Isso foi pensado justamente para poder facilitar sua navegação dentro da plata
 
 **Incrível, não é mesmo!**
 
-Portanto, prepare-se, pois estamos prestes a conhecer cada uma das áreas disponíveis dentro da plataforma GOPag!
+Portanto, prepare-se, pois estamos prestes a conhecer cada uma das áreas disponíveis dentro da plataforma **GOPag**!
