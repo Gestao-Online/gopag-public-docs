@@ -2,10 +2,6 @@
 
 Na tela principal da plataforma **GOPag**, você encontra informações com seu saldo atual, saldo previsto para o próximo dia, o saldo futuro e o método de saque desses valores que você deixou predefinido:
 
-{% hint style="warning" %}
-**Atenção:** Para mais informações sobre os **tipos de saques disponíveis** e como deixar definido, [**`clique aqui`**](/CONFIGURACOES/README.md)
-{% endhint %}
-
 De início você tem o botão de atalho para gerar uma nova cobrança, ele está presente em dois locais, assim que você faz login na plataforma:
 
 ![](../assets/prints/dashboard_btn_cobranca.png)
@@ -23,7 +19,7 @@ Logo ao lado, você tem disponível o botão para sacar o valor do saldo atual, 
 Clicando neste botão você será direcionado para uma janela pop-up solicitando o valor a ser sacado, após inserir o valor e clicar em confirmar saque, ele será agendado a transferência bancária para a conta que estiver ativa no momento:
 
 {% hint style="warning" %}
-**Atenção:** Para mais informações sobre a **conta bancária cadastrada**, [**`clique aqui`**](/CONFIGURACOES/README.md)
+**Atenção:** Para mais informações sobre a **conta bancária cadastrada**, [**`clique aqui`**](/CONFIGURACOES/README.md#conta-bancária)
 {% endhint %}
 
 ![](../assets/prints/dashboard_btn_saque.gif)
