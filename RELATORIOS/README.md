@@ -2,7 +2,7 @@
 
 <!-- Os relatórios gerados pela plataforma da GOPag, oferecem benefícios como decisões assertivas, controle de estoque, conformidade regulatória e análise de desempenho. Eles basicamente são ferramentas essenciais para uma gestão eficiente, se baseando nos dados gerados: -->
 
-Os relatorios podem ser gerados de forma simples, apenas com alguns cliques na plataforma. Logo abaixo  card que aparece disponível para utilização é o de `Extrato`:
+Os relatorios podem ser gerados de forma simples, apenas com alguns cliques na plataforma. Logo abaixo  card que aparece disponível para utilização é o de **`Extrato`**:
 
 {% hint style="warning" %}
 **Importante:** Os extratos podem ser gerados em dois formatos, PDF ou Excel, escolha o que melhor se aplicará para você.
