@@ -1,6 +1,6 @@
 # Menu configurações
 
-Aqui você encontra as configurações do usuário, nestes quatro cards que veremos o primeiro deles é o único que já mostra os dados que você nos passou no ato da contratação do nosso portal 😊
+Aqui você encontra as configurações do usuário, nestes cards que veremos o primeiro deles é o único que já mostra os dados que você nos passou no ato da contratação do nosso portal 😊
 
 ![](../assets/prints/configuracoes_menu.png)
 
