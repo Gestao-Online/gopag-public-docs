@@ -5,6 +5,6 @@ Na tela principal da plataforma **GOPag**, você encontra informações com seu 
 
 
 {% hint style="warning" %}
-**Atenção:** Para mais informações sobre os tipos de saque disponíveis e como predefinir, [**`clique aqui`**](/CONFIGURACOES/README.md))
+**Atenção:** Para mais informações sobre os tipos de saque disponíveis e como deixar definido, [**`clique aqui`**](/CONFIGURACOES/README.md))
 {% endhint %}
 
