@@ -36,7 +36,7 @@ Além disso, tem mais um detalhe que é essencial para podermos nos localizarmos
 
 ![](../assets/prints/tela_inicial_menus_coluna.png)
 
-Isso foi pensado justamente para poder facilitar nossa navegação dentro da plataforma.
+Isso foi pensado justamente para poder facilitar sua navegação dentro da plataforma.
 
 **Incrível, não é mesmo!**
 
