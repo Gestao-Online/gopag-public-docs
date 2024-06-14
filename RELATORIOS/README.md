@@ -1,8 +1,6 @@
 # 🧾 Relatórios
 
-<!-- Os relatórios gerados pela plataforma da GOPag, oferecem benefícios como decisões assertivas, controle de estoque, conformidade regulatória e análise de desempenho. Eles basicamente são ferramentas essenciais para uma gestão eficiente, se baseando nos dados gerados: -->
-
-Os relatorios podem ser gerados de forma simples, apenas com alguns cliques na plataforma. Logo abaixo  card que aparece disponível para utilização é o de **`Extrato`**:
+Os relatorios podem ser gerados de forma simples, apenas com alguns cliques na plataforma. Logo abaixo, o card que aparece disponível para utilização é o de **`Extrato`**:
 
 {% hint style="warning" %}
 **Importante:** Os extratos podem ser gerados em dois formatos, PDF ou Excel, escolha o que melhor se aplicará para você.
@@ -10,10 +8,25 @@ Os relatorios podem ser gerados de forma simples, apenas com alguns cliques na p
 
 ![](../assets/prints/relatorios_menu.png)
 
-Você pode definir a data de inicio e fim do extrato e na sequência qual formato deseja fazer o download.
+Você pode definir a data de inicio e fim do extrato que deseja fazer conferência:
 
-Lembrando que a versão em excel é editável e você pode copiar mais fácil os dados, agora em PDF o relatório é um pouco diferente, mais focado na leitura das informações.
+![](../assets/prints/relatorios_menu_calendario.png)
+
+
+ e na sequência qual formato deseja fazer o download.
+
+{% hint style="info" %}
+**Importante:** Lembrando que a versão em excel é editável e você pode copiar mais fácil os dados, agora em PDF o relatório é um pouco diferente, mais focado na leitura das informações.
+{% endhint %}
 
 Observe abaixo o modo de emissão de um relatório:
 
 ![](../assets/prints/relatorios_menu_gerar.gif)
+
+Analisando melhor relatório gerado em PDF, você pode ver a data que foi feita a transação, o ID para fazer uma busca na plataforma (caso seja necessário), descrição da transação, lançamento se é de entrada ou saída de valor e o saldo final.
+
+{% hint style="info" %}
+**Informação:** Observe que na coluna `Lançamento` nós colocamos as cores <mark style="color:green;background-color:white;">`verde`</mark> para entrada de valor e <mark style="color:red;background-color:white;">**`vermelho`**</mark> para saíde valor, tudo isso para facilicar sua análise no relatório.
+{% endhint %}
+
+![](../assets/prints/relatorios_pdf_gerado.png)
