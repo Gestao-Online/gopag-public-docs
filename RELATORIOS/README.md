@@ -3,7 +3,7 @@
 Os relatorios podem ser gerados de forma simples, apenas com alguns cliques na plataforma. Logo abaixo, o card que aparece disponível para utilização é o de **`Extrato`**:
 
 {% hint style="warning" %}
-**Importante:** Os extratos podem ser gerados em dois formatos, PDF ou Excel, escolha o que melhor se aplicará para você.
+**Importante:** Os extratos podem ser gerados em dois formatos, <img src="/assets/prints/icon_pdf.png" alt="" data-size="line"> PDF ou <img src="/assets/prints/icon_excel.png" alt="" data-size="line"> Excel, escolha o que melhor se aplicará para você.
 {% endhint %}
 
 ![](../assets/prints/relatorios_menu.png)
