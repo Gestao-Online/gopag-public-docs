@@ -3,7 +3,7 @@
 
 Após você clicar para **`gerar o link de cobrança`**, teremos esta tela abaixo com todas as informações necessárias para que possamos acompanhar todo o processo do pagamento:
 
-![](/assets/prints/criar_cobranca_modelo.png)
+![](/assets/prints/tela_inicial_criar_cobranca_modelo.png)
 
 De início você verá um menu no canto direito da tela, com algumas funções importantes para você utilizar, são elas:<br>
 
