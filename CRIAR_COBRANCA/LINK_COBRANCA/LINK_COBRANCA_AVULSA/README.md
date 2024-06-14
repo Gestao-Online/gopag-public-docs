@@ -6,7 +6,7 @@ De início você verá um menu no canto direito da tela, com algumas funções i
 
 {% tabs %}
 
-{% tab title="<img src="/assets/prints/icon_notificar.png" alt="" data-size="line"> <mark style="color:green;background-color:white;">Notificar</mark>" %} Quando você usar esta função, será enviada uma notificação ao cliente do status atual da cobrança. Serão estas mensagens: <br><br>
+{% tab title="↗️ Notificar" %} Quando você usar esta função, será enviada uma notificação ao cliente do status atual da cobrança. Serão estas mensagens: <br><br>
 - Nova cobrança: Olá "........", Esperamos que esteja bem. Estamos entrando em contato para informá-lo(a) de que foi gerada uma nova cobrança por GESTÃO ONLINE para você e ela está pronta e disponível para pagamento.<br><br>
 - Pagamento recusado: Prezado(a) "........", Estamos entrando em contato para informá-lo(a) que houve um problema ao processar o seu pagamento e a transação não foi concluída.<br><br>
 - Pagamento aprovado: Prezado(a) "........", Gostaríamos de confirmar que o seu pagamento foi recebido com sucesso. Agradecemos por escolher os produtos/serviços da GESTÃO ONLINE e por sua pontualidade no pagamento.{% endtab %}
