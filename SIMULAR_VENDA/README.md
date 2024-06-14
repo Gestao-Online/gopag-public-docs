@@ -20,7 +20,7 @@ No **`Tipo de pagamento`** colocamos duas opções, a online e presencial, o cá
 
 ![](/assets/prints/simulador_menu_tipo_pagamento.png)
 
-E se você está nessa página, é porque pode ter dúvidas sobre o sistema de repasse de taxas ao cliente, então vamos te explicar para que possa utilizar da melhor maneira possível! 😁
+<!-- E se você está nessa página, é porque pode ter dúvidas sobre o sistema de repasse de taxas ao cliente, então vamos te explicar para que possa utilizar da melhor maneira possível! 😁
 
 Logo ao clicar no botão [Criar cobrança](https://docs.gopag.com.br/criar_cobranca) você inicia o preenchimento dos dados iniciais e após escolher a [Forma de pagamento](https://docs.gopag.com.br/criar_cobranca/formas_pagamento) se depara então com este card:
 
@@ -28,7 +28,7 @@ Logo ao clicar no botão [Criar cobrança](https://docs.gopag.com.br/criar_cobra
 
 {% hint style="danger" %}
 **Informação:** As taxas que são cobradas pela plataforma da GOPag, não são repassadas automaticamente para seus clientes, elas são aplicadas em todos os meios de pagamento, seja cartão de crédito, pix ou boleto. Quando se [cria uma cobrança](https://docs.gopag.com.br/criar_cobranca), é necessário você mesmo calcular e preencher o campo taxa adicional.
-{% endhint %}
+{% endhint %} -->
 
 No menu simular venda, você pode marcar o botão **`Repassar taxas`** para saber qual valor será necessário repassar ao cliente (caso seja este o seu desejo) e então criar uma cobrança já baseada nesse valor, confira abaixo o exemplo do simulador:
 
