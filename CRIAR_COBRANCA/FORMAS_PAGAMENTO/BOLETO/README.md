@@ -12,9 +12,9 @@ Na forma de pagamento boleto bancário, o prazo de compensação é de até 48h 
 
 <br>
 
-Observe que um novo menu de opções será mostrado:
+Observe que ao clicarmos no botão `Habilitar configurações de multas e juros` um novo menu de opções será mostrado:
 
-![](/assets/prints/criar_cobranca_formas_pagamento_boleto_2.png)
+![](/assets/prints/criar_cobranca_formas_pagamento_boleto_2.gif)
 
 <br>
 
@@ -49,10 +49,6 @@ Nesta parte em laranja mais claro, tem um simulador de valores em caso de atraso
 Logo, para o cliente irá aparecer da seguinte forma para ele preencher os dados e logo após ter acesso ao boleto para pagamento:
 
 ![](/assets/prints/criar_cobranca_formas_pagamento_boleto__7.gif)
-
-{% hint style="warning" %}
-**Importante:**  Para a forma de pagamento via boleto bancário, não existe a opção de parcelamento.
-{% endhint %}
 
 {% hint style="danger" %}
 **Importante:**  Para mais informações sobre as taxas, [clique aqui](https://docs.gopag.com.br/simular_venda) e acesse nossa explicação detalhada sobre elas!
