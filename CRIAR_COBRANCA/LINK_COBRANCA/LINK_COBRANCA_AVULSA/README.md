@@ -51,7 +51,7 @@ Os dados do pagador podem ser preenchidos por você no ato da cobrança, ou caso
 No quinto quadro vemos:
 
 - Endereço do cliente (Lembrando que o próprio cliente pode fazer o preenchimento quando for pagar 😉);
-- Configurações da cobrança (Caso tenha definido parcelas para o caso do cartão de crédito e a [taxa de transação](https://docs.gopag.com.br/simular_venda) se definiu para o cliente pagar).
+- Configurações da cobrança (Caso tenha definido parcelas para o caso do cartão de crédito e a [taxa de transação](https://docs.gopag.com.br/simular_venda) e adicional).
 
 ![](/assets/prints/criar_cobranca_card_5.png)
 

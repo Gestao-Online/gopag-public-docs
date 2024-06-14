@@ -29,15 +29,14 @@ De início você verá um menu no canto direito da tela, com algumas funções i
 
 No primeiro card existe duas partes para visualização, sendo elas:
 
-- Status do pagamento (Novo, sendo utilizado, pendente ou falha);
+- Status do pagamento (Sendo utilizado, novo ou cancelado);
 - Data da criação da cobrança;
 
 <!-- ![criar_cobranca_card_1](/assets/prints/criar_cobranca_card_1.gif) -->
 
-![](/assets/prints/status_pgto_modelo_novo.png)
 ![](/assets/prints/status_pgto_modelo_sendo_utilizado.png)
-![](/assets/prints/status_pgto_modelo_pendente.png)
-![](/assets/prints/status_pgto_modelo_falha.png)
+![](/assets/prints/status_pgto_modelo_novo.png)
+![](/assets/prints/status_pgto_modelo_cancelado.png)
 
 
 Já com o segundo card, estão as formas de pagamentos disponíveis (Aparecendo somente às selecionadas no momento da geraçāo da cobrança)
