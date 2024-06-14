@@ -1,4 +1,4 @@
-# 💳 cartão de crédito
+# 💳 Cartão de crédito
 
 Neste momento você irá definir a quantidade de parcelas disponíveis para o cliente. Observe que ao clicar na opção cartão de crédito logo abaixo um novo card ficará disponível para uso:
 
