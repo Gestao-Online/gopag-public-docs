@@ -36,10 +36,9 @@ No primeiro card tem três partes para acompanhamento, sendo elas:
 
 
 
-|   |   |
-| - | - |
-|Já no segundo card, colocamos as formas de pagamentos disponíveis. 
-Lembrando que aqui só irão aparecer as opções que você selecionou no momento de criar o link da cobrança.| ![](/assets/prints/criar_cobranca_card_2.png)|
+|                                                                                                                                                                                      |   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| - |
+|<p>Já no segundo card, colocamos as formas de pagamentos disponíveis.<br>Lembrando que aqui só irão aparecer as opções que você selecionou no momento de criar o link da cobrança.</p>| ![](/assets/prints/criar_cobranca_card_2.png)|
 
 
 |                                                                                |                                                   |
