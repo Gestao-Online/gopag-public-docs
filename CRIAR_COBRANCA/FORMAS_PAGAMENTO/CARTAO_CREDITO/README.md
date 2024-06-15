@@ -17,6 +17,6 @@ Observe que no exemplo deixamos disponível para até 12x, mas lembre-se, quem d
 
 Feito isso, aparecerá para o cliente três opções de parcelamento, dando assim a opção dele escolher, isso tudo dentro do limite que você estabeleceu:
 
-![](/assets/prints/criar_cobranca_formas_pagamento_cartao_credito_3.png) -->
+![](/assets/prints/criar_cobranca_formas_pagamento_cartao_credito_3.png)
 
 
