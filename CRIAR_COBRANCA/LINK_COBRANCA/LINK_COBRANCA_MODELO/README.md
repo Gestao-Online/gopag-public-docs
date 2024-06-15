@@ -12,9 +12,9 @@ De início você verá um menu no canto direito da tela, com algumas funções i
 {% tabs %}
 
 {% tab title="↗️ Notificar" %} Quando você usar esta função, será enviada uma notificação ao cliente do status atual da cobrança. Serão estas mensagens: <br><br>
-- Nova cobrança: Olá "........", Esperamos que esteja bem. Estamos entrando em contato para informá-lo(a) de que foi gerada uma nova cobrança por GESTÃO ONLINE para você e ela está pronta e disponível para pagamento.<br><br>
-- Pagamento recusado: Prezado(a) "........", Estamos entrando em contato para informá-lo(a) que houve um problema ao processar o seu pagamento e a transação não foi concluída.<br><br>
-- Pagamento aprovado: Prezado(a) "........", Gostaríamos de confirmar que o seu pagamento foi recebido com sucesso. Agradecemos por escolher os produtos/serviços da GESTÃO ONLINE e por sua pontualidade no pagamento.{% endtab %}
+**Nova cobrança:** Olá "........", Esperamos que esteja bem. Estamos entrando em contato para informá-lo(a) de que foi gerada uma nova cobrança por GESTÃO ONLINE para você e ela está pronta e disponível para pagamento.<br><br>
+**Pagamento recusado:** Prezado(a) "........", Estamos entrando em contato para informá-lo(a) que houve um problema ao processar o seu pagamento e a transação não foi concluída.<br><br>
+**Pagamento aprovado:** Prezado(a) "........", Gostaríamos de confirmar que o seu pagamento foi recebido com sucesso. Agradecemos por escolher os produtos/serviços da GESTÃO ONLINE e por sua pontualidade no pagamento.{% endtab %}
 
 {% tab title="🗑️ Excluir cobrança" %} Em caso de erros, você tem disponível esta opção para poder excluir a cobrança, lembrando que essa função só estará disponível enquanto não houver o pagamento por parte do cliente, após o pagamento, não será mais possível excluir.{% endtab %}
 
@@ -23,7 +23,6 @@ De início você verá um menu no canto direito da tela, com algumas funções i
 {% tab title="🖋️ Editar cobrança" %} Caso tenha faltado alguma informação, ou chegou a fazer algum lançamento errado, você pode editar a cobrança antes do pagamento, mas lembre-se, após o pagamento esta função não estará mais disponível.{% endtab %}
 
 {% endtabs %}
-
 
 <br>
 
@@ -43,7 +42,6 @@ No primeiro card existe duas partes para visualização, sendo elas:
 |                                                                                                                                                                                      |   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| - |
 |<p>Já no segundo card, colocamos as formas de pagamentos disponíveis.<br>Lembrando que aqui só irão aparecer as opções que você selecionou no momento de criar o link da cobrança.</p>| ![](/assets/prints/criar_cobranca_card_2.png)|
-
 
 |                                                                                |                                                   |
 |--------------------------------------------------------------------------------|---------------------------------------------------|
