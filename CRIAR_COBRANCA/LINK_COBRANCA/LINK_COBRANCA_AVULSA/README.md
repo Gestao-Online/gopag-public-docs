@@ -44,8 +44,7 @@ Lembrando que aqui só irão aparecer as opções que você selecionou no moment
 
 |                                                                                |                                                   |
 |--------------------------------------------------------------------------------|---------------------------------------------------|
-|<img src="/assets/prints/criar_cobranca_card_3.png" alt="" data-size="original">|<p>No terceiro card estão as opções de compartilhamento do link para pagamento, você pode utilizar para enviar via whatsapp ou e-mail.<br>
-Mas caso queira, também pode copiar o link da cobrança diretamente e repassar ao cliente.</p>|
+|<img src="/assets/prints/criar_cobranca_card_3.png" alt="" data-size="original">|<p>No terceiro card estão as opções de compartilhamento do link para pagamento, você pode utilizar para enviar via whatsapp ou e-mail.<br>Mas caso queira, também pode copiar o link da cobrança diretamente e repassar ao cliente.</p>|
 
 Agora no quarto card você vê os dados da cobrança e dados do pagador. Saiba que a cada cobrança gerada nós criamos um código único para maior controle da nossa plataforma da GOPag. 😊
 
