@@ -12,9 +12,9 @@ De início você verá um menu no canto direito da tela, com algumas funções i
 {% tabs %}
 
 {% tab title="↗️ Notificar" %} Quando você usar esta função, será enviada uma notificação ao cliente do status atual da cobrança. Serão estas mensagens: <br><br>
-<b>Nova cobrança:</b> Olá "........", Esperamos que esteja bem. Estamos entrando em contato para informá-lo(a) de que foi gerada uma nova cobrança por GESTÃO ONLINE para você e ela está pronta e disponível para pagamento.<br><br>
-<b>Pagamento recusado:</b> Prezado(a) "........", Estamos entrando em contato para informá-lo(a) que houve um problema ao processar o seu pagamento e a transação não foi concluída.<br><br>
-<b>Pagamento aprovado:</b> Prezado(a) "........", Gostaríamos de confirmar que o seu pagamento foi recebido com sucesso. Agradecemos por escolher os produtos/serviços da GESTÃO ONLINE e por sua pontualidade no pagamento.{% endtab %}
+<strong>Nova cobrança:</strong> Olá "........", Esperamos que esteja bem. Estamos entrando em contato para informá-lo(a) de que foi gerada uma nova cobrança por GESTÃO ONLINE para você e ela está pronta e disponível para pagamento.<br><br>
+<strong>Pagamento recusado:</strong> Prezado(a) "........", Estamos entrando em contato para informá-lo(a) que houve um problema ao processar o seu pagamento e a transação não foi concluída.<br><br>
+<strong>Pagamento aprovado:</strong> Prezado(a) "........", Gostaríamos de confirmar que o seu pagamento foi recebido com sucesso. Agradecemos por escolher os produtos/serviços da GESTÃO ONLINE e por sua pontualidade no pagamento.{% endtab %}
 
 {% tab title="🗑️ Excluir cobrança" %} Em caso de erros, você tem disponível esta opção para poder excluir a cobrança, lembrando que essa função só estará disponível enquanto não houver o pagamento por parte do cliente, após o pagamento, não será mais possível excluir.{% endtab %}
 
