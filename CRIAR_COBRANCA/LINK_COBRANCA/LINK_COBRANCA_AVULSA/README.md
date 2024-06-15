@@ -47,8 +47,6 @@ No primeiro quadro tem três partes para acompanhamento, sendo elas:
 
 Agora no quarto quadro você vê os dados da cobrança e dados do pagador. Saiba que a cada cobrança gerada nós criamos um código único para maior controle da nossa plataforma da GOPag. 😊
 
-<br>
-
 Os dados do pagador podem ser preenchidos por você no ato da cobrança, ou caso prefira, deixar o proprio cliente preencher quando ele for efetuar o pagamento:
 
 ![](/assets/prints/criar_cobranca_card_4.png)
