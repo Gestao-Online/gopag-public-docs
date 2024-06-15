@@ -21,7 +21,7 @@ De início você verá um menu no canto direito da tela, com algumas funções i
 
 <br>
 
-No primeiro quadro tem três partes para acompanhamento, sendo elas:
+No primeiro card tem três partes para acompanhamento, sendo elas:
 - Status do pagamento (Novo, pago, pendente ou falha);
 - Data da criação da cobrança;
 - Forma de pagamento (Cartão de crédito, pix ou boleto).
@@ -38,31 +38,33 @@ No primeiro quadro tem três partes para acompanhamento, sendo elas:
 
 |   |   |
 | - | - |
-|Já no segundo quadro, colocamos as formas de pagamentos disponíveis (Aparecendo somente as selecionadas no momento da geraçāo da cobrança).| ![](/assets/prints/criar_cobranca_card_2.png)|
+|Já no segundo card, colocamos as formas de pagamentos disponíveis. 
+Lembrando que aqui só irão aparecer as opções que você selecionou no momento de criar o link da cobrança.| ![](/assets/prints/criar_cobranca_card_2.png)|
 
 
 | | |
 |-|-|
-|![](/assets/prints/criar_cobranca_card_3.png)|Neste terceiro quadro estão as opções de compartilhamento do link para pagamento, você pode utilizar o compartilhamento via whatsapp ou e-mail. Mas caso queira, também pode copiar o link da cobrança diretamente e repassar ao cliente.|
+|![](/assets/prints/criar_cobranca_card_3.png)|No terceiro card estão as opções de compartilhamento do link para pagamento, você pode utilizar para enviar via whatsapp ou e-mail. 
+Mas caso queira, também pode copiar o link da cobrança diretamente e repassar ao cliente.|
 
-Agora no quarto quadro você vê os dados da cobrança e dados do pagador. Saiba que a cada cobrança gerada nós criamos um código único para maior controle da nossa plataforma da GOPag. 😊
+Agora no quarto card você vê os dados da cobrança e dados do pagador. Saiba que a cada cobrança gerada nós criamos um código único para maior controle da nossa plataforma da GOPag. 😊
 
 Os dados do pagador podem ser preenchidos por você no ato da cobrança, ou caso prefira, deixar o proprio cliente preencher quando ele for efetuar o pagamento:
 
 ![](/assets/prints/criar_cobranca_card_4.png)
 
-No quinto quadro vemos:
+No quinto card vemos:
 
 - Endereço do cliente (Lembrando que o próprio cliente pode fazer o preenchimento quando for pagar 😉);
 - Configurações da cobrança (Caso tenha definido parcelas para o caso do cartão de crédito e a [taxa de transação](https://docs.gopag.com.br/simular_venda) e adicional).
 
 ![](/assets/prints/criar_cobranca_card_5.png)
 
-Aqui no último quadro colocamos as configurações que foram aplicadas no boleto, como taxas, data de vencimento e juros aplicados:
+Aqui no último card colocamos as configurações que foram aplicadas no boleto, como taxas, data de vencimento e juros aplicados:
 
 
  {% hint style="warning" %}
-**Atenção:**  O quadro com as opções do boleto só serão exibidas caso você tenha adicionado ele como uma opção de pagamento, do contrário, ele ficará indisponível.
+**Atenção:**  O card com as opções do boleto só serão exibidas caso você tenha adicionado ele como uma opção de pagamento, do contrário, ele ficará indisponível.
 {% endhint %}
 
 ![](/assets/prints/criar_cobranca_card_6.png)
