@@ -31,10 +31,7 @@ No primeiro card tem três partes para acompanhamento, sendo elas:
 ![](/assets/prints/status_pgto_pendente.png)
 ![](/assets/prints/status_pgto_falha.png)
 <!-- ![criar_cobranca_card_1](/assets/prints/criar_cobranca_card_1.gif) -->
-
-
-
-
+<br>
 
 |                                                                                                                                                                                      |   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| - |
