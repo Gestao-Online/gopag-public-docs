@@ -7,6 +7,10 @@ O legal, é que o nosso portal gera uma "chave" de PIX copia e cola para cada tr
 
 ![](/assets/prints/criar_cobranca_formas_pagamento_pix.png)
 
-O controle dos pagamentos segue normalmente na nossa plataforma da GOPag, para você acompanhar qualquer situação! 😁
+ {% hint style="info" %}
+**Informação:**  O controle dos pagamentos segue normalmente na nossa plataforma da GOPag, para você acompanhar todo o andamento da cobrança! 😁
+{% endhint %}
+
+Logo, para o cliente irá aparecer da seguinte forma para que ele possa preencher os dados e ter acesso a chave PIX para pagamento:
 
 ![](/assets/prints/criar_cobranca_informacoes_checkout.png)
