@@ -1,6 +1,7 @@
 # 📱 Dashboard
 
 Na tela principal da plataforma **GOPag**, você encontra informações com seu saldo atual, saldo futuro ou total de transações.
+
 Você também pode ver os gráficos de transações, cobranças, e até o calendário com recebimentos futuros:
 
 ![](../assets/prints/tela_inicial.jpg)
