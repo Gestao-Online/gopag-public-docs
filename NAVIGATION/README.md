@@ -1,6 +1,6 @@
 # ↕️ Menus de navegação
 
-Ao acessar seu ambiente GOPag, nesse primeiro momento será a hora de conhecer a aplicação que está utilizando!
+Ao acessar seu ambiente **GOPag**, nesse primeiro momento será a hora de conhecer a aplicação que está utilizando!
 
 Sua tela inicial será similar ao que consta na imagem da tela de teste abaixo:
 
