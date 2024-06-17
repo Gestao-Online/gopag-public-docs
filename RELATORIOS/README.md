@@ -1,6 +1,6 @@
 # 🧾 Relatórios
 
-Os relatorios podem ser gerados de forma simples, apenas com alguns cliques na plataforma. Logo abaixo, o card que aparece disponível para utilização é o de **`Extrato`**:
+Os relatórios podem ser gerados de forma simples, apenas com alguns cliques na plataforma. Logo abaixo, o card que aparece disponível para utilização é o de **`Extrato`**:
 
 {% hint style="warning" %}
 **Importante:** Os extratos podem ser gerados em dois formatos, <img src="/assets/prints/icon_pdf.png" alt="" data-size="line"> PDF ou <img src="/assets/prints/icon_excel.png" alt="" data-size="line"> Excel, escolha o que melhor se aplicará para você.
@@ -8,7 +8,7 @@ Os relatorios podem ser gerados de forma simples, apenas com alguns cliques na p
 
 ![](../assets/prints/relatorios_menu.png)
 
-Você pode definir a data de inicio e fim do extrato que deseja fazer conferência:
+Você pode definir a data de início e fim do extrato que deseja fazer conferência:
 
 ![](../assets/prints/relatorios_menu_calendario.png)
 
