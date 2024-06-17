@@ -51,4 +51,13 @@ Lembrando que tudo é influenciado pela data que você determina
 
 ![](../assets/prints/dashboard_cobrancas.gif)
 
-E fechando nossa explicação sobre todas as funções disponíveis no dashboard da plataforma da GOPag, nós temos o calendário com os recebimentos futuros, projetado justamente para você 
+E fechando nossa explicação sobre todas as funções disponíveis no dashboard da plataforma da GOPag, nós temos o calendário com os recebimentos futuros, projetado justamente para você poder ter mais controle dos recebimentos.
+
+Observe que ao clicar em um recebimento futuro, um novo card é exibido com todas as informações referentes:
+
+![](../assets/prints/dashboard_recebimentos.gif)
+
+Nesse mesmo calendário você tem disponível outras funções, por exemplo exibir por semana e um botão para o calendário ir direto ao dia atual, demonstramos abaixo o uso dessas opções para você 😁
+
+![](../assets/prints/dashboard_recebimentos_calendario.gif)
+
