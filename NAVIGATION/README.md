@@ -11,7 +11,7 @@ Sua tela inicial será similar ao que consta na imagem da tela de teste abaixo:
 
 Agora, voltando nossa atenção para o canto superior direito da tela, podemos visualizar um pequeno card com seu nome incluso. Clicando sobre este card, uma janelinha irá aparecer logo abaixo do seu nome com algumas informações:
 
-- Nome da empresa e o CNPJ da mesma, isso para planos de conta do tipo pessoa jurídica;
+- Nome da empresa e o CNPJ, isso para planos de conta do tipo pessoa jurídica;
 - Nome da pessoa e CPF, este sendo para pessoas físicas; 
 - A última opção é a de sair/logout da conta.
 
