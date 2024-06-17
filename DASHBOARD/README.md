@@ -39,7 +39,7 @@ Na parte final, temos um pequeno relatório com as últimas cinco transações, 
 
 <br>
 
-**Mas as opções do nosso dashboard não para por aí! 😁**
+**Mas as opções do nosso dashboard não param por aí! 😁**
 
 Clicando na opção cobranças que está logo ao lado de transações, você tem uma nova tela a ser exibida, agora com gráfico de crescimento, um botão de atalho para você criar uma nova cobrança, o relatório das últimas cobranças geradas e o status dessas cobranças. 
 
