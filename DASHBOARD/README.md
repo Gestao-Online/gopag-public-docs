@@ -50,3 +50,4 @@ Lembrando que tudo é influênciado pela data que você determina
 {% endhint %}
 
 ![](../assets/prints/dashboard_cobrancas.gif)
+
