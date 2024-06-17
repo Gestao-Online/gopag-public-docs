@@ -16,3 +16,37 @@ Clicando neste botão você será direcionado para uma janela pop-up solicitando
 {% endhint %}
 
 ![](../assets/prints/dashboard_btn_saque.gif)
+
+Descendo um pouco mais em nosso dashboard, você pode ver os gráficos e a tabela com as informações de transações. Essas informações podem ser alteradas se você alterar a data de exibição, sendo por semana, ou por mês.
+
+Observe nosso teste abaixo com as duas opções:
+
+![](../assets/prints/dashboard_transacoes_semana.gif)
+
+Agora marcando a opção mensal:
+
+![](../assets/prints/dashboard_transacoes_mensal.gif)
+
+<br>
+
+Na parte final, temos um pequeno relatório com ás últimas cinco transações, e deixamos um atalho para você ir direto ao menu de todas as transações:
+
+{% hint style="warning" %}
+**Atenção:** Para mais informações sobre **transações**, [**`clique aqui`**](/TRANSACOES/README.md)
+{% endhint %}
+
+![](../assets/prints/dashboard_transacoes_botao.gif)
+
+<br>
+
+**Mas as opções do nosso dashboard não para por aí! 😁**
+
+Clicando na opção cobranças que está logo ao lado de transações, você tem uma nova tela a ser exibida, agora com gráfico de crescimento, um botão de atalho para você criar uma nova cobrança, o relatório das últimas cobranças geradas e o status dessas cobranças. 
+
+Lembrando que tudo é influênciado pela data que você determina
+
+{% hint style="warning" %}
+**Atenção:** Para mais informações sobre **transações**, [**`clique aqui`**](/TRANSACOES/README.md)
+{% endhint %}
+
+![](../assets/prints/dashboard_cobrancas.gif)
