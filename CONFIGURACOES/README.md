@@ -42,11 +42,7 @@ O mesmo também se aplica a `Logo da empresa`, você pode configurá-la igual o 
 
 ### Configurações de recebimento
 
-No dashboard da plataforma da GOPag, você tem um atalho para definir o tipo de recebimento, o atalho vai levar você para a página de configurações:
-
-![](../assets/prints/tela_inicial_tipo_saque.gif)
-
-Uma configuração importante presente na plataforma é a opção de `Alterar politica de recebimento` você pode deixar automática ou manual as transferências de valores.
+Uma configuração importante presente na plataforma da **GOPag** é a opção de `Alterar politica de recebimento` você pode deixar automática ou manual as transferências de valores.
 
 Quando esta opção está ativada, você precisa definir o intervalo de transferência entre diário, semanal ou mensal (No modo mensal você pode definir o dia que ocorrerá a transferência, caso queira).
 
