@@ -75,5 +75,5 @@ Ao clicar neste botão, uma janela pop-up será mostrada a você para poder inse
 ![](../assets/prints/configuracoes_menu_conta_cadastrar.gif)
 
 {% hint style="danger" %}
-**Importante:** Ao adicionar uma conta bancária a plataforma, não é possivel remover depois, por isso confira corretamente quando for fazer o cadastro.
+**Importante:** Ao adicionar uma conta bancária a plataforma, não é possivel remover depois. Por isso, confira corretamente quando for fazer o cadastro.
 {% endhint %}
