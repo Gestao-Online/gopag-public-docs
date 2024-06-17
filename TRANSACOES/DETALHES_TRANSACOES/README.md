@@ -49,15 +49,9 @@ Na parte inicial da tela de detalhes da transação você pode ver um botão cha
 
 <br>
 
-Em caso de uso do boleto, existem algumas diferenças nas informações de pagamento, no caso abaixo temos a linha digitável do boleto, a descrição com o dia/horário que foi efetuado o pagamento:
+Em caso de uso do boleto, existem algumas diferenças nas informações de pagamento, no caso abaixo temos a linha digitável do boleto, a descrição com o dia/horário que foi efetuado o pagamento e também o ID do pagamento:
 
 ![](/assets/prints/transacoes_menu_detalhe_transacao_boleto.png)
-
-<br>
-
-Outra parte interessante é que dos botões disponíveis você pode conferir o link disponibilizado ao cliente, ou até mesmo ver o boleto que foi emitido para o cliente, conforme a demonstração abaixo:
-
-![](/assets/prints/transacoes_menu_detalhe_transacao_boleto_1.gif)
 
 <br>
 
