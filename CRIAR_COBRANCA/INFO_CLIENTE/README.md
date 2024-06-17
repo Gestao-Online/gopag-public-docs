@@ -6,7 +6,7 @@ Observe o exemplo que fizemos abaixo:
 
 ![](/assets/prints/criar_cobranca_informacoes.gif)
 
-Agora se você tiver criado uma cobrança modelo, irá aparecer somente o botão de envio de notificações, não sendo necessário preencher nenhuma informação do cliente, pois ficará disponivel para que ele preencha no ato do pagamento:
+Agora se você tiver criado uma cobrança modelo, irá aparecer somente o botão de envio de notificações, não sendo necessário preencher nenhuma informação do cliente, pois ficará disponível para que ele preencha no ato do pagamento:
 
 ![](/assets/prints/criar_cobranca_informacoes.png)
 
