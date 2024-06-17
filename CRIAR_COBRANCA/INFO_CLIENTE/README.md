@@ -1,6 +1,6 @@
 # 🖋️ Informações do cliente
 
-Na parte de informações do cliente, você já pode preencher no momento de gerar a cobrança, observe que ao final tem um botão para você ativar o envio de notificações e atualizações desta cobrança por e-mail ou SMS do pagador. Mas ele só ficará disponível caso seja preenchido o campo de email.
+Na parte de informações do cliente, você já pode preencher no momento de gerar a cobrança, observe que ao final tem um botão para você ativar o envio de notificações e atualizações desta cobrança por e-mail ou SMS do pagador. Mas ele só ficará disponível caso seja preenchido o campo de e-mail.
 
 Observe o exemplo que fizemos abaixo:
 
