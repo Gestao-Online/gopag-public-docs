@@ -3,7 +3,6 @@
 Deixamos facilitado o acesso a criação de uma cobrança, já no momento que você faz login na nossa plataforma da GOPag o botão de criar cobrança fica disponível para você clicar em dois locais:
 - O primeiro local é ao lado esquerdo no início do menu recolhível:
 - ![](../assets/prints/criar_cobranca_dashboard_1.gif)
-
 - O segundo local é no dashboard na aba de cobranças:
 - ![](../assets/prints/criar_cobranca_dashboard_2.gif)
 
