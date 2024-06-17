@@ -66,13 +66,13 @@ Passando assim, mais de uma possibilidade para acessar as informações 😉👍
 **Detalhe:** Caso queira mais informações sobre detalhes de transação [clique aqui ](https://docs.gopag.com.br/transacoes/detalhes_transacoes) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
-![](/assets/prints/cobrancas_menu_avulsa_detalhes_cobranca.png)
+![](/assets/prints/transacoes_menu_avulsa_detalhes_cobranca.png)
 
 <br>
 
 Logo na parte final das transações fica a paginação, onde você pode aumentar a quantidade visível de cobranças mostradas para até 1000 itens na página:
 
-![](/assets/prints/cobrancas_menu_avulsa_paginacao.png)
+![](/assets/prints/transacoes_menu_avulsa_paginacao.png)
 <p>.</p>
 
-![](/assets/prints/cobrancas_menu_avulsa_paginacao_2.png)
+![](/assets/prints/transacoes_menu_avulsa_paginacao_2.png)
