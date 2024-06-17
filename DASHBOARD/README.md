@@ -29,7 +29,7 @@ Agora marcando a opção mensal:
 
 <br>
 
-Na parte final, temos um pequeno relatório com ás últimas cinco transações, e deixamos um atalho para você ir direto ao menu de todas as transações:
+Na parte final, temos um pequeno relatório com as últimas cinco transações, e deixamos um atalho para você ir direto ao menu de todas as transações:
 
 {% hint style="warning" %}
 **Atenção:** Para mais informações sobre **transações**, [**`clique aqui`**](/TRANSACOES/README.md)
@@ -43,7 +43,7 @@ Na parte final, temos um pequeno relatório com ás últimas cinco transações,
 
 Clicando na opção cobranças que está logo ao lado de transações, você tem uma nova tela a ser exibida, agora com gráfico de crescimento, um botão de atalho para você criar uma nova cobrança, o relatório das últimas cobranças geradas e o status dessas cobranças. 
 
-Lembrando que tudo é influênciado pela data que você determina
+Lembrando que tudo é influenciado pela data que você determina
 
 {% hint style="warning" %}
 **Atenção:** Para mais informações sobre **transações**, [**`clique aqui`**](/TRANSACOES/README.md)
@@ -51,3 +51,4 @@ Lembrando que tudo é influênciado pela data que você determina
 
 ![](../assets/prints/dashboard_cobrancas.gif)
 
+E fechando nossa explicação sobre todas as funções disponíveis no dashboard da plataforma da GOPag, nós temos o calendário com os recebimentos futuros, projetado justamente para você 
