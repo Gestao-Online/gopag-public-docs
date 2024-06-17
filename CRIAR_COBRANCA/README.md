@@ -1,10 +1,16 @@
 # ➕ Criar cobrança
 
 Deixamos facilitado o acesso a criação de uma cobrança, já no momento que você faz login na nossa plataforma da GOPag o botão de criar cobrança fica disponível para você clicar em dois locais:
-- O primeiro local é ao lado esquerdo no início do menu recolhível:
-- ![](../assets/prints/criar_cobranca_dashboard_1.gif)
-- O segundo local é no dashboard na aba de cobranças:
-- ![](../assets/prints/criar_cobranca_dashboard_2.gif)
+
+O primeiro local é ao lado esquerdo no início do menu recolhível:
+
+![](../assets/prints/criar_cobranca_dashboard_1.gif)
+
+<br>
+
+O segundo local é no dashboard na aba de cobranças:
+
+![](../assets/prints/criar_cobranca_dashboard_2.gif)
 
 Ao clicar em uma das duas opções listadas, você abre a configuração da criação de cobrança, onde pode identificar o tipo de cobrança que será gerada, valor, e escolher um dos tipos disponíveis, sendo eles:
 
