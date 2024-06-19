@@ -18,15 +18,19 @@ Clicando neste botão você será direcionado para uma janela pop-up solicitando
 
 ![](../assets/prints/dashboard_btn_saque.gif)
 
-Descendo um pouco mais em nosso dashboard, você pode ver os gráficos e a tabela com as informações de transações. Essas informações podem ser alteradas se você alterar a data de exibição, sendo por semana, ou por mês.
+Descendo um pouco mais em nosso dashboard, você pode ver os gráficos e a tabela com as informações de transações. Essas informações podem ser alteradas se você alterar a data de exibição, sendo por mês, semana ou dia;
 
-Observe nosso teste abaixo com as duas opções:
+Observe nosso teste abaixo com as três opções, primeiro com o mensal:
+
+![](../assets/prints/dashboard_transacoes_mensal.gif)
+
+Agora definindo a data para uma semana:
 
 ![](../assets/prints/dashboard_transacoes_semana.gif)
 
-Agora marcando a opção mensal:
+E por último definindo para somente um dia:
 
-![](../assets/prints/dashboard_transacoes_mensal.gif)
+![](../assets/prints/dashboard_transacoes_dia.gif)
 
 <br>
 
