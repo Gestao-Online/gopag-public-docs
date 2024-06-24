@@ -30,7 +30,7 @@ Os pixels são disparados no seu domínio, que você pode conectar à plataforma
 
 <!-- LEMBRAR DE PREENCHER O LINK DE ATALHO-->
 
-Temos um tutorial explicando o passo a passo, [clique aqui]().
+Temos um tutorial explicando o passo a passo, [clique aqui](/ADS_PIXEL/conectar_dominio.md).
 
 ### Como adicionar uma porcentagem de conversão personalizada para pix ou boletos gerados?
 
