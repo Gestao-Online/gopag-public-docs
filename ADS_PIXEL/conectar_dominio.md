@@ -19,3 +19,12 @@ Em seguida clique em Adicionar domínio
 Preencha o seu domínio base
 
 ![](/assets/ads/10_fb_menu_add_dominio_link.png)
+
+### Configurando o DNS
+
+Agora vá no lugar onde você registrou o seu domínio, ou onde gerencia o DNS (GoDaddy, Namecheap, Cloudflare, etc...)
+
+Crie uma entrada CNAME, com valor pixels, apontando para pixels.gopag-stage.com.br
+
+![](/assets/ads/11_fb_menu_add_dominio_dns.png)
+
