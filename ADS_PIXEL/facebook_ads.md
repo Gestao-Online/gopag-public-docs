@@ -81,3 +81,7 @@ O Facebook disponibiliza um Plugin para o Google Chrome que te ajuda a verificar
 https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc
 
 Depois de instalado, acesse o link do seu checkout e selecione o ícone do FB Pixel Helper no canto superior direito do seu navegador para ver o Pixel encontrado.
+
+![](/assets/ads/07_fb_menu_pixel_helper.png)
+
+Você pode ver na imagem acima alguns dos parâmetros que enviamos nos eventos, como a forma de pagamento, valor, ID do produto, entre outras informações.
