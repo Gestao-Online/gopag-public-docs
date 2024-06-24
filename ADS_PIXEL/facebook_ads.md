@@ -15,7 +15,7 @@ Preencha com o seu Pixel ID:
 ![](/assets/ads/02_fb_menu_opcoes.png)
 
 {% hint style="warning" %}
-**Importante:** O nosso sistema permite adicionar até 50 Pixels do Facebook em cada produto.
+**Importante:** A nossa plataforma permite adicionar até 50 Pixels do Facebook em cada produto.
 {% endhint %}
 
 Para cada Pixel, você deve selecionar um domínio onde ele será disparado.
