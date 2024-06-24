@@ -85,3 +85,15 @@ Depois de instalado, acesse o link do seu checkout e selecione o ícone do FB Pi
 ![](/assets/ads/07_fb_menu_pixel_helper.png)
 
 Você pode ver na imagem acima alguns dos parâmetros que enviamos nos eventos, como a forma de pagamento, valor, ID do produto, entre outras informações.
+
+### É possível usar a API de conversão do Facebook também?
+
+<!-- COLOCAR LINK DE ACESSO DA API -->
+
+Sim, nós temos um tutorial explicando [como configurar a API de conversão do Facebook]().
+
+### Por que aparece um outro Pixel ID que não é o meu no checkout?
+
+Para a API de conversões do Facebook funcionar corretamente, nós temos que disparar um evento de PageView utilizando o Pixel da própria Kiwify. Isso é necessário para que os cookies do Facebook sejam identificados.
+
+Por isso você pode ver o nosso pixel sendo disparado como PageView no seu checkout, mas pode ignorar essa informação.
