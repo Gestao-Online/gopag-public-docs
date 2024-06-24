@@ -22,6 +22,7 @@
 * [🧾 Relatórios](RELATORIOS/README.md)
 * [🆘 Suporte](SUPORTE/README.md)
 * [⚙️ Configurações](CONFIGURACOES/README.md)
+* [📣 Pixel Ads](ADS_PIXEL/ads_pixel.md)
 * [💲 Planos GOPag](PLANOS_GOPAG/README.md)
 * [📲 Maquininha GOPag](MAQUININHAS/README.md)
     * [👩‍🏫 Conheça sua maquininha](MAQUININHAS/1_CONHECA_MAQ/README.md)
