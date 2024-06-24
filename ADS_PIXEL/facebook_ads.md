@@ -66,3 +66,18 @@ Acesse o Facebook Business Manager https://business.facebook.com e no menu à es
 
 ![](/assets/ads/04_fb_menu_gerenciador.png)
 
+Uma nova página abrirá, basta clicar no menu lateral esquerdo em Fontes de dados:
+
+![](/assets/ads/05_fb_menu_fonte_dados.png)
+
+E você encontrará o seu Pixel ID na coluna à esquerda:
+
+![](/assets/ads/06_fb_menu_pixel_id.png)
+
+### Como verificar se o meu Pixel do Facebook foi instalado corretamente?
+
+O Facebook disponibiliza um Plugin para o Google Chrome que te ajuda a verificar o seu Pixel. Você pode fazer o download no link abaixo:
+
+https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc
+
+Depois de instalado, acesse o link do seu checkout e selecione o ícone do FB Pixel Helper no canto superior direito do seu navegador para ver o Pixel encontrado.
