@@ -1,6 +1,6 @@
 # Menus
 
-* [🧑‍🏫 Apresentação](README.md)
+* [ 🧑‍🏫 Apresentação](README.md)
 * [↕️ Menu de Navegação](NAVIGATION/README.md)
 * [📊 Dashboard](/DASHBOARD/README.md)
 * [➕ Criar Cobrança](CRIAR_COBRANCA/README.md)
