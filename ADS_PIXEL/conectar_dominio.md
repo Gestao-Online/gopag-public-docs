@@ -1,3 +1,5 @@
+# 🔵 Conectar domínio
+
 # Como conectar o domínio verificado do Facebook Ads
 
 Devido as novas atualizações do iOS 14, o Facebook exige que o seu pixel de conversão seja disparado no domínio do seu site (que deve ser verificado no Facebook).
@@ -76,7 +78,7 @@ Na parte de configuração dos Pixels do Facebook, selecione o domínio onde que
 
 Diferentes Pixels podem disparar em diferentes domínios, ou no mesmo domínio. Você tem total controle.
 
-[Clique aqui para ler o nosso artigo mais completo sobre como instalar o Pixel do Facebook](/ADS_PIXEL/facebook_ads.md)
+[Clique aqui para ler o nosso artigo mais completo sobre como instalar o Pixel do Facebook](ADS_PIXEL/facebook_ads.md)
 
 ### Sou afiliado, preciso ter um domínio próprio para instalar o Pixel do Facebook?
 

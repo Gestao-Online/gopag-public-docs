@@ -1,4 +1,6 @@
-# Como adicionar o pixel do Google Analytics ao seu produto
+# 🟠 Pixel Analytics
+
+## Como adicionar o pixel do Google Analytics ao seu produto
 
 No menu principal clique em Produtos, selecione o produto desejado e na aba Configurações:
 

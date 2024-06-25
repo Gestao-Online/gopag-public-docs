@@ -1,4 +1,6 @@
-# Como adicionar o pixel de conversão do Google Ads
+# 🟢 Pixel do Google
+
+### Como adicionar o pixel de conversão do Google Ads
 
 Você pode adicionar até 5 pixels ou eventos de conversão por produto.
 
