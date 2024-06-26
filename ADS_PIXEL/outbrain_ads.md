@@ -53,5 +53,25 @@ Pronto, o evento foi criado na Outbrain, agora você precisa cadastrar o mesmo p
 
 ### Cadastrando o pixel e eventos na plataforma da GOPag
 
+Você pode cadastrar até 5 pixels/eventos de conversão por produto na plataforma da GOPag.
 
+Basta ir em **Editar produto -> aba Configurações**, e descer a tela até a seção de Pixels, então clicar em Outbrain.
 
+Clique em adicionar, e preencha as informações do pixel e evento que acabou de criar na Outbrain.
+
+![](/assets/ads/34_outbrain_pixel_add.png)
+
+Você pode adicionar até 5 eventos por produto, com nomes e combinações diferentes. Basta repetir o processo e configurar cada um.
+
+Por exemplo, pode ter um evento para visitas ao checkout, e outro para compras aprovadas.
+
+Você pode usar sempre o mesmo Pixel ID (OB_ADV_ID), e apenas criar diferentes eventos de conversão na Outbrain de acordo com os seus objetivos.
+
+### Testando o pixel da Outbrain
+
+Você pode usar a extensão Outbrain Pixel Tracker no Google Chrome. Faça o download abaixo:
+
+https://chrome.google.com/webstore/detail/outbrain-pixel-tracker/daebadnaphbiobojnpgcenlkgpihmbdc?hl=en
+
+<br>
+<br>
