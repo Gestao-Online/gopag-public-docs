@@ -30,6 +30,7 @@
     * [🔵 Pixel Taboola](ADS_PIXEL/taboola_ads.md)
     * [🟠 Pixel Outbrain](ADS_PIXEL/outbrain_ads.md)
     * [⚫ Pixel do TikTok](ADS_PIXEL/tiktok_ads.md)
+    * [⚪ Pixel Kwai](ADS_PIXEL/kwai_ads.md)
 * [💲 Planos GOPag](PLANOS_GOPAG/README.md)
 * [📲 Maquininha GOPag](MAQUININHAS/README.md)
     * [👩‍🏫 Conheça sua maquininha](MAQUININHAS/1_CONHECA_MAQ/README.md)
