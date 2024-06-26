@@ -44,3 +44,25 @@ Basta então salvar a conversão recém criada no Taboola no fim da página.
 
 ### Cadastrando os eventos de conversão na plataforma da GOPag
 
+{% hint style="warning" %}
+**Importante:** Você pode cadastrar até 5 pixels/eventos de conversão por produto na plataforma da GOPag.
+{% endhint %}
+
+Acesse a aba de **Configurações** do seu produto e desça a tela até a seção de **Pixels**, depois clique em Taboola.
+
+Clique em adicionar, e preencha as informações do evento que acabou de gerar.
+
+![](/assets/ads/38_taboola_pixel_add.png)
+
+Você pode adicionar até 5 eventos por produto, com nomes e combinações diferentes. Basta repetir o processo e configurar cada um.
+
+Por exemplo, pode ter um evento para visitas ao checkout, e outro para compras aprovadas.
+
+### Testando o Pixel Taboola
+
+Você pode utilizar a própria extensão do Taboola para Google Chrome para testar as conversões:
+
+https://chrome.google.com/webstore/detail/taboola-pixel-helper/aefiepimkogajhddmhcekceihikjcabd
+
+<br>
+<br>
