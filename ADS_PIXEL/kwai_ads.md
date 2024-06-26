@@ -52,3 +52,28 @@ Veja o exemplo abaixo em que selecionamos a porcentagem de 50% do valor do bolet
 
 Para ativar essa função é necessário habilitar abaixo do Pixel ID.
 
+![](/assets/ads/54_kwai_pixel_purchase.png)
+
+### Quais eventos a plataforma da GOPag envia para o Pixel?
+
+- **Add to Cart** (Quando alguém visita o checkout).
+- **Initiated Checkout** (Quando alguém visita o checkout).
+- **Purchase** (compra aprovada no cartão ou PIX).
+
+Por padrão, não disparamos o evento **Purchase** para boleto gerado, mas você pode habilitar essa opção.
+
+{% hint style="warning" %}
+**Importante:** Os eventos serão marcados no Kwai somente se houver campanhas ativas com o seu pixel.
+{% endhint %}
+
+### Como verificar se meu pixel do Kwai está funcionando?
+
+Existe um Plugin para o Google Chrome que te ajuda a verificar o seu Pixel. Você pode fazer o download no link abaixo:
+
+https://chromewebstore.google.com/detail/kwai-pixel-helper/egbeiaidfnjbliaaoijfcnopfopcnkbd
+
+Depois de instalado, acesse o link do seu checkout e selecione o ícone do Kwai Pixel Helper no canto superior direito do seu navegador para ver o Pixel encontrado.
+
+![](/assets/ads/55_kwai_pixel_helper.png)
+
+Você pode ver na imagem acima alguns dos eventos que são enviados, com os detalhes da compra. A mensagem em laranja não afeta o envio dos eventos!
