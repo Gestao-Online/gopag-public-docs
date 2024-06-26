@@ -40,5 +40,28 @@ Pronto, esse é o seu pixel ID do TikTok. Lembrando que o exemplo acima é fict�
 
 Agora dentro da plataforma da GOPag, acesse **Produtos -> Selecione o seu produto -> Configurações**, clique na opção do TikTok e cole o Pixel ID lá.
 
-![]()
+![](/assets/ads/46_tiktok_pixel_config.png)
 
+Após isso, você pode salvar o seu produto.
+
+### Como adicionar uma porcentagem de conversão personalizada para pix e boletos gerados?
+
+É possível selecionar a porcentagem do valor do pix ou boleto para que ele tenha a conversão personalizada, gerando o evento de **Complete Payment**.
+
+Essa ferramenta irá otimizar as campanhas, visto que auxilia a estimar uma porcentagem de conversão e qual valor de venda deve ser enviado ao TikTok Ads.
+
+Veja o exemplo abaixo em que selecionamos a porcentagem de 50% do valor do boleto para enviar o evento de **Complete Payment**.
+
+Para ativar essa função é necessário habilitar abaixo do Pixel ID.
+
+![](/assets/ads/47_tiktok_pixel_complete_payment.png)
+
+### Quais eventos a plataforma da GOPag envia para o Pixel?
+
+- **Initiate Checkout** (Quando alguém visita o checkout).
+- **Complete payment** (Compra aprovada no cartão ou PIX).
+
+Por padrão, não disparamos o evento **Complete payment** para boleto gerado, mas você pode habilitar essa opção.
+
+<br>
+<br>
