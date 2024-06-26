@@ -27,6 +27,7 @@
         * [🔌 Conectar domínio](ADS_PIXEL/conectar_dominio.md)
     * [🟢 Pixel do Google](ADS_PIXEL/google_ads.md)
     * [🟠 Pixel Analytics](ADS_PIXEL/analytics_ads.md)
+    * [🔴 Pixel do Pinterest](ADS_PIXEL/pinterest_ads.md)
     * [🔵 Pixel Taboola](ADS_PIXEL/taboola_ads.md)
     * [🟠 Pixel Outbrain](ADS_PIXEL/outbrain_ads.md)
     * [⚫ Pixel do TikTok](ADS_PIXEL/tiktok_ads.md)
