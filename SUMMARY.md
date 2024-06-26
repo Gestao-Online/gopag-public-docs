@@ -1,6 +1,6 @@
 # Menus
 
-* [ 🧑‍🏫 Apresentação](README.md)
+* [🖼️ Apresentação](README.md)
 * [↕️ Menu de Navegação](NAVIGATION/README.md)
 * [📊 Dashboard](/DASHBOARD/README.md)
 * [➕ Criar Cobrança](CRIAR_COBRANCA/README.md)
@@ -27,6 +27,7 @@
         * [🔌 Conectar domínio](ADS_PIXEL/conectar_dominio.md)
     * [🟢 Pixel do Google](ADS_PIXEL/google_ads.md)
     * [🟠 Pixel Analytics](ADS_PIXEL/analytics_ads.md)
+    * [🟠 Pixel Outbrain](/ADS_PIXEL/outbrain_ads.md)
 * [💲 Planos GOPag](PLANOS_GOPAG/README.md)
 * [📲 Maquininha GOPag](MAQUININHAS/README.md)
     * [👩‍🏫 Conheça sua maquininha](MAQUININHAS/1_CONHECA_MAQ/README.md)
