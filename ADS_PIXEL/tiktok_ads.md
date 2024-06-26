@@ -34,7 +34,11 @@ Exemplo de código:
 
 Você precisa agora extrair o pixel ID. Seguindo o exemplo acima, o ID extraído seria esse: **CAUALHRC77U7KHVMKB4G**.
 
-Pronto, esse é o seu pixel ID do TikTok. Lembrando que o exemplo acima é fictício, você precisa criar o seu próprio pixel ID.
+{% hint style="warning" %}
+**Importante:** Lembrando que o exemplo acima é fictício, você precisa criar o seu próprio pixel ID.
+{% endhint %}
+
+Pronto, esse é o seu pixel ID do TikTok. 
 
 ### Colocando o Pixel ID do TikTok na plataforma da GOPag
 
