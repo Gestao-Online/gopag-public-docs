@@ -10,21 +10,21 @@ Todos os pixels de conversão na plataforma da GOPag são separados por produto,
 
 **Aprenda como integrar com o pixel de diversos serviços:**
 
-[Pixel do Facebook](ADS_PIXEL/facebook_ads.md)
+[Pixel do Facebook](https://docs.gopag.com.br/ads_pixel/facebook_ads)
 
-[Pixel do Google](ADS_PIXEL/google_ads.md)
+[Pixel do Google](https://docs.gopag.com.br/ads_pixel/google_ads)
 
-[Pixel Analytics](ADS_PIXEL/analytics_ads.md)
+[Pixel Analytics](https://docs.gopag.com.br/ads_pixel/analytics_ads)
 
-[Pixel do Pinterest](ADS_PIXEL/pinterest_ads.md)
+[Pixel do Pinterest](https://docs.gopag.com.br/ads_pixel/pinterest_ads)
 
-[Pixel Taboola](ADS_PIXEL/taboola_ads.md)
+[Pixel Taboola](https://docs.gopag.com.br/ads_pixel/taboola_ads)
 
-[Pixel Outbrain](ADS_PIXEL/outbrain_ads.md)
+[Pixel Outbrain](https://docs.gopag.com.br/ads_pixel/outbrain_ads)
 
-[Pixel do TikTok](ADS_PIXEL/tiktok_ads.md)
+[Pixel do TikTok](https://docs.gopag.com.br/ads_pixel/tiktok_ads)
 
-[Pixel Kwai](ADS_PIXEL/kwai_ads.md)
+[Pixel Kwai](https://docs.gopag.com.br/ads_pixel/kwai_ads)
 
 <br>
 <br>
