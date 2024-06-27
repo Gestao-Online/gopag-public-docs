@@ -10,6 +10,8 @@ Todos os pixels de conversão na plataforma da GOPag são separados por produto,
 
 **Aprenda como integrar com o pixel de diversos serviços:**
 
-* [Facebook Ads](ADS_PIXEL/facebook_ads.md)
-* [Google Ads](ADS_PIXEL/google_ads.md)
-* [Analytics](ADS_PIXEL/analytics_ads.md)
+[Facebook Ads](ADS_PIXEL/facebook_ads.md)
+
+[Google Ads](ADS_PIXEL/google_ads.md)
+
+[Analytics](ADS_PIXEL/analytics_ads.md)
