@@ -35,11 +35,11 @@ No primeiro card tem três partes para acompanhamento, sendo elas:
 
 |                                                                                                                                                                                      |   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| - |
-|<p>Já no segundo card, colocamos as formas de pagamentos disponíveis.<br>Lembrando que aqui só irão aparecer as opções que você selecionou no momento de criar o link da cobrança.</p>| ![](/assets/prints/criar_cobranca_card_2.png)|
+|<p>Já no segundo card, colocamos as formas de pagamentos disponíveis.<br><br>Lembrando que aqui só irão aparecer as opções que você selecionou no momento de criar o link da cobrança.</p>| ![](/assets/prints/criar_cobranca_card_2.png)|
 
 |                                                                                |                                                   |
 |--------------------------------------------------------------------------------|---------------------------------------------------|
-|<img src="/assets/prints/criar_cobranca_card_3.png" alt="" data-size="original">|<p>No terceiro card estão as opções de compartilhamento do link para pagamento, você pode utilizar para enviar via whatsapp ou e-mail.<br>Mas caso queira, também pode copiar o link da cobrança diretamente e repassar ao cliente.</p>|
+|![](/assets/prints/criar_cobranca_card_3.png)|<p>No terceiro card estão as opções de compartilhamento do link para pagamento, você pode utilizar para enviar via whatsapp ou e-mail.<br><br>Mas caso queira, também pode copiar o link da cobrança diretamente e repassar ao cliente.</p>|
 
 Agora no quarto card você vê os dados da cobrança e dados do pagador. Saiba que a cada cobrança gerada nós criamos um código único para maior controle da nossa plataforma da GOPag. 😊
 
