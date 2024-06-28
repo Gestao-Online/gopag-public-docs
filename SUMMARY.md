@@ -22,6 +22,8 @@
 * [🧾 Relatórios](RELATORIOS/README.md)
 * [🆘 Suporte](SUPORTE/README.md)
 * [⚙️ Configurações](CONFIGURACOES/README.md)
+<!-- *[📲 Aplicativos]() 
+        *[🔷 Google tag manager]() -->
 * [📣 Pixel Ads](ADS_PIXEL/ads_pixel.md)
     * [🔵 Pixel do Facebook](ADS_PIXEL/facebook_ads.md)
         * [🔌 Conectar domínio](ADS_PIXEL/conectar_dominio.md)
