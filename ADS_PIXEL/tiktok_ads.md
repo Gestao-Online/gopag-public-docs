@@ -17,7 +17,6 @@ Então, clique na opção **Gerenciar** em **Eventos para web**.
 Depois em **Configurar eventos web -> Configuração manual** e, então, adicione um nome para o seu pixel.
 
 ![](/assets/ads/41_tiktok_pixel_eventos_nome.png)
-
 ![](/assets/ads/42_tiktok_pixel_eventos_nome.png)
 
 Após isso, você precisará pular a etapa de criação do funil, visto que a plataforma da GOPag irá captar os eventos de maneira automática. Depois, selecione a opção "Código personalizado" e prossiga. Isso é necessário para o pixel funcionar com a GOPag.

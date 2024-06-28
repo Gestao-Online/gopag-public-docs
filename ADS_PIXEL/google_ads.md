@@ -12,13 +12,12 @@ O ID do Pixel Google Ads é único para a sua conta inteira do Google, ou seja, 
 
 O Label de conversão muda quando você cria conversões diferentes no Google Ads.
 
-Você pode encontrar o seu Pixel Google Ads em Metas -> Resumo -> Nova ação de conversão
+Você pode encontrar o seu Pixel Google Ads em **Metas -> Resumo -> Nova ação de conversão**
 
 ![](/assets/ads/19_gg_menu_pixel.png)
-
 ![](/assets/ads/20_gg_menu_pixel_resumo.png)
 
-Será preciso selecionar a opção "Criar ações de conversão manualmente usando código" e, após isso, salvar e continuar para a próxima etapa.
+Será preciso selecionar a opção **Criar ações de conversão manualmente usando código** e, após isso, salvar e continuar para a próxima etapa.
 
 ![](/assets/ads/21_gg_menu_pixel_add_conversao.png)
 
@@ -33,6 +32,7 @@ O ID do Pixel Google ads e o Label de conversão são separados por uma barra ` 
 Os dados da foto acima seriam:
 
 **ID do Pixel Google Ads:** AW-11468698711
+
 **Label de conversão:** FW1mCOf_i4cZENfo2dwq
 
 ### Adicionando o pixel do Google Ads no seu produto
@@ -58,4 +58,4 @@ Para as outras conversões, basta seguir o mesmo passo a passo!
 
 Você pode baixar a extensão Google Tag Assistant para checar se os disparos estão sendo feitos corretamente.
 
-https://get.google.com/tagassistant/
+[https://get.google.com/tagassistant/](https://get.google.com/tagassistant/)

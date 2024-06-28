@@ -70,7 +70,7 @@ Por padrão, não disparamos o evento **Purchase** para boleto gerado, mas você
 
 Existe um Plugin para o Google Chrome que te ajuda a verificar o seu Pixel. Você pode fazer o download no link abaixo:
 
-https://chromewebstore.google.com/detail/kwai-pixel-helper/egbeiaidfnjbliaaoijfcnopfopcnkbd
+[https://chromewebstore.google.com/detail/kwai-pixel-helper](https://chromewebstore.google.com/detail/kwai-pixel-helper/egbeiaidfnjbliaaoijfcnopfopcnkbd)
 
 Depois de instalado, acesse o link do seu checkout e selecione o ícone do Kwai Pixel Helper no canto superior direito do seu navegador para ver o Pixel encontrado.
 

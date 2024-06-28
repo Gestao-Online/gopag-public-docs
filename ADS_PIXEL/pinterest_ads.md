@@ -6,7 +6,7 @@ O pixel do Pinterest é uma excelente ferramenta para mensurar conversões e aux
 
 ### Onde encontrar meu Pixel do Pinterest?
 
-Acesse **Pinterest Ads Manager** http://ads.pinterest.com/ e clique em **Anúncios**, em seguida, clique em **Conversões**.
+Acesse **Pinterest Ads Manager** [http://ads.pinterest.com](http://ads.pinterest.com) e clique em **Anúncios**, em seguida, clique em **Conversões**.
 
 ![](/assets/ads/56_pinterest_pixel.png)
 
@@ -56,7 +56,7 @@ O Pinterest disponibiliza um Plugin para o Google Chrome que auxilia na verifica
 
 Para baixar, basta acessar o link a seguir:
 
-https://chrome.google.com/webstore/detail/pinterest-tag-helper/gmlcbajhgoaaegmlbaclmmmhpmfdajmp
+[https://chrome.google.com/webstore/detail/pinterest-tag-helper/gmlcbajhgoaaegmlbaclmmmhpmfdajmp](https://chrome.google.com/webstore/detail/pinterest-tag-helper/gmlcbajhgoaaegmlbaclmmmhpmfdajmp)
 
 Depois de instalado, basta acessar o seu checkout e clicar no ícone do Pinterest Tag Helper para abrir a central de verificação da extensão e conseguir visualizar o seu pixel.
 

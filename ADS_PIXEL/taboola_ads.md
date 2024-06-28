@@ -62,7 +62,7 @@ Por exemplo, pode ter um evento para visitas ao checkout, e outro para compras a
 
 Você pode utilizar a própria extensão do Taboola para Google Chrome para testar as conversões:
 
-https://chrome.google.com/webstore/detail/taboola-pixel-helper/aefiepimkogajhddmhcekceihikjcabd
+[https://chrome.google.com/webstore/detail/taboola-pixel-helper/aefiepimkogajhddmhcekceihikjcabd](https://chrome.google.com/webstore/detail/taboola-pixel-helper/aefiepimkogajhddmhcekceihikjcabd)
 
 <br>
 <br>

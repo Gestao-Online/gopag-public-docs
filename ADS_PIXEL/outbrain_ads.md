@@ -71,7 +71,7 @@ Você pode usar sempre o mesmo Pixel ID (OB_ADV_ID), e apenas criar diferentes e
 
 Você pode usar a extensão Outbrain Pixel Tracker no Google Chrome. Faça o download abaixo:
 
-https://chrome.google.com/webstore/detail/outbrain-pixel-tracker/daebadnaphbiobojnpgcenlkgpihmbdc?hl=en
+[https://chrome.google.com/webstore/detail/outbrain-pixel-tracker](https://chrome.google.com/webstore/detail/outbrain-pixel-tracker/daebadnaphbiobojnpgcenlkgpihmbdc?hl=en)
 
 <br>
 <br>
