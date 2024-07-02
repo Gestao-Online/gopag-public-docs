@@ -2,7 +2,7 @@
 
 Quando você solicita uma transferência, seja ela manualmente ou automaticamente, irá aparecer neste menu, mostrando a data da criação, data de transferência, status, código de transação e o valor que foi solicitado.
 
-Assim você pode acompanhar o andamento de uma transferência até o valor ser baixado em sua conta banária.
+Assim você pode acompanhar o andamento de uma transferência até o valor ser baixado em sua conta bancária.
 
 {% hint style="info" %}
 **Atenção:** Caso queira mais informações sobre **Configurações de recebimento** [clique aqui ](https://docs.gopag.com.br/configuracoes#configuracoes-de-recebimento) para acessar a explicação completa dessa função.
@@ -20,11 +20,11 @@ No primeiro momento temos a barra de pesquisa, com ela você pode achar mais rá
 
 ![](/assets/prints/transferencias_menu_barra_pesquisa.png)
 
-Em cada item das transferências, nós colocamos filtros para facilitar a pesquisa por algo mais específico, por exemplo as opções **`Data de criação`** e **`Data de tranferência`**, podendo escolher a data de início e término da busca, ou você pode usar um dos nossos atalhos de período que aparecem assim que se abre o calendário, abaixo uma breve demonstração de uso:
+Em cada item das transferências, nós colocamos filtros para facilitar a pesquisa por algo mais específico, por exemplo as opções **`Data de criação`** e **`Data de transferência`**, podendo escolher a data de início e término da busca, ou você pode usar um dos nossos atalhos de período que aparecem assim que se abre o calendário, abaixo uma breve demonstração de uso:
 
 ![](/assets/prints/transferencias_menu_filtro_data.gif)
 
-Já o filtro de **`Status`**, trás todas as opções de status disponíveis, lembrando que todos os filtros também podem ser utilizados em conjunto para uma busca específica:
+Já o filtro de **`Status`**, mostra todas as opções de status disponíveis, lembrando que todos os filtros também podem ser utilizados em conjunto para uma busca específica:
 
 - Bem sucedido;
 - Confirmado;
@@ -56,7 +56,7 @@ Passando assim, mais de uma possibilidade para acessar as informações 😉👍
 ![](/assets/prints/transferencias_menu_detalhes.png)
 
 
-Logo na parte final das transferências fica a paginação, onde você pode aumentar a quantidade visível de itens mostradoss para até 1000 itens na página:
+Logo na parte final das transferências fica a paginação, onde você pode aumentar a quantidade visível de itens mostrados para até 1000 itens na página:
 
 ![](/assets/prints/transferencias_menu_paginacao.png)
 <p>.</p>
