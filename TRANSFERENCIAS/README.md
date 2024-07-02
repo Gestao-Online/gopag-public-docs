@@ -50,7 +50,7 @@ Em cada transferência listada, você pode observar que na opção **`Detalhes`*
 Passando assim, mais de uma possibilidade para acessar as informações 😉👍
 
 {% hint style="warning" %}
-**Detalhe:** Caso queira mais informações sobre detalhes de transferências [clique aqui ](https://docs.gopag.com.br/transferencias/detalhes_transferencias) para acessar a explicação sobre cada parte desta função.
+**Detalhe:** Caso queira mais informações sobre detalhes de transferências [clique aqui ](https://docs.gopag.com.br/transferencias/detalhes_transferecencias) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
 ![](/assets/prints/transferencias_menu_detalhes.png)
