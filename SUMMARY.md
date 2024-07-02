@@ -1,8 +1,8 @@
 # Menus
 
-* [Apresentação](README.md)
+* [👨‍🏫 Apresentação](README.md)
 * [↕️ Menu de Navegação](NAVIGATION/README.md)
-* [📊 Dashboard](/DASHBOARD/README.md)
+* [📊 Dashboard](DASHBOARD/README.md)
 * [➕ Criar Cobrança](CRIAR_COBRANCA/README.md)
     * [💸 Formas de Pagamento](CRIAR_COBRANCA/FORMAS_PAGAMENTO/README.md)
         * [💳 Cartão de Crédito](CRIAR_COBRANCA/FORMAS_PAGAMENTO/CARTAO_CREDITO/README.md)
@@ -18,6 +18,8 @@
     * [📍 Cobranças Modelo](COBRANCAS/MODELO/README.md)
 * [🔄️ Transações](TRANSACOES/README.md)
     * [📝 Detalhes Transações](TRANSACOES/DETALHES_TRANSACOES/README.md)
+* [🏦 Transferências](TRANSFERENCIAS/README.md)
+    * [📄 Detalhes Transferências](TRANSFERENCIAS/detalhes_transferecencias.md)
 * [🔢 Simular venda](SIMULAR_VENDA/README.md)
 * [🧾 Relatórios](RELATORIOS/README.md)
 * [🆘 Suporte](SUPORTE/README.md)

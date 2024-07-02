@@ -24,7 +24,7 @@ Em cada item das transações, nós colocamos filtros para facilitar a pesquisa 
 
 <br>
 
-Também é possível usar o filtro de busca por **`Código de transação`**, ele tem a mesma função que nossa barra de besquisa, e você pode utilizar o que for mais prático para o momento:
+Também é possível usar o filtro de busca por **`Código de transação`**, ele tem a mesma função que nossa barra de pesquisa, e você pode utilizar o que for mais prático para o momento:
 
 ![](/assets/prints/transacoes_menu_filtro_codigo_transacao.png)
 
