@@ -69,7 +69,7 @@ Mas não fica só por aí, caso queira adicionar uma nova conta bancária, basta
 Ao clicar neste botão, uma janela pop-up será mostrada a você para poder inserir os dados da conta, com o tipo, código do banco, agência bancária, digito do banco e número da conta. Confira o exemplo abaixo:
 
 {% hint style="warning" %}
-**Atenção:** No campo `Código do banco` caso digite errado a conta bancária não será cadastrada, por isso confirme a informação antes de clicar em cadastrar conta.
+**Atenção:** O campo `Dígito da agência (DV)` é um número utilizado para autenticar a agência bancária, evitando erros na identificação da conta ao fazer uma transação. Ele vem depois de um traço, após a numeração da agência, no formato “0000-x”. Caso não tenha um número, precisa colocar a letra "X" no campo de digito da agência.
 {% endhint %}
 
 ![](../assets/prints/configuracoes_menu_conta_cadastrar.gif)
