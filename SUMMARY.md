@@ -12,7 +12,6 @@
     * [🔗 Gerar Link de Cobrança](CRIAR_COBRANCA/LINK_COBRANCA/README.md)
         * [🔗 Gerar Link Cobrança Avulsa](CRIAR_COBRANCA/LINK_COBRANCA/LINK_COBRANCA_AVULSA/README.md)
         * [📍 Gerar Link Cobrança Modelo](CRIAR_COBRANCA/LINK_COBRANCA/LINK_COBRANCA_MODELO/README.md)
-        <!-- * [📌 Gerar Link Cobrança Recorrente](CRIAR_COBRANCA/LINK_COBRANCA/LINK_COBRANCA_RECORRENTE/README.md) -->
 * [💰 Cobranças](COBRANCAS/README.md)
     * [🔗 Cobranças Avulsa](COBRANCAS/AVULSA/README.md)
     * [📍 Cobranças Modelo](COBRANCAS/MODELO/README.md)
@@ -24,9 +23,7 @@
 * [🧾 Relatórios](RELATORIOS/README.md)
 * [🆘 Suporte](SUPORTE/README.md)
 * [⚙️ Configurações](CONFIGURACOES/README.md)
-<!-- *[📲 Aplicativos]() 
-        *[🔷 Google tag manager]() -->
-* [📣 Pixel Ads](ADS_PIXEL/ads_pixel.md)
+* [📣 Aplicativos Pixel Ads](ADS_PIXEL/ads_pixel.md)
     * [🔵 Pixel do Facebook](ADS_PIXEL/facebook_ads.md)
         * [🔌 Conectar domínio](ADS_PIXEL/conectar_dominio.md)
     * [🟢 Pixel do Google](ADS_PIXEL/google_ads.md)
