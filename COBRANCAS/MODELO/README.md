@@ -35,7 +35,7 @@ Também é possível usar o filtro de busca por **`Descrição`**, ele tem a mes
 
 <br>
 
-Já o filtro de **`status`**, trás todas as opções de status disponíveis, lembrando que os filtros também podem ser utilizados em conjunto para uma busca específica:
+Já o filtro de **`status`**, traz todas as opções de status disponíveis, lembrando que os filtros também podem ser utilizados em conjunto para uma busca específica:
 
  - Sendo utilizado
  - Cancelado

@@ -1,6 +1,6 @@
 # 🏦 Transferências
 
-Quando você solicita uma transferência, seja ela manualmente ou automaticamente, irá aparecer neste menu, mostrando a data da criação, data de transferência, status, código de transação e o valor que foi solicitado.
+Quando você solicita uma transferência, seja ela manual ou automaticamente, irá aparecer neste menu, mostrando a data da criação, data de transferência, status, código de transação e o valor solicitado.
 
 Assim você pode acompanhar o andamento de uma transferência até o valor ser baixado em sua conta bancária.
 
@@ -20,13 +20,13 @@ No primeiro momento temos a barra de pesquisa, com ela você pode achar mais rá
 
 ![](/assets/prints/transferencias_menu_barra_pesquisa.png)
 
-Em cada item das transferências, nós colocamos filtros para facilitar a pesquisa por algo mais específico, por exemplo as opções **`Data de criação`** e **`Data de transferência`**, podendo escolher a data de início e término da busca, ou você pode usar um dos nossos atalhos de período que aparecem assim que se abre o calendário, abaixo uma breve demonstração de uso:
+Em cada item das transferências, nós colocamos filtros para facilitar a pesquisa por algo mais específico, por exemplo, as opções **`Data de criação`** e **`Data de transferência`**, podendo escolher a data de início e término da busca, ou você pode usar um dos nossos atalhos de período que aparecem assim que se abre o calendário, abaixo uma breve demonstração de uso:
 
 ![](/assets/prints/transferencias_menu_filtro_data.gif)
 
 Já o filtro de **`Status`**, mostra todas as opções de status disponíveis, lembrando que todos os filtros também podem ser utilizados em conjunto para uma busca específica:
 
-- Bem sucedido;
+- Bem-sucedido;
 - Confirmado;
 - Agendado;
 - Cancelado;

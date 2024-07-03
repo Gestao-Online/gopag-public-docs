@@ -6,7 +6,7 @@
 
 | | |
 |-|-|
-|![](/assets/prints/cobrancas_menu.png)   |Neste menu você conhecerá mais sobre as cobranças geradas avulsa e modelo, junto com as informações disponíveis e específicas de cada um desses tipos.|
+|![](/assets/prints/cobrancas_menu.png)   |Neste menu você conhecerá mais sobre as cobranças geradas avulsas e modelo, com as informações disponíveis e específicas de cada um desses tipos.|
 
 Clique em uma das opções abaixo para saber mais sobre a que deseja:
 
@@ -23,7 +23,7 @@ Clique em uma das opções abaixo para saber mais sobre a que deseja:
         <tbody>
             <tr>
                 <td>
-                    <strong>Cobranças avulsa</strong>
+                    <strong>Cobranças avulsas</strong>
                 </td>
                 <td></td>
                 <td></td>

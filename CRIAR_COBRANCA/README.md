@@ -1,8 +1,8 @@
 # ➕ Criar cobrança
 
-Deixamos facilitado o acesso a criação de uma cobrança, já no momento que você faz login na nossa plataforma da GOPag o botão de criar cobrança fica disponível para você clicar em dois locais:
+Deixamos facilitado o acesso à criação de uma cobrança, já no momento que você faz login na nossa plataforma da GOPag o botão de criar cobrança fica disponível para você clicar em dois locais:
 
-O primeiro local é ao lado esquerdo no início do menu recolhível:
+O primeiro lugar é ao lado esquerdo do início do menu que se recolhe.
 
 ![](../assets/prints/criar_cobranca_dashboard_1.gif)
 
@@ -16,7 +16,7 @@ Ao clicar em uma das duas opções listadas, você abre a configuração da cria
 
 ## [**Avulsa**](https://docs.gopag.com.br/criar_cobranca/link_cobranca)
 
-Quando falamos de cobrança do tipo avulsa nos referimos a um pagamento único ou pontual que é feito por um produto ou serviço específico, sem a necessidade de um compromisso contínuo. Como exemplo a compra de um item em uma loja online e pagar por ele uma única vez.
+Quando falamos de cobrança do tipo avulsa nos referimos a um pagamento único ou pontual feito por um produto, ou serviço específico, sem a necessidade de um compromisso contínuo. Como exemplo a compra de um item em uma loja online e pagar por ele uma única vez.
 
 ## [**Modelo**](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_modelo)
 

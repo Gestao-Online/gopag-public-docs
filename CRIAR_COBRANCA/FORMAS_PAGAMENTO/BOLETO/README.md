@@ -34,13 +34,13 @@ Esses juros consistem em uma taxa aplicada sobre o atraso no pagamento de uma co
 
 <br>
 
-finalizando então com a data limite para pagamento, podendo o boleto ser pago no período que você definir, sendo o prazo máximo até 90 dias, após isso o cliente precisará entrar em contato com você para a emissão de um novo boleto:
+Finalizando então com a data limite para pagamento, podendo o boleto ser pago no período que você definir, sendo o prazo máximo até 90 dias, após isso o cliente precisará entrar em contato com você para a emissão de um novo boleto:
 
 ![](/assets/prints/criar_cobranca_formas_pagamento_boleto_5.png)
 
 <br>
 
-Nesta parte em laranja mais claro, tem um simulador de valores em caso de atraso, para que você confira as variações de valores de acordo com os dias de atraso:
+Nesta parte em laranja-claro, tem um simulador de valores em caso de atraso, para que você confira as variações de valores conforme os dias de atraso:
 
 ![](/assets/prints/criar_cobranca_formas_pagamento_boleto_6.png)
 

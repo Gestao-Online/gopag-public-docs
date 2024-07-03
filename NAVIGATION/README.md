@@ -35,5 +35,5 @@ Clicando no ícone de fixar 📌, o seu menu lateral irá ficar sempre com o tam
 
 | | |
 |-|-|
-|![](../assets/prints/tela_inicial_menus_coluna.png) | Além disso, tem mais um detalhe que é essencial para podermos nos localizarmos dentro da plataforma. Quando selecionamos um menu, ele ficará destacado em uma cor laranja claro. <br><br> Isso foi pensado justamente para poder facilitar sua navegação dentro da plataforma. <br><br>**Incrível, não é mesmo!** <br><br>Portanto, prepare-se, pois estamos prestes a conhecer cada uma das áreas disponíveis dentro da plataforma **GOPag**! |
+|![](../assets/prints/tela_inicial_menus_coluna.png) | Além disso, tem mais um detalhe essencial para podermos nos localizarmos dentro da plataforma. Quando selecionamos um menu, ele ficará destacado em uma cor laranja-claro. <br><br> Isso foi pensado justamente para poder facilitar sua navegação dentro da plataforma. <br><br>**Incrível, não é mesmo!** <br><br>Portanto, prepare-se, pois estamos prestes a conhecer cada uma das áreas disponíveis dentro da plataforma **GOPag**! |
 

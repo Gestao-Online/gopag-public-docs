@@ -19,7 +19,7 @@ Já no primeiro card podemos ver o **`Status`** do pagamento, que pode ter as op
 - Disputa
 - Charged back
 
-Enquanto que no segundo card podemos ver a data e hora da transação. Fechamos com o terceiro card exibindo qual foi a forma de pagamento utilizada pelo cliente:
+Enquanto no segundo card podemos ver a data e hora da transação. Fechamos com o terceiro card exibindo qual foi a forma de pagamento utilizada pelo cliente:
 
 ![](/assets/prints/transacoes_menu_detalhe_transacao_card_123.png)
 
@@ -33,11 +33,11 @@ Além do código de autorização e código de NSU que usamos para identificar c
 
 <br>
 
-Logo no sexto card você pode visualizar os **`Detalhes da transação`**, tais como valores, a taxa de venda que foi aplicada, e o valor líquido que vai como saldo para você, assim como o ID da transação de referência.
+Logo no sexto card você pode visualizar os **`Detalhes da transação`**, tais como valores, a taxa de venda aplicada, e o valor líquido que vai como saldo para você, assim como o ID da transação de referência.
 
 ![](/assets/prints/transacoes_menu_detalhe_transacao_card_6.png)
 
-Na parte inicial da tela de detalhes da transação você pode ver um botão chamado **`Estornar pagamento`**, esse botāo faz com o que os pagamentos em cartāo de crédito ou PIX seja cancelado (os valores serāo devolvidos):
+Na parte inicial da tela de detalhes da transação você pode ver um botão chamado **`Estornar pagamento`**, esse botão faz com o que os pagamentos em cartão de crédito ou PIX seja cancelado (os valores serão devolvidos):
 
 {% hint style="warning" %}
 **Importante:** Este recurso **`Estornar pagamento`** não está disponível para boleto bancário.
@@ -57,6 +57,6 @@ Em caso de uso do boleto, existem algumas diferenças nas informações de pagam
 
 E na parte inicial da tela de detalhes da **`transação de boleto`** você pode ver um botão chamado **`Cancelar`**, ele irá te ajudar no momento que for necessário encerrar a emissão de um boleto, ou alguma transação para fazer estorno ao cliente.
 
-O boleto será cancelado (nāo poderá mais ser pago pelo cliente) e também saíra do DDA(Débito Direto Autorizado) com prazo de 1 dia útil.
+O boleto será cancelado (Não poderá mais ser pago pelo cliente) e também saíra do DDA(Débito Direto Autorizado) com prazo de 1 dia útil.
 
 ![](/assets/prints/transacoes_menu_detalhe_transacao_boleto_2.png)

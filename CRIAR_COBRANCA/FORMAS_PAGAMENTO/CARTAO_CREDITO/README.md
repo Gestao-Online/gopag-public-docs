@@ -6,7 +6,7 @@ Neste momento você irá definir a quantidade de parcelas disponíveis para o cl
 
 Nesse card disponível o uso é bem simples, precisando apenas de você definir a quantidade de parcelas disponíveis para o seu cliente. 
 
-Observe que no exemplo deixamos disponível para até 12x, mas lembre-se, quem definirá a quantidade ao cliente, será você.
+Observe que deixamos no exemplo disponível para até 12x, mas lembre-se, quem definirá a quantidade ao cliente, será você.
 
 {% hint style="danger" %}
 **Importante:**  Para mais informações sobre as taxas, [clique aqui](https://docs.gopag.com.br/simular_venda) e acesse nossa explicação detalhada sobre elas!

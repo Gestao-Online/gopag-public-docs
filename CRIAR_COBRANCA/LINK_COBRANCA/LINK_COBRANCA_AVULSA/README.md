@@ -7,9 +7,15 @@ De início você verá um menu no canto direito da tela, com algumas funções i
 {% tabs %}
 
 {% tab title="↗️ Notificar" %} Quando você usar esta função, será enviada uma notificação ao cliente do status atual da cobrança. Serão estas mensagens: <br><br>
-<strong>Nova cobrança:</strong> Olá "........", Esperamos que esteja bem. Estamos entrando em contato para informá-lo(a) de que foi gerada uma nova cobrança por GESTÃO ONLINE para você e ela está pronta e disponível para pagamento.<br><br>
-<strong>Pagamento recusado:</strong> Prezado(a) "........", Estamos entrando em contato para informá-lo(a) que houve um problema ao processar o seu pagamento e a transação não foi concluída.<br><br>
-<strong>Pagamento aprovado:</strong> Prezado(a) "........", Gostaríamos de confirmar que o seu pagamento foi recebido com sucesso. Agradecemos por escolher os produtos/serviços da GESTÃO ONLINE e por sua pontualidade no pagamento.{% endtab %}
+<strong>Nova cobrança:</strong> 
+Olá "........", 
+Esperamos que esteja bem. Estamos entrando em contato para informá-lo(a) de que foi gerada uma nova cobrança por GESTÃO ONLINE para você e ela está pronta e disponível para pagamento.<br><br>
+<strong>Pagamento recusado:</strong> 
+Prezado(a) "........", 
+Estamos entrando em contato para informá-lo(a) que houve um problema ao processar o seu pagamento e a transação não foi concluída.<br><br>
+<strong>Pagamento aprovado:</strong> 
+Prezado(a) "........", 
+Gostaríamos de confirmar que o seu pagamento foi recebido com sucesso. Agradecemos por escolher os produtos/serviços da GESTÃO ONLINE e por sua pontualidade no pagamento.{% endtab %}
 
 {% tab title="🗑️ Excluir cobrança" %} Em caso de erros, você tem disponível esta opção para poder excluir a cobrança, lembrando que essa função só estará disponível enquanto não houver o pagamento por parte do cliente, após o pagamento, não será mais possível excluir.{% endtab %}
 
@@ -39,11 +45,11 @@ No primeiro card tem três partes para acompanhamento, sendo elas:
 
 |                                                                                |                                                   |
 |--------------------------------------------------------------------------------|---------------------------------------------------|
-|![](/assets/prints/criar_cobranca_card_3.png)|<p>No terceiro card estão as opções de compartilhamento do link para pagamento, você pode utilizar para enviar via whatsapp ou e-mail.<br><br>Mas caso queira, também pode copiar o link da cobrança diretamente e repassar ao cliente.</p>|
+|![](/assets/prints/criar_cobranca_card_3.png)|<p>No terceiro card estão as opções de compartilhamento do link para pagamento, você pode utilizar para enviar via WhatsApp ou e-mail.<br><br>Mas caso queira, também pode copiar o link da cobrança diretamente e repassar ao cliente.</p>|
 
 Agora no quarto card você vê os dados da cobrança e dados do pagador. Saiba que a cada cobrança gerada nós criamos um código único para maior controle da nossa plataforma da GOPag. 😊
 
-Os dados do pagador podem ser preenchidos por você no ato da cobrança, ou caso prefira, deixar o proprio cliente preencher quando ele for efetuar o pagamento:
+Os dados do pagador podem ser preenchidos por você no ato da cobrança, ou caso prefira, deixar o próprio cliente preencher quando ele for efetuar o pagamento:
 
 ![](/assets/prints/criar_cobranca_card_4.png)
 
@@ -54,7 +60,7 @@ No quinto card vemos:
 
 ![](/assets/prints/criar_cobranca_card_5.png)
 
-Aqui no último card colocamos as configurações que foram aplicadas no boleto, como taxas, data de vencimento e juros aplicados:
+Aqui no último card colocamos as configurações aplicadas no boleto, como taxas, data de vencimento e juros aplicados:
 
 
  {% hint style="warning" %}

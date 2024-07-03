@@ -2,10 +2,10 @@
 
 Na tela de detalhes da transferência você tem alguns cards com informações importantes.
 
-No começo da página temos o status da transferência, lembrando que ele tem as opções (Bem sucedido,
+No começo da página temos o status da transferência, lembrando que ele tem as opções (Bem-sucedido,
  Confirmado, Agendado, Cancelado, Pendente, Falha e Criado). 
 
- Você também encontra a data e hora da transferência, e logo ao lado o valor que foi solicitado:
+ Você também encontra a data e hora da transferência, e logo ao lado o valor solicitado:
 
  ![](/assets/prints/transferencias_detalhes_inicio.png)
 

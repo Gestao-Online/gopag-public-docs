@@ -5,7 +5,7 @@ Após você clicar para gerar o link de cobrança, teremos esta tela abaixo, aqu
 
 ![](/assets/prints/criar_cobranca_gerar_link.png)
 
-Qual o tipo de cobrança você está gerando? clique abaixo na de sua preferência e veja mais informações sobre ela:
+Qual o tipo de cobrança você está gerando? Clique abaixo na de sua preferência e veja mais informações sobre ela:
 
 <!-- |[Gerar Link cobrança Avulsa](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_modelo) | [Gerar Link cobrança Modelo](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_avulsa) | 
 |-                          |-                           | -->

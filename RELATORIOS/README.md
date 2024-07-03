@@ -12,21 +12,20 @@ Você pode definir a data de início e fim do extrato que deseja fazer conferên
 
 ![](../assets/prints/relatorios_menu_calendario.png)
 
-
- e na sequência qual formato deseja fazer o download.
+E na sequência qual formato deseja fazer o download.
 
 {% hint style="info" %}
-**Importante:** Lembrando que a versão em excel é editável e você pode copiar mais fácil os dados, agora em PDF o relatório é um pouco diferente, mais focado na leitura das informações.
+**Informação:** É importante lembrar que a versão em Excel é editável, permitindo que você copie os dados com mais facilidade. No entanto, o relatório em formato PDF é um pouco diferente, focando mais na leitura das informações.
 {% endhint %}
 
 Observe abaixo o modo de emissão de um relatório:
 
 ![](../assets/prints/relatorios_menu_gerar.gif)
 
-Analisando melhor relatório gerado em PDF, você pode ver a data que foi feita a transação, o ID para fazer uma busca na plataforma (caso seja necessário), descrição da transação, lançamento se é de entrada ou saída de valor e o saldo final.
+Analisando melhor relatório gerado em PDF, você pode ver a data que foi feita a transação, o ID para fazer uma busca na plataforma (caso seja necessário), descrição da transação, lançamento, se é de entrada ou saída de valor e o saldo final.
 
 {% hint style="info" %}
-**Informação:** Observe que na coluna `Lançamento` nós colocamos as cores <mark style="color:green;background-color:white;">`verde`</mark> para entrada de valor e <mark style="color:red;background-color:white;">**`vermelho`**</mark> para saíde valor, tudo isso para facilicar sua análise no relatório.
+**Informação:** Observe que na coluna `Lançamento` nós colocamos as cores <mark style="color:green;background-color:white;">`verde`</mark> para entrada de valor e <mark style="color:red;background-color:white;">**`vermelho`**</mark> para saída valor, tudo isso para facilitar sua análise no relatório.
 {% endhint %}
 
 ![](../assets/prints/relatorios_pdf_gerado.png)

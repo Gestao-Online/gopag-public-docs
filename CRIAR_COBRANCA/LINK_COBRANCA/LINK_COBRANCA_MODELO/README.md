@@ -1,7 +1,7 @@
 # Link de cobrança modelo
 
 
-Após você clicar para **`gerar o link de cobrança`**, teremos esta tela abaixo com todas as informações necessárias para que possamos acompanhar todo o processo do pagamento:
+Após você clicar para **`gerar o link de cobrança`**, teremos esta tela abaixo com todas as informações necessárias para podermos acompanhar todo o processo do pagamento:
 
 ![](/assets/prints/tela_inicial_criar_cobranca_modelo.png)
 
@@ -12,9 +12,15 @@ De início você verá um menu no canto direito da tela, com algumas funções i
 {% tabs %}
 
 {% tab title="↗️ Notificar" %} Quando você usar esta função, será enviada uma notificação ao cliente do status atual da cobrança. Serão estas mensagens: <br><br>
-<strong>Nova cobrança:</strong> Olá "........", Esperamos que esteja bem. Estamos entrando em contato para informá-lo(a) de que foi gerada uma nova cobrança por GESTÃO ONLINE para você e ela está pronta e disponível para pagamento.<br><br>
-<strong>Pagamento recusado:</strong> Prezado(a) "........", Estamos entrando em contato para informá-lo(a) que houve um problema ao processar o seu pagamento e a transação não foi concluída.<br><br>
-<strong>Pagamento aprovado:</strong> Prezado(a) "........", Gostaríamos de confirmar que o seu pagamento foi recebido com sucesso. Agradecemos por escolher os produtos/serviços da GESTÃO ONLINE e por sua pontualidade no pagamento.{% endtab %}
+<strong>Nova cobrança:</strong> 
+Olá "........", 
+Esperamos que esteja bem. Estamos entrando em contato para informá-lo(a) de que foi gerada uma nova cobrança por GESTÃO ONLINE para você e ela está pronta e disponível para pagamento.<br><br>
+<strong>Pagamento recusado:</strong> 
+Prezado(a) "........", 
+Estamos entrando em contato para informá-lo(a) que houve um problema ao processar o seu pagamento e a transação não foi concluída.<br><br>
+<strong>Pagamento aprovado:</strong> 
+Prezado(a) "........", 
+Gostaríamos de confirmar que o seu pagamento foi recebido com sucesso. Agradecemos por escolher os produtos/serviços da GESTÃO ONLINE e por sua pontualidade no pagamento.{% endtab %}
 
 {% tab title="🗑️ Excluir cobrança" %} Em caso de erros, você tem disponível esta opção para poder excluir a cobrança, lembrando que essa função só estará disponível enquanto não houver o pagamento por parte do cliente, após o pagamento, não será mais possível excluir.{% endtab %}
 
@@ -26,7 +32,7 @@ De início você verá um menu no canto direito da tela, com algumas funções i
 
 <br>
 
-No primeiro card existe duas partes para visualização, sendo elas:
+No primeiro card existem duas partes para visualização, sendo elas:
 
 - Status do pagamento (Sendo utilizado, novo ou cancelado);
 - Data da criação da cobrança;
@@ -45,11 +51,11 @@ No primeiro card existe duas partes para visualização, sendo elas:
 
 |                                                                                |                                                   |
 |--------------------------------------------------------------------------------|---------------------------------------------------|
-|![](/assets/prints/criar_cobranca_card_3.png)|No terceiro card estão as opções de compartilhamento do link para pagamento, você pode utilizar para enviar via whatsapp ou e-mail.<br><br>Mas caso queira, também pode copiar o link da cobrança diretamente e repassar ao cliente.|
+|![](/assets/prints/criar_cobranca_card_3.png)|No terceiro card estão as opções de compartilhamento do link para pagamento, você pode utilizar para enviar via WhatsApp ou e-mail.<br><br>Mas caso queira, também pode copiar o link da cobrança diretamente e repassar ao cliente.|
 
 Agora no quarto e quinto card estão os dados da cobrança e configurações da cobrança. Saiba que a cada cobrança gerada nós criamos um código único para maior controle da nossa plataforma da GOPag 😊.
 
-Ali em configurações da cobrança, caso tenha definido parcelas para o caso do cartão de crédito serão exibidas as parcelas disponíveis para o cliente pagar:
+Ali, em configurações da cobrança, caso tenha definido parcelas para o caso do cartão de crédito, serão exibidas as parcelas disponíveis para o cliente pagar:
 
 ![](/assets/prints/criar_cobranca_modelo_card_4.png)
 

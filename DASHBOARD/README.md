@@ -62,7 +62,7 @@ Observe que ao clicar em um recebimento futuro, um novo card é exibido com toda
 
 ![](../assets/prints/dashboard_recebimentos.gif)
 
-Nesse mesmo calendário você tem disponível outras funções, por exemplo exibir por semana e um botão para o calendário ir direto ao dia atual, demonstramos abaixo o uso dessas opções para você 😁
+Nesse mesmo calendário você tem disponível outras funções, por exemplo, exibir por semana e um botão para o calendário ir direto ao dia atual, demonstramos abaixo o uso dessas opções para você 😁
 
 ![](../assets/prints/dashboard_recebimentos_calendario.gif)
 

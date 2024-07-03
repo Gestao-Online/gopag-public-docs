@@ -22,7 +22,7 @@ Dando sequência a explicação, caso queira fazer uma busca por uma cobrança e
 
 <br>
 
-Em cada item das cobranças colocamos filtros para facilitar a pesquisa por algo mais específico, por exemplo a opção da **`data de criação`**, escolhendo data de início e término da busca, ou você pode usar um dos nossos atalhos de período que aparecem assim que se abre o calendário, abaixo uma breve demonstração de uso:
+Em cada item das cobranças colocamos filtros para facilitar a pesquisa por algo mais específico, por exemplo, a opção da **`data de criação`**, escolhendo data de início e término da busca, ou você pode usar um dos nossos atalhos de período que aparecem assim que se abre o calendário, abaixo uma breve demonstração de uso:
 
 ![](/assets/prints/cobrancas_menu_avulsa_filtro_data_criacao.gif)
 
@@ -37,7 +37,7 @@ Contamos com o filtro de **`status`** com todas as opções disponíveis, lembra
  - Pendente
  - Falha
  - Novo
- - Pré autorizado
+ - Pré-autorizado
  - Revertido
  - Reembolsado
  - Disputa

@@ -1,6 +1,6 @@
 # Menu transações
 
-Com nosso plataforma da GOPag sendo omnichannel, neste menu estão organizadas para você todas as transações realizadas, por máquinas MPOS(Mobile Point os Sale), POS(Point of Sale), PIN Pad, TEF e até mesmo E-commerces parceiros. 
+Com nossa plataforma da GOPag sendo omnichannel, neste menu estão organizadas para você todas as transações realizadas, por máquinas MPOS(Mobile Point os Sale), POS(Point of Sale), PIN Pad, TEF e até mesmo E-commerces parceiros. 
 
 Aqui você pode utilizar os filtros para busca, ou a nossa barra de pesquisa, vamos conhecer melhor nas explicações abaixo:
 
@@ -18,7 +18,7 @@ Para ficar mais fácil a busca por uma transação específica, você pode usar 
 
 <br>
 
-Em cada item das transações, nós colocamos filtros para facilitar a pesquisa por algo mais específico, por exemplo a opção da **`Data de criação`** escolhendo data de início e término da busca, ou você pode usar um dos nossos atalhos de período que aparecem assim que se abre o calendário, abaixo uma breve demonstração de uso:
+Em cada item das transações, nós colocamos filtros para facilitar a pesquisa por algo mais específico, por exemplo, a opção da **`Data de criação`** escolhendo data de início e término da busca, ou você pode usar um dos nossos atalhos de período que aparecem assim que se abre o calendário, abaixo uma breve demonstração de uso:
 
 ![](/assets/prints/transacoes_menu_filtro_data_criacao.gif)
 
@@ -30,14 +30,14 @@ Também é possível usar o filtro de busca por **`Código de transação`**, el
 
 <br>
 
-Já o filtro de **`Status`**, trás todas as opções de status disponíveis, lembrando que todos os filtros também podem ser utilizados em conjunto para uma busca específica:
+Já o filtro de **`Status`**, traz todas as opções de status disponíveis, lembrando que todos os filtros também podem ser utilizados em conjunto para uma busca específica:
 
  - Pago
  - Cancelado
  - Pendente
  - Falha
  - Novo
- - Pré autorizado
+ - Pré-autorizado
  - Revertido
  - Reembolsado
  - Disputa
