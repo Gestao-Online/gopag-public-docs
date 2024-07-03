@@ -26,6 +26,7 @@
 * [📣 Aplicativos Pixel Ads](ADS_PIXEL/ads_pixel.md)
     * [🔵 Pixel do Facebook](ADS_PIXEL/facebook_ads.md)
         * [🔌 Conectar domínio](ADS_PIXEL/conectar_dominio.md)
+        * [🧩 API de Conversão do Facebook](/ADS_PIXEL/config_api_facebook.md)
     * [🟢 Pixel do Google](ADS_PIXEL/google_ads.md)
     * [🟠 Pixel Analytics](ADS_PIXEL/analytics_ads.md)
     * [🔴 Pixel do Pinterest](ADS_PIXEL/pinterest_ads.md)
