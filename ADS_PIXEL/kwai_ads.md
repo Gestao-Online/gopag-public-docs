@@ -6,7 +6,7 @@ A plataforma da GOPag integra com o pixel do Kwai. O primeiro passo é coletar o
 
 ### Coletando o seu Pixel no Kwai
 
-Dentro do **Ads Manager** do Kwai, clique no menu **Assets**, depois em **Pixel**.
+No **Ads Manager** do Kwai, clique no menu **Assets**, depois em **Pixel**.
 
 ![](/assets/ads/48_kwai_pixel.png)
 
@@ -29,14 +29,14 @@ Ao final do código, localize o seu **Pixel ID** como no exemplo:
 Seguindo o exemplo acima, o ID extraído seria esse: **410984069679040162**
 
 {% hint style="warning" %}
-**Importante:** Para que a integração funcione, você precisa gerar o seu próprio ID, este é apenas um exemplo.
+**Importante:** Para a integração funcionar, você precisa gerar o seu próprio ID, este é apenas um exemplo.
 {% endhint %}
 
-Pronto, agora já tem o seu Pixel ID do Kwai!
+Pronto, agora tem o seu Pixel ID do Kwai!
 
 ### Colocando o Pixel ID do Kwai na plataforma da GOPag
 
-Agora dentro da plataforma da GOPag, acesse **Produtos -> Selecione o seu produto -> Configurações**, clique na opção do Kwai e cole o Pixel ID lá.
+Agora na plataforma da GOPag, acesse **Produtos -> Selecione o seu produto -> Configurações**, clique na opção do Kwai e cole o Pixel ID lá.
 
 ![](/assets/ads/53_kwai_pixel_colar.png)
 
@@ -50,7 +50,7 @@ Essa ferramenta irá otimizar as campanhas, visto que auxilia a estimar uma porc
 
 Veja o exemplo abaixo em que selecionamos a porcentagem de 50% do valor do boleto para enviar o evento de **Purchase**.
 
-Para ativar essa função é necessário habilitar abaixo do Pixel ID.
+Para ativar essa função, é necessário habilitar abaixo do Pixel ID.
 
 ![](/assets/ads/54_kwai_pixel_purchase.png)
 
@@ -72,7 +72,7 @@ Existe um Plugin para o Google Chrome que te ajuda a verificar o seu Pixel. Voc�
 
 [https://chromewebstore.google.com/detail/kwai-pixel-helper](https://chromewebstore.google.com/detail/kwai-pixel-helper/egbeiaidfnjbliaaoijfcnopfopcnkbd)
 
-Depois de instalado, acesse o link do seu checkout e selecione o ícone do Kwai Pixel Helper no canto superior direito do seu navegador para ver o Pixel encontrado.
+Após instalado, acesse o link do seu checkout e selecione o ícone do Kwai Pixel Helper no canto superior direito do seu navegador para ver o Pixel encontrado.
 
 ![](/assets/ads/55_kwai_pixel_helper.png)
 

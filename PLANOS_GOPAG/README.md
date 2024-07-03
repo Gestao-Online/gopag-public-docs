@@ -4,9 +4,9 @@ Ficou interessado no nosso sistema?
 
 Ainda não faz uso da nossa plataforma? 
 
-Então não perca tempo e fale com o nosso comercial, nós temos a melhor condição para você. 
+Então, não perca tempo e fale com o nosso comercial, nós temos a melhor condição para você. 
 
-Basta clicar no link abaixo e será encaminhado para um de nossos atendentes, e assim saber qual a melhor opção para o que precisa! 😉👍
+Clique no link abaixo e será encaminhado para um de nossos atendentes, para que você possa escolher a opção mais adequada para sua necessidade. 😉👍
 
 <table data-view="cards">
     <thead>

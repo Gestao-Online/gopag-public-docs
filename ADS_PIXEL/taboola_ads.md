@@ -6,7 +6,7 @@ A integração da plataforma da GOPag com a Taboola funciona através do disparo
 
 Você precisa criar os eventos na sua conta do Taboola (cada evento terá um nome único), e em seguida cadastrar esses eventos nas configurações do produto da plataforma da GOPag.
 
-O primeiro passo é pegar o seu Account ID. Vamos precisar disso para instalar o Pixel.
+O primeiro passo é pegar o seu Account ID. Precisamos disso para instalar o Pixel.
 
 ### Pegando o Account ID Taboola
 
@@ -20,7 +20,7 @@ Account ID: 1386930
 
 ### Criando o Pixel Taboola
 
-Se você ainda não tem um Pixel taboola, vá ao menu **Tracking**, e clique em **Create Pixel**.
+Se você ainda não tem um Pixel taboola, vá ao menu **Tracking** e clique em **Create Pixel**.
 
 Você não precisa copiar o código do seu Pixel agora, pois usaremos o seu **Account ID**.
 
@@ -36,11 +36,11 @@ No tipo de conversão, selecione a opção **Event**
 
 Você pode selecionar um nome de evento pré-existente ou criar um novo, e configurar opções como, por exemplo, um valor fixo da conversão.
 
-Preste atenção, você precisará cadastrar o **Event Name** na plataforma da GOPag, então copie ele para um bloco de notas.
+Preste atenção, você precisará cadastrar o **Event Name** na plataforma da GOPag, então copie-o para um bloco de notas.
 
 ![](/assets/ads/37_taboola_pixel_event_name.png)
 
-Basta então salvar a conversão recém criada no Taboola no fim da página.
+Basta então salvar a conversão recém-criada no Taboola no fim da página.
 
 ### Cadastrando os eventos de conversão na plataforma da GOPag
 
@@ -50,19 +50,19 @@ Basta então salvar a conversão recém criada no Taboola no fim da página.
 
 Acesse a aba de **Configurações** do seu produto e desça a tela até a seção de **Pixels**, depois clique em Taboola.
 
-Clique em adicionar, e preencha as informações do evento que acabou de gerar.
+Clique em adicionar e preencha as informações do evento que acabou de gerar.
 
 ![](/assets/ads/38_taboola_pixel_add.png)
 
 Você pode adicionar até 5 eventos por produto, com nomes e combinações diferentes. Basta repetir o processo e configurar cada um.
 
-Por exemplo, pode ter um evento para visitas ao checkout, e outro para compras aprovadas.
+Por exemplo, pode ter um evento para visitas ao checkout e outro para compras aprovadas.
 
 ### Testando o Pixel Taboola
 
 Você pode utilizar a própria extensão do Taboola para Google Chrome para testar as conversões:
 
-[https://chrome.google.com/webstore/detail/taboola-pixel-helper/aefiepimkogajhddmhcekceihikjcabd](https://chrome.google.com/webstore/detail/taboola-pixel-helper/aefiepimkogajhddmhcekceihikjcabd)
+[https://chrome.google.com/webstore/detail/taboola-pixel-helper](https://chrome.google.com/webstore/detail/taboola-pixel-helper/aefiepimkogajhddmhcekceihikjcabd)
 
 <br>
 <br>

@@ -6,7 +6,7 @@ A plataforma da GOPag integra com o pixel do TikTok. O primeiro passo é coletar
 
 ### Coletando o seu Pixel no TikTok
 
-Dentro do **Ads Manager do TikTok**, clique no menu **Ferramentas**, depois em **Evento**.
+No **Ads Manager do TikTok**, clique no menu **Ferramentas**, depois em **Evento**.
 
 ![](/assets/ads/39_tiktok_pixel.png)
 
@@ -41,7 +41,7 @@ Pronto, esse é o seu pixel ID do TikTok.
 
 ### Colocando o Pixel ID do TikTok na plataforma da GOPag
 
-Agora dentro da plataforma da GOPag, acesse **Produtos -> Selecione o seu produto -> Configurações**, clique na opção do TikTok e cole o Pixel ID lá.
+Agora na plataforma da GOPag, acesse **Produtos -> Selecione o seu produto -> Configurações**, clique na opção do TikTok e cole o Pixel ID lá.
 
 ![](/assets/ads/46_tiktok_pixel_config.png)
 
@@ -55,7 +55,7 @@ Essa ferramenta irá otimizar as campanhas, visto que auxilia a estimar uma porc
 
 Veja o exemplo abaixo em que selecionamos a porcentagem de 50% do valor do boleto para enviar o evento de **Complete Payment**.
 
-Para ativar essa função é necessário habilitar abaixo do Pixel ID.
+Para ativar essa função, é necessário habilitar abaixo do Pixel ID.
 
 ![](/assets/ads/47_tiktok_pixel_complete_payment.png)
 

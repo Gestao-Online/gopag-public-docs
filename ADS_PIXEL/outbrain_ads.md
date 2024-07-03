@@ -45,7 +45,7 @@ No exemplo da imagem acima, o nome do evento criado foi **venda**, mas você pod
 
 Por exemplo, você pode ter um nome de evento diferente para cada produto.
 
-Clique em salvar no fim da tela
+Clique em salvar no fim da tela.
 
 ![](/assets/ads/33_outbrain_pixel_save.png)
 
@@ -65,7 +65,7 @@ Você pode adicionar até 5 eventos por produto, com nomes e combinações difer
 
 Por exemplo, pode ter um evento para visitas ao checkout, e outro para compras aprovadas.
 
-Você pode usar sempre o mesmo Pixel ID (OB_ADV_ID), e apenas criar diferentes eventos de conversão na Outbrain de acordo com os seus objetivos.
+Você pode usar sempre o mesmo Pixel ID (OB_ADV_ID), e apenas criar diferentes eventos de conversão na Outbrain segundo os seus objetivos.
 
 ### Testando o pixel da Outbrain
 
