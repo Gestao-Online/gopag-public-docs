@@ -90,7 +90,7 @@ Você pode ver na imagem acima alguns dos parâmetros que enviamos nos eventos, 
 
 <!-- COLOCAR LINK DE ACESSO DA API -->
 
-Sim, nós temos um tutorial explicando [como configurar a API de conversão do Facebook]().
+Sim, nós temos um tutorial explicando [como configurar a API de conversão do Facebook](https://docs.gopag.com.br/ads_pixel/facebook_ads/config_api_facebook).
 
 ### Por que aparece outro Pixel ID que não é o meu no checkout?
 
