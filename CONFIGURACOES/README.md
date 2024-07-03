@@ -1,6 +1,6 @@
 # Menu configurações
 
-Aqui você encontra as configurações do usuário, nestes cards que veremos o primeiro deles é o único que já mostra os dados que você nos passou no ato da contratação do nosso portal 😊
+Aqui estão as configurações do usuário. O primeiro card é o único que mostra os dados que você nos forneceu no momento da contratação do nosso portal. 😊
 
 ![](../assets/prints/configuracoes_menu.png)
 
@@ -42,7 +42,7 @@ O mesmo também se aplica a `Logo da empresa`, você pode configurá-la igual o 
 
 ### Configurações de recebimento
 
-Uma configuração importante presente na plataforma da **GOPag** é a opção de `Alterar politica de recebimento` você pode deixar automática ou manual as transferências de valores.
+Uma configuração importante presente na plataforma da **GOPag** é a opção de `Alterar política de recebimento`, você pode deixar automática ou manual as transferências de valores.
 
 Quando esta opção está ativada, você precisa definir o intervalo de transferência entre diário, semanal ou mensal (No modo mensal você pode definir o dia que ocorrerá a transferência, caso queira).
 
@@ -54,11 +54,11 @@ No último campo você define qual a menor quantia em dinheiro que pode ser tran
 
 ## Conta bancária
 
-Fechando a opções do menu de configurações, temos a `Conta bancária`, você pode cadastrar mais de uma conta, e definir para onde irá as transferências.
+Fechando a opções do menu de configurações, temos a `Conta bancária`, você pode cadastrar mais de uma conta, e definir para onde irá às transferências.
 
 ![](../assets/prints/configuracoes_menu_conta_bancaria.png)
 
-Caso você queira a troca de conta por uma outra já cadastrada, um aviso será mostrado a você para confirmar a alteração, observe abaixo:
+Caso você queira a troca de conta por outra já cadastrada, um aviso será mostrado a você para confirmar a alteração, observe abaixo:
 
 ![](../assets/prints/configuracoes_menu_conta_alterar.gif)
 
@@ -69,11 +69,11 @@ Mas não fica só por aí, caso queira adicionar uma nova conta bancária, basta
 Ao clicar neste botão, uma janela pop-up será mostrada a você para poder inserir os dados da conta, com o tipo, código do banco, agência bancária, digito do banco e número da conta. Confira o exemplo abaixo:
 
 {% hint style="warning" %}
-**Atenção:** O campo `Dígito da agência (DV)` é um número utilizado para autenticar a agência bancária, evitando erros na identificação da conta ao fazer uma transação. Ele vem depois de um traço, após a numeração da agência, no formato “0000-x”. Caso não tenha um número, precisa colocar a letra "X" no campo de digito da agência.
+**Atenção:** O campo `Dígito da agência (DV)` é um número utilizado para autenticar a agência bancária, evitando, erros na identificação da conta ao fazer uma transação. Ele vem depois de um traço, após a numeração da agência, no formato “0000-x”. Caso não tenha um número, precisa colocar a letra “X” no campo de dígito da agência.
 {% endhint %}
 
 ![](../assets/prints/configuracoes_menu_conta_cadastrar.gif)
 
 {% hint style="danger" %}
-**Importante:** Ao adicionar uma conta bancária a plataforma, não é possivel remover depois. Por isso, confira corretamente quando for fazer o cadastro.
+**Importante:** Ao adicionar uma conta bancária a plataforma, não é possível remover depois. Por isso, confira corretamente quando for fazer o cadastro.
 {% endhint %}
