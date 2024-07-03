@@ -44,7 +44,7 @@ Veja o exemplo abaixo em que selecionamos a porcentagem de 50% do valor do bolet
 
 ![](/assets/ads/03_fb_menu_switch.png)
 
-### Quais eventos a pltaforma GOPag envia para o Pixel?
+### Quais eventos a plataforma GOPag envia para o Pixel?
 
 - InitiateCheckout (quando alguém visita o checkout)
 - Purchase (compra aprovada no cartão ou PIX)
@@ -80,7 +80,7 @@ O Facebook disponibiliza um Plugin para o Google Chrome que te ajuda a verificar
 
 https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc
 
-Depois de instalado, acesse o link do seu checkout e selecione o ícone do FB Pixel Helper no canto superior direito do seu navegador para ver o Pixel encontrado.
+Após instalado, acesse o link do seu checkout e selecione o ícone do FB Pixel Helper no canto superior direito do seu navegador para ver o Pixel encontrado.
 
 ![](/assets/ads/07_fb_menu_pixel_helper.png)
 
@@ -92,7 +92,7 @@ Você pode ver na imagem acima alguns dos parâmetros que enviamos nos eventos, 
 
 Sim, nós temos um tutorial explicando [como configurar a API de conversão do Facebook]().
 
-### Por que aparece um outro Pixel ID que não é o meu no checkout?
+### Por que aparece outro Pixel ID que não é o meu no checkout?
 
 Para a API de conversões do Facebook funcionar corretamente, nós temos que disparar um evento de PageView utilizando o Pixel da própria plataforma da GOPag. Isso é necessário para que os cookies do Facebook sejam identificados.
 
