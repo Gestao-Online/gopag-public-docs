@@ -4,7 +4,7 @@
 
 Você pode adicionar até 5 pixels ou eventos de conversão por produto.
 
-O primeiro passo é gerar ou encontrar o seu Pixel do Google Ads
+O primeiro passo é gerar ou encontrar o seu Pixel do Google Ads.
 
 ### Encontrando o ID do Pixel Google Ads e Label de conversão
 
@@ -21,7 +21,7 @@ Será preciso selecionar a opção **Criar ações de conversão manualmente usa
 
 ![](/assets/ads/21_gg_menu_pixel_add_conversao.png)
 
-Depois de concluir a criação do pixel, clique na opção **ver snippet do evento**:
+Após concluir a criação do pixel, clique na opção **ver snippet do evento**:
 
 ![](/assets/ads/22_gg_menu_pixel_snippet.png)
 
@@ -37,16 +37,16 @@ Os dados da foto acima seriam:
 
 ### Adicionando o pixel do Google Ads no seu produto
 
-Você pode adicionar até 5 pixels ou eventos de conversão diferentes por produto
+Você pode adicionar até 5 pixels ou eventos de conversão diferentes por produto.
 
-Basta ir em **Editar produto** -> aba **Configurações**
+Basta ir em **Editar produto** -> aba **Configurações**.
 
-Então desça até a seção de Pixels de conversão (é no mesmo local onde coloca o Pixel do Facebook). E clique na aba Google Ads.
+Então, desça até a seção de Pixels de conversão (é no mesmo local onde coloca o Pixel do Facebook). E clique na aba Google Ads.
 
 ![](/assets/ads/24_gg_menu_add_pixel.png)
 
 {% hint style="warning" %}
-**Importante:** Para cada pixel / evento que você deseja disparar, você precisa ter uma conversão separada no Google Ads, ou seja, o ID do Pixel será o mesmo, mas o Label irá se alterar em cada conversão, dessa forma você deve configurar os eventos separadamente dentro da plataforma da GOPag.
+**Importante:** Para cada pixel / evento que você deseja disparar, você precisa ter uma conversão separada no Google Ads, ou seja, o ID do Pixel será o mesmo, mas o Label irá se alterar em cada conversão. Dessa forma, você deve configurar os eventos separadamente na plataforma da GOPag.
 {% endhint %}
 
 **Veja um exemplo:**

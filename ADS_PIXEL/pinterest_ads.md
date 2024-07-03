@@ -4,7 +4,7 @@
 
 O pixel do Pinterest é uma excelente ferramenta para mensurar conversões e auxiliar na otimização dos anúncios.
 
-### Onde encontrar meu Pixel do Pinterest?
+### Onde encontro meu Pixel do Pinterest?
 
 Acesse **Pinterest Ads Manager** [http://ads.pinterest.com](http://ads.pinterest.com) e clique em **Anúncios**, em seguida, clique em **Conversões**.
 
@@ -36,15 +36,15 @@ Essa ferramenta irá otimizar as campanhas, visto que auxilia a estimar uma porc
 
 Veja o exemplo abaixo em que selecionamos a porcentagem de 50% do valor do pix para enviar o evento de Checkout.
 
-Para ativar essa função é necessário habilitar abaixo do Pixel ID.
+Para ativar essa função, é necessário habilitar abaixo do Pixel ID.
 
 ![](/assets/ads/59_pinterest_pixel_checkout.png)
 
-### Quais eventos a paltaforma da GOPag envia para o Pixel?
+### Quais eventos a plataforma da GOPag envia para o Pixel?
 
 - **PageVisit** (Quando ocorre uma visita ao seu checkout)
 - **AddToCart** (Início da finalização de compra)
-- **Checkout** (Registra compra aprovada)
+- **Checkout** (Registro de compra aprovada)
 
 {% hint style="info" %}
 **Importante:** Por padrão, não disparamos o evento "checkout" para boleto e pix gerado, mas você pode habilitar essa opção se preferir.
@@ -56,9 +56,9 @@ O Pinterest disponibiliza um Plugin para o Google Chrome que auxilia na verifica
 
 Para baixar, basta acessar o link a seguir:
 
-[https://chrome.google.com/webstore/detail/pinterest-tag-helper/gmlcbajhgoaaegmlbaclmmmhpmfdajmp](https://chrome.google.com/webstore/detail/pinterest-tag-helper/gmlcbajhgoaaegmlbaclmmmhpmfdajmp)
+[https://chrome.google.com/webstore/detail/pinterest-tag-helper](https://chrome.google.com/webstore/detail/pinterest-tag-helper/gmlcbajhgoaaegmlbaclmmmhpmfdajmp)
 
-Depois de instalado, basta acessar o seu checkout e clicar no ícone do Pinterest Tag Helper para abrir a central de verificação da extensão e conseguir visualizar o seu pixel.
+Após instalado, basta acessar o seu checkout e clicar no ícone do Pinterest Tag Helper para abrir a central de verificação da extensão e conseguir visualizar o seu pixel.
 
 ![](/assets/ads/60_pinterest_pixel_tag_helper.png)
 
