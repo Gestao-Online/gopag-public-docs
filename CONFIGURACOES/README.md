@@ -52,7 +52,7 @@ No último campo você define qual a menor quantia em dinheiro que pode ser tran
 
 <br>
 
-## Conta bancária
+### Conta bancária
 
 Fechando a opções do menu de configurações, temos a `Conta bancária`, você pode cadastrar mais de uma conta, e definir para onde irão as transferências.
 
