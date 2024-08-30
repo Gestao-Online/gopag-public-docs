@@ -49,3 +49,5 @@
     * [❎ Fechamento de Turno](MAQUININHAS/11_FECH_TURNO/README.md)
 * [📲 Maquininha Smart GOPag](/MAQUININHA_SMART/README.md)
     * [👩‍🏫 Conheça sua maquininha smart](MAQUININHA_SMART/1_CONHECA_MAQ.md)
+    * [✅ Como ligar sua maquininha smart](MAQUININHA_SMART/2_COMO_LIGAR_MAQ.md)
+    * [🧾 Trocar bobina da maquininha smart](MAQUININHA_SMART/3_TROCAR_BOBINA.md)
