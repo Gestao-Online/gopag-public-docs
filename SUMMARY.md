@@ -47,3 +47,5 @@
     * [📑 Relatórios](MAQUININHAS/9_RELATORIOS/README.md)
     * [🔄️ Reimpressão da Via](MAQUININHAS/10_REIMPRESSAO_VIA/README.md)
     * [❎ Fechamento de Turno](MAQUININHAS/11_FECH_TURNO/README.md)
+* [📲 Maquininha Smart GOPag](/MAQUININHA_SMART/README.md)
+    * [👩‍🏫 Conheça sua maquininha smart](MAQUININHAS/1_CONHECA_MAQ.md)
