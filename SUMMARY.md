@@ -53,4 +53,5 @@
     * [🧾 Trocar bobina da maquininha smart](MAQUININHA_SMART/3_TROCAR_BOBINA.md)
     * [🛍️ Realizar uma venda](MAQUININHA_SMART/4_REALIZAR_VENDA.md)
     * [💸 Venda parcelada](MAQUININHA_SMART/5_VENDA_PARC.md)
-    * [↩️ Estornando uma Venda](MAQUININHAS/6_ESTORNO_VENDA.md)
+    * [↩️ Estornando uma Venda](MAQUININHA_SMART/6_ESTORNO_VENDA.md)
+    * [🔄️ Reimpressão da Via](MAQUININHA_SMART/10_REIMPRESSAO_VIA.md)
