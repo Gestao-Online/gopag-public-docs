@@ -22,6 +22,6 @@
 
 <img width="50%" src="/assets/prints/maquininha_smart_reimpressao_via_4.png" />
 
-**Passo 4-** Selecione se quer reimprimir para o "<mark style="color:orange;background-color:white;">Negócio</mark>" ou "<mark style="color:orange;background-color:white;">Cliente</mark>" e aguarde a reimpressão da via.
+**Passo 4 -** Selecione se quer reimprimir para o "<mark style="color:orange;background-color:white;">Negócio</mark>" ou "<mark style="color:orange;background-color:white;">Cliente</mark>" e aguarde a reimpressão da via.
 
 <br>
