@@ -52,3 +52,4 @@
     * [✅ Como ligar sua maquininha smart](MAQUININHA_SMART/2_COMO_LIGAR_MAQ.md)
     * [🧾 Trocar bobina da maquininha smart](MAQUININHA_SMART/3_TROCAR_BOBINA.md)
     * [🛍️ Realizar uma venda](MAQUININHA_SMART/4_REALIZAR_VENDA.md)
+    * [💸 Venda parcelada](MAQUININHA_SMART/5_VENDA_PARC.md)
