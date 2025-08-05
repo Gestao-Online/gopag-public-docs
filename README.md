@@ -1,4 +1,4 @@
-# Apresetação
+# Apresentação
 
 ## O que é a GOPag?
 
