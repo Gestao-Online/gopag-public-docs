@@ -4,7 +4,7 @@ Na tela principal da plataforma **GOPag**, você encontra informações com seu 
 
 Você também pode ver os gráficos de transações, cobranças, e até o calendário com recebimentos futuros:
 
-![](../assets/prints/tela_inicial.jpg)
+![](../assets/prints/tela_inicial.png)
 
 No primeiro card você tem disponível o botão para sacar o valor do saldo atual, mas vale uma atenção a mais nesta parte, pois este botão só aparece para você, caso tenha optado por utilizar o tipo **`Saque manual`**:
 

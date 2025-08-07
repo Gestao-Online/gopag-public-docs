@@ -4,7 +4,7 @@ Ao acessar seu ambiente **GOPag**, nesse primeiro momento será a hora de conhec
 
 Sua tela inicial será similar ao que consta na imagem da tela de teste abaixo:
 
-![](../assets/prints/tela_inicial.jpg)
+![](../assets/prints/tela_inicial.png)
 
 
 **Porém, com suas informações de saldo!**
