@@ -14,7 +14,7 @@ No começo da página temos o status da transferência, lembrando que ele tem as
  Ao lado direito você vê também os detalhes da conta bancária, com as informações do banco que vai receber ou já recebeu a transferência que você criou
 
  {% hint style="warning" %}
-**Importante:** As transferências possuem um prazo para serem efetuadas, sendo no máximo um dia útil. 😉
+**Importante:** As transferências possuem um prazvo para serem efetuadas, sendo no máximo um dia útil. 😉
 {% endhint %}
 
 ![](/assets/prints/transferencias_detalhes_fim.png)
