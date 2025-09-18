@@ -8,28 +8,27 @@ A plataforma da GOPag integra com o pixel do TikTok. O primeiro passo é coletar
 
 No **Ads Manager do TikTok**, clique no menu **Ferramentas**, depois em **Evento**.
 
-![](/assets/ads/39_tiktok_pixel.png)
+![](../assets/ads/39_tiktok_pixel.png)
 
 Então, clique na opção **Gerenciar** em **Eventos para web**.
 
-![](/assets/ads/40_tiktok_pixel_eventos.png)
+![](../assets/ads/40_tiktok_pixel_eventos.png)
 
 Depois em **Configurar eventos web -> Configuração manual** e, então, adicione um nome para o seu pixel.
 
-![](/assets/ads/41_tiktok_pixel_eventos_nome.png)
-![](/assets/ads/42_tiktok_pixel_eventos_nome.png)
+![](../assets/ads/41_tiktok_pixel_eventos_nome.png) ![](../assets/ads/42_tiktok_pixel_eventos_nome.png)
 
 Após isso, você precisará pular a etapa de criação do funil, visto que a plataforma da GOPag irá captar os eventos de maneira automática. Depois, selecione a opção "Código personalizado" e prossiga. Isso é necessário para o pixel funcionar com a GOPag.
 
-![](/assets/ads/43_tiktok_pixel_cod_personalizado.png)
+![](../assets/ads/43_tiktok_pixel_cod_personalizado.png)
 
 Clique em **Exibir instruções** e copie o código gerado.
 
-![](/assets/ads/44_tiktok_pixel_cod_personalizado.png)
+![](../assets/ads/44_tiktok_pixel_cod_personalizado.png)
 
 Exemplo de código:
 
-![](/assets/ads/45_tiktok_pixel_cod_exemplo.png)
+![](../assets/ads/45_tiktok_pixel_cod_exemplo.png)
 
 Você precisa agora extrair o pixel ID. Seguindo o exemplo acima, o ID extraído seria esse: **CAUALHRC77U7KHVMKB4G**.
 
@@ -37,13 +36,13 @@ Você precisa agora extrair o pixel ID. Seguindo o exemplo acima, o ID extraído
 **Importante:** Lembrando que o exemplo acima é fictício, você precisa criar o seu próprio pixel ID.
 {% endhint %}
 
-Pronto, esse é o seu pixel ID do TikTok. 
+Pronto, esse é o seu pixel ID do TikTok.
 
 ### Colocando o Pixel ID do TikTok na plataforma da GOPag
 
 Agora na plataforma da GOPag, acesse **Produtos -> Selecione o seu produto -> Configurações**, clique na opção do TikTok e cole o Pixel ID lá.
 
-![](/assets/ads/46_tiktok_pixel_config.png)
+![](../assets/ads/46_tiktok_pixel_config.png)
 
 Após isso, você pode salvar o seu produto.
 
@@ -57,14 +56,14 @@ Veja o exemplo abaixo em que selecionamos a porcentagem de 50% do valor do bolet
 
 Para ativar essa função, é necessário habilitar abaixo do Pixel ID.
 
-![](/assets/ads/47_tiktok_pixel_complete_payment.png)
+![](../assets/ads/47_tiktok_pixel_complete_payment.png)
 
 ### Quais eventos a plataforma da GOPag envia para o Pixel?
 
-- **Initiate Checkout** (Quando alguém visita o checkout).
-- **Complete payment** (Compra aprovada no cartão ou PIX).
+* **Initiate Checkout** (Quando alguém visita o checkout).
+* **Complete payment** (Compra aprovada no cartão ou PIX).
 
 Por padrão, não disparamos o evento **Complete payment** para boleto gerado, mas você pode habilitar essa opção.
 
-<br>
-<br>
+\
+\

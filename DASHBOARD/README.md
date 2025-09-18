@@ -1,4 +1,4 @@
-# 📱 Dashboard
+# 📊 Dashboard
 
 Na tela principal da plataforma **GOPag**, você encontra informações com seu saldo atual, saldo futuro ou total de transações.
 
@@ -32,26 +32,28 @@ E por último definindo para somente um dia:
 
 ![](../assets/prints/dashboard_transacoes_dia.gif)
 
-<br>
+\
+
 
 Na parte final, temos um pequeno relatório com as últimas cinco transações, e deixamos um atalho para você ir direto ao menu de todas as transações:
 
 {% hint style="warning" %}
-**Atenção:** Para mais informações sobre **transações**, [**`clique aqui`**](/TRANSACOES/README.md)
+**Atenção:** Para mais informações sobre **transações**, [**`clique aqui`**](../TRANSACOES/)
 {% endhint %}
 
 ![](../assets/prints/dashboard_transacoes_botao.gif)
 
-<br>
+\
+
 
 **Mas as opções do nosso dashboard não param por aí! 😁**
 
-Clicando na opção cobranças que está logo ao lado de transações, você tem uma nova tela a ser exibida, agora com gráfico de crescimento, um botão de atalho para você criar uma nova cobrança, o relatório das últimas cobranças geradas e o status dessas cobranças. 
+Clicando na opção cobranças que está logo ao lado de transações, você tem uma nova tela a ser exibida, agora com gráfico de crescimento, um botão de atalho para você criar uma nova cobrança, o relatório das últimas cobranças geradas e o status dessas cobranças.
 
 Lembrando que tudo é influenciado pela data que você determina
 
 {% hint style="warning" %}
-**Atenção:** Para mais informações sobre **transações**, [**`clique aqui`**](/TRANSACOES/README.md)
+**Atenção:** Para mais informações sobre **transações**, [**`clique aqui`**](../TRANSACOES/)
 {% endhint %}
 
 ![](../assets/prints/dashboard_cobrancas.gif)
@@ -65,4 +67,3 @@ Observe que ao clicar em um recebimento futuro, um novo card é exibido com toda
 Nesse mesmo calendário você tem disponível outras funções, por exemplo, exibir por semana e um botão para o calendário ir direto ao dia atual, demonstramos abaixo o uso dessas opções para você 😁
 
 ![](../assets/prints/dashboard_recebimentos_calendario.gif)
-

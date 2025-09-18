@@ -4,13 +4,14 @@ Na parte de informações do cliente, você já pode preencher no momento de ger
 
 Observe o exemplo que fizemos abaixo:
 
-![](/assets/prints/criar_cobranca_informacoes.gif)
+![](../../assets/prints/criar_cobranca_informacoes.gif)
 
 Agora se você tiver criado uma cobrança modelo, irá aparecer somente o botão de envio de notificações, não sendo necessário preencher nenhuma informação do cliente, pois ficará disponível para que ele preencha no ato do pagamento:
 
-![](/assets/prints/criar_cobranca_informacoes.gif)
+![](../../assets/prints/criar_cobranca_informacoes.gif)
 
-<br>
+\
+
 
 Ok, mas e quanto ao restante das informações no caso da cobrança avulsa?
 
@@ -18,4 +19,4 @@ Você pode deixar o cliente completar as demais informações no momento que ele
 
 confira abaixo a visão do cliente no momento do pagamento:
 
-![](/assets/prints/criar_cobranca_informacoes_checkout.png)
+![](../../assets/prints/criar_cobranca_informacoes_checkout.png)

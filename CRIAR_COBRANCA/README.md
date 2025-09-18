@@ -1,4 +1,4 @@
-# ➕ Criar cobrança
+# ➕ Criar Cobrança
 
 Deixamos facilitado o acesso à criação de uma cobrança, já no momento que você faz login na nossa plataforma da GOPag o botão de criar cobrança fica disponível para você clicar em dois locais:
 
@@ -6,7 +6,8 @@ O primeiro lugar é ao lado esquerdo do início do menu que se recolhe.
 
 ![](../assets/prints/criar_cobranca_dashboard_1.gif)
 
-<br>
+\
+
 
 O segundo local é no dashboard na aba de cobranças:
 
@@ -20,8 +21,4 @@ Quando falamos de cobrança do tipo avulsa nos referimos a um pagamento único o
 
 ## [**Modelo**](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_modelo)
 
-A cobrança modelo ao ser gerada, cria um link único que pode ser utilizado diversas vezes para pagamento de um valor fixo, e para cada transação nesse único link você terá a informação completa de quem efetuou o pagamento, tudo isso e muito mais na nossa  plataforma da GOPag.
-
-<!-- # [**Recorrente**](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_recorrente)
-
-<p>O pagamento recorrente é um método de cobrança periódica, feita com recorrência mensal, quinzenal ou anual enquanto o contrato de serviço durar. Entre os serviços que utilizam o sistema de pagamento recorrente, podemos falar de cursos, contabilidade, mensalidade escolar, honorários, editoras e empresas de telecomunicações.</p> -->
+A cobrança modelo ao ser gerada, cria um link único que pode ser utilizado diversas vezes para pagamento de um valor fixo, e para cada transação nesse único link você terá a informação completa de quem efetuou o pagamento, tudo isso e muito mais na nossa plataforma da GOPag.

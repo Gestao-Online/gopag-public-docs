@@ -1,10 +1,11 @@
-# Menu configurações
+# ⚙️ Configurações
 
 Aqui estão as configurações do usuário. O primeiro card é o único que mostra os dados que você nos forneceu no momento da contratação do nosso portal. 😊
 
 ![](../assets/prints/configuracoes_menu.png)
 
-<br>
+\
+
 
 ### Alterar senha de acesso
 
@@ -16,17 +17,19 @@ No segundo card você vê a opção de `Alterar a senha`, observe que deixamos u
 
 ![](../assets/prints/configuracoes_menu_alterar_senha.gif)
 
-<br>
+\
+
 
 ### Alterar imagem de perfil
 
-Mais abaixo, tem a opção de alterar `Imagem do perfil`. Pedimos apenas alguns requisitos para que tudo funcione direitinho no nosso portal. A imagem precisa estar em um dos seguintes formatos: PNG, JPEG ou SVG. 
+Mais abaixo, tem a opção de alterar `Imagem do perfil`. Pedimos apenas alguns requisitos para que tudo funcione direitinho no nosso portal. A imagem precisa estar em um dos seguintes formatos: PNG, JPEG ou SVG.
 
 O tamanho também tem um limite, que é de apenas 5MB. Confira abaixo o passo a passo para a substituição da sua foto de perfil:
 
 ![](../assets/prints/configuracoes_menu_alterar_foto_perfil.gif)
 
-<br>
+\
+
 
 ### Alterar logo da empresa
 
@@ -38,7 +41,8 @@ O mesmo também se aplica a `Logo da empresa`, você pode configurá-la igual o 
 
 ![](../assets/prints/configuracoes_menu_alterar_foto_empresa.gif)
 
-<br>
+\
+
 
 ### Configurações de recebimento
 
@@ -50,7 +54,8 @@ No último campo você define qual a menor quantia em dinheiro que pode ser tran
 
 ![](../assets/prints/configuracoes_menu_alterar_politica.gif)
 
-<br>
+\
+
 
 ### Conta bancária
 
