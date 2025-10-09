@@ -61,3 +61,4 @@
     * [Criar cobrança única](developers/mundo-online-link-de-pagamento/criar-cobranca-unica.md)
   * [Mundo físico (Connect)](developers/mundo-fisico-connect/README.md)
     * [GoPagConnect V1](developers/mundo-fisico-connect/gopagconnect-v1.md)
+* [Política de privacidade](politica-de-privacidade.md)
