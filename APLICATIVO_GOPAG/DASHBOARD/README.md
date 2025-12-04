@@ -1,20 +1,19 @@
 # 📊 Dashboard
 
-## 🔹 Veja o seu Saldo
+## 🔹 Saldo
 
-Na primeira seção da Tela Inicial, você pode visualizar o seu saldo atual de forma rápida e prática.
+Na primeira seção da tela inicial você visualiza o saldo disponível de forma rápida e clara.
 
-![](../../assets/prints/home.jpeg) 
+![](../../assets/prints/home.jpg)
 
+## 🔹 Atalhos e serviços
 
-## 🔹 Opções disponíveis
+A área de serviços reúne atalhos para as principais funcionalidades do aplicativo:
 
-Na seção de opções do dashboard, você encontra funcionalidades que irão te auxiliar no uso do aplicativo. São elas:
-
-Criar cobrança com Tap to Pay;
-Criar cobrança;
-Simulação de venda;
-Configurações;
-Suporte.
+- **Tap to Pay** — cobrar com dispositivo compatível;
+- **Criar cobrança** — emitir links ou cobranças avulsas;
+- **Simular venda** — testar fluxo de vendas;
+- **Configurações** — ajustar dados da conta;
+- **Suporte** — abrir chamados e obter ajuda.
 
 ![](../../assets/prints/dashboard-servicos.jpg)

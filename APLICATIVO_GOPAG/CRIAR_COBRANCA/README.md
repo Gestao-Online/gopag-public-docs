@@ -1,15 +1,10 @@
 # ➕ Criar nova cobrança
 
-Para criar uma cobrança única em nosso aplicativo:
+Para emitir uma cobrança no aplicativo, preencha os campos exibidos na tela de criação:
 
-Nessa primeira parte da tela temos essas seguintes opções:
+1. **Nome da cobrança:** descreva o motivo ou referência da cobrança.
+2. **Valor:** informe o valor a ser cobrado.
+3. **Tipo:** escolha entre **Única** ou **Recorrente**.
+4. **Formas de pagamento:** selecione uma ou mais opções (Cartão, Pix, Boleto, etc.).
 
-1. Insira o nome da cobrança.
-
-2. Insira o valor da cobrança.
-
-3. Insira o tipo da cobrança (Única ou Recorrente).
-
-4. Selecione as formas de pagamento. Pode ser selecionado mais de uma forma de pagamento. 
-
-![](../../assets/prints/nova-cobranca.jpg) 
+![](../../assets/prints/nova-cobranca.jpg)

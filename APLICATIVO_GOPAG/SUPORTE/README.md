@@ -1,11 +1,11 @@
 # 🆘 Suporte
 
-Em caso de problemas com a nossa plataforma, ou algo fora do comum e que não esteja conforme a normalidade do nosso sistema, você pode nos contatar pelo suporte para que nossa equipe ajude o mais rápido possível:
+Se encontrar algum problema ou comportamento inesperado no aplicativo, entre em contato com nossa equipe de suporte para que possamos ajudar o mais rápido possível.
+
+Ao abrir um chamado, descreva o problema com detalhes (passos executados, telas afetadas e, se possível, prints). Essas informações agilizam a investigação e a solução.
 
 ![](../../assets/prints/tela-suporte-01.jpg)
 
-Pedimos sempre que explique bem o problema ou ajuda que está precisando, para podermos auxiliar da melhor e mais ágil forma, com nossa equipe de suporte 😉
-
-Você pode também nos enviar um email, em caso de ajuda ou dúvida, para o [suporte@gopag.com.br)](suporte@gopag.com.br), lembrando de tentar explicar o mais detalhadamente possível a situação para podermos te ajudar o mais breve possível, conforme exemplo abaixo:
+Também é possível enviar um e‑mail para: [suporte@gopag.com.br](mailto:suporte@gopag.com.br). Sempre inclua uma descrição clara do problema e, quando aplicável, os prints que ilustram a situação.
 
 ![](../../assets/prints/tela-suporte-02.jpg)

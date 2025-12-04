@@ -1,38 +1,29 @@
 # 💸 Cobrança Única
 
-Quando selecionamos Cobrança Única, abre a opção de configurar as parcelas. 
-Nessa parte podemos definir o número de parcelas da cobrança.
-
+Ao selecionar **Cobrança Única**, você poderá definir o número de parcelas (quando aplicável) e preencher os dados da cobrança.
 
 ![](../../../assets/prints/numero-parcelas.jpg)
 
-
-Abaixo você pode inserir as informações pessoais (opcional).
+Opcionalmente, adicione as informações pessoais do pagador (nome, e‑mail, telefone) para facilitar a identificação.
 
 ![](../../../assets/prints/info-pessoal.jpg)
 
-
-Após concluir essas configurações, aperte no botão "Salvar link de cobrança".
+Após configurar os detalhes, toque em **Salvar link de cobrança** para gerar o link de pagamento.
 
 ![](../../../assets/prints/botao-link.jpg)
 
-
-Clicando no link, é aberto a tela da cobrança onde é mostrado as informações detalhadas da cobrança.
-Na primeira parte dessa tela do aplicativo, pode ser visualizado o Status do pagamento, data, forma de pagamento, entre outras.
+Ao abrir o link da cobrança, a tela exibe as informações detalhadas da cobrança. Na primeira seção são apresentados o status do pagamento, a data e a forma de pagamento.
 
 ![](../../../assets/prints/tela-cobranca.jpg)
 
-
-Na segunda parte da tela do aplicativo podemos visualizar o link de pagamento que podemos abrir o link, copiar para a área de transferência do dispositivo e podemos também enviar via e-mail e WhatsApp.
+Na segunda seção você encontra o link de pagamento com opções para abrir, copiar para a área de transferência ou compartilhar por e‑mail e WhatsApp.
 
 ![](../../../assets/prints/tela-cobranca-02.jpg)
 
-
-Na terceira parte da tela do aplicativo é mostrados os dados do pagador configurado no momento da criação do link de cobrança.
+Na terceira seção são exibidos os dados do pagador informados no momento da criação do link.
 
 ![](../../../assets/prints/dados-pagador.jpg)
 
+Por fim, a tela mostra as configurações da cobrança e o histórico de transações relacionadas.
 
-E por último, é mostrados as Configurações da cobrança e as Transações.
- 
 ![](../../../assets/prints/config-cob.jpg)
