@@ -6,4 +6,4 @@ A GOPag é uma empresa inovadora no mercado de meios de pagamento, oferecendo um
 
 Além das taxas competitivas, a GOPag se orgulha de sua política de transparência. Nossos clientes têm acesso a todas as informações relacionadas às transações, taxas e prazos de recebimento, proporcionando um maior controle financeiro e eliminando possíveis preocupações.
 
-Para saber mais acesse as próximas páginas! 😉👍
+Explore as próximas páginas e conheça tudo o que o aplicativo pode oferecer! 😉👍
