@@ -2,7 +2,7 @@
 
 Aqui estão as configurações do usuário. O primeiro card é o único que mostra os dados que você nos forneceu no momento da contratação do nosso portal. 😊
 
-![](../../assets/prints/config-conta-00.jpg)
+![](../../assets/prints/config-conta-0.jpg)
 
 
 ## Alterar senha de acesso
