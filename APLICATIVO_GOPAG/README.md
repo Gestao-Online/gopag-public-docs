@@ -1,4 +1,4 @@
-# 👨‍🏫 Apresentação
+# 📱 Aplicativo GoPag
 
 ## O que é o Aplicativo GOPag?
 
