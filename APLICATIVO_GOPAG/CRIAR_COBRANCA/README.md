@@ -12,4 +12,4 @@ Nessa primeira parte da tela temos essas seguintes opções:
 
 4. Selecione as formas de pagamento. Pode ser selecionado mais de uma forma de pagamento. 
 
-![](https://gopag.com.br/loja/assets/prints/nova-cobranca.jpg) 
+![](../../assets/prints/nova-cobranca.jpg) 

@@ -4,7 +4,7 @@
 
 Na primeira seção da Tela Inicial, você pode visualizar o seu saldo atual de forma rápida e prática.
 
-![](https://gopag.com.br/loja/assets/prints/home.jpeg) 
+![](../../assets/prints/home.jpeg) 
 
 
 ## 🔹 Opções disponíveis
@@ -17,4 +17,4 @@ Simulação de venda;
 Configurações;
 Suporte.
 
-![](https://gopag.com.br/loja/assets/prints/dashboard-servicos.jpg)
+![](../../assets/prints/dashboard-servicos.jpg)

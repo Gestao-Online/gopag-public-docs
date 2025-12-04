@@ -12,7 +12,7 @@ Para realizar uma cobrança com Cartão de Crédito:
 
 4. Clique em Confirmar e a tela do Tap to Pay será exibida.
 
-![](https://gopag.com.br/loja/assets/prints/tap-to-pay-01.jpg) 
+![](../../assets/prints/tap-to-pay-01.jpg) 
 
 
 ## 🔹 Cartão de débito e Pix
@@ -23,4 +23,4 @@ Para cobrar via Cartão de Débito ou Pix:
 
 2. Clique em Confirmar para acessar a tela do Tap to Pay.
 
-![](https://gopag.com.br/loja/assets/prints/tap-to-pay-02.jpg)
+![](../../assets/prints/tap-to-pay-02.jpg)

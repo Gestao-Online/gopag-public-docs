@@ -4,35 +4,35 @@ Quando selecionamos Cobrança Única, abre a opção de configurar as parcelas.
 Nessa parte podemos definir o número de parcelas da cobrança.
 
 
-![](https://gopag.com.br/loja/assets/prints/numero-parcelas.jpg)
+![](../../../assets/prints/numero-parcelas.jpg)
 
 
 Abaixo você pode inserir as informações pessoais (opcional).
 
-![](https://gopag.com.br/loja/assets/prints/info-pessoal.jpg)
+![](../../../assets/prints/info-pessoal.jpg)
 
 
 Após concluir essas configurações, aperte no botão "Salvar link de cobrança".
 
-![](https://gopag.com.br/loja/assets/prints/botao-link.jpg)
+![](../../../assets/prints/botao-link.jpg)
 
 
 Clicando no link, é aberto a tela da cobrança onde é mostrado as informações detalhadas da cobrança.
 Na primeira parte dessa tela do aplicativo, pode ser visualizado o Status do pagamento, data, forma de pagamento, entre outras.
 
-![](https://gopag.com.br/loja/assets/prints/tela-cobranca.jpg)
+![](../../../assets/prints/tela-cobranca.jpg)
 
 
 Na segunda parte da tela do aplicativo podemos visualizar o link de pagamento que podemos abrir o link, copiar para a área de transferência do dispositivo e podemos também enviar via e-mail e WhatsApp.
 
-![](https://gopag.com.br/loja/assets/prints/tela-cobranca-02.jpg)
+![](../../../assets/prints/tela-cobranca-02.jpg)
 
 
 Na terceira parte da tela do aplicativo é mostrados os dados do pagador configurado no momento da criação do link de cobrança.
 
-![](https://gopag.com.br/loja/assets/prints/dados-pagador.jpg)
+![](../../../assets/prints/dados-pagador.jpg)
 
 
 E por último, é mostrados as Configurações da cobrança e as Transações.
  
-![](https://gopag.com.br/loja/assets/prints/config-cob.jpg)
+![](../../../assets/prints/config-cob.jpg)

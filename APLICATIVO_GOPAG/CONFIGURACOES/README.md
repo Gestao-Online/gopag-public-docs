@@ -2,7 +2,7 @@
 
 Aqui estão as configurações do usuário. O primeiro card é o único que mostra os dados que você nos forneceu no momento da contratação do nosso portal. 😊
 
-![](https://gopag.com.br/loja/assets/prints/config-conta-01.jpg)
+![](../../assets/prints/config-conta-01.jpg)
 
 
 ## Alterar senha de acesso
@@ -13,4 +13,4 @@ No segundo card você vê a opção de `Alterar a senha`, observe que deixamos u
 **Importante:** As senhas seguem algumas regras para serem aceitas, precisa ter no mínimo 8 caracteres, incluindo letra minúscula (a - z), letra maiúscula (A - Z) e número (0 - 9).
 {% endhint %}
 
-![](https://gopag.com.br/loja/assets/prints/alterar-senha.jpg)
+![](../../assets/assets/prints/alterar-senha.jpg)
