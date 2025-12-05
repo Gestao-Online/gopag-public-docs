@@ -16,7 +16,7 @@ Também é possível definir o período da recorrência:
 - **Data de início** — quando a primeira cobrança será gerada;
 - **Data de término** — quando a última cobrança ocorrerá (opcional).
 
-![](../../../assets/prints/config_recorrencia.jpg)
+![](../../../assets/prints/config-recorrencia.jpg)
 
 Você pode, opcionalmente, adicionar informações adicionais do pagador para personalizar a cobrança.
 
