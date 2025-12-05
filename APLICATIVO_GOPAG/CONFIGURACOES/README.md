@@ -12,4 +12,4 @@ No segundo card está a opção **Alterar a senha**. Por segurança, o recurso s
 **Importante:** a senha deve ter no mínimo 8 caracteres, incluindo letra minúscula (a–z), letra maiúscula (A–Z) e número (0–9).
 {% endhint %}
 
-![](../../assets/prints/alterar-senha.jpg)
+![](../../assets/prints/alterar-senha-01.jpg)
