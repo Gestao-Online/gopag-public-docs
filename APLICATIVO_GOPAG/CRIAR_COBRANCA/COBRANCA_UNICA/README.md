@@ -1,4 +1,4 @@
-# 💸 Cobrança Única
+# 💰 Cobrança Única
 
 Ao selecionar **Cobrança Única**, você poderá definir o número de parcelas (quando aplicável) e preencher os dados da cobrança.
 

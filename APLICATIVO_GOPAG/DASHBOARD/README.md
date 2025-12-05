@@ -1,8 +1,9 @@
 # 📊 Dashboard
 
-## 🔹 Saldo
+## 🔹 Informações Principais
 
 Na primeira seção da tela inicial você visualiza o saldo disponível de forma rápida e clara.
+Temos também atalhos para visualizar as **Transações Aprovadas**, **Transações Pendentes**, **Futuras Novas**.
 
 ![](../../assets/prints/home-page.jpg)
 
