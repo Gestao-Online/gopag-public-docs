@@ -8,6 +8,6 @@ Para criar sua conta no aplicativo GoPag, toque em **Cadastro** e preencha os da
 
 ## 🔹 Login no GoPag
 
-Para acessar sua conta, informe o e‑mail e a senha cadastrados. Caso tenha esquecido a senha, utilize a opção **Recuperar senha** para redefini‑la.
+Para acessar sua conta, informe o e‑mail e a senha cadastrados. Caso tenha esquecido a senha, utilize a opção **Esqueceu a senha? Clique aqui** para redefini‑la.
 
 ![](../../assets/prints/tela-login.jpg)

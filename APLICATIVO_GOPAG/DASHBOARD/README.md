@@ -4,7 +4,7 @@
 
 Na primeira seção da tela inicial você visualiza o saldo disponível de forma rápida e clara.
 
-![](../../assets/prints/home.jpg)
+![](../../assets/prints/home-page.jpg)
 
 ## 🔹 Atalhos e serviços
 
