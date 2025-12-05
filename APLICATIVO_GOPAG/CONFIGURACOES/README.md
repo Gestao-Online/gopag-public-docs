@@ -2,7 +2,7 @@
 
 Nesta tela você encontra as principais opções de configuração da sua conta. O primeiro card exibe os dados fornecidos na contratação do serviço.
 
-![](../../assets/prints/config-conta-0.jpg)
+![](../../assets/prints/config_conta_01.jpg)
 
 ## Alterar senha de acesso
 

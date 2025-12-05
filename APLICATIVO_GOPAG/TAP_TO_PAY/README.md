@@ -9,10 +9,10 @@ Para cobrar com cartão de crédito:
 3. Opcionalmente, selecione o número de parcelas.
 4. Toque em **Confirmar** para abrir a tela do Tap to Pay e concluir a transação.
 
-![](../../assets/prints/tap-to-pay-01.jpg)
+![](../../assets/prints/tap_to_pay_01.jpg)
 
 ## 🔹 Cartão de débito e Pix
 
 Para cobrar com cartão de débito ou Pix, selecione a forma desejada e toque em **Confirmar** para acessar a tela do Tap to Pay.
 
-![](../../assets/prints/tap-to-pay-02.jpg)
+![](../../assets/prints/tap_to_pay_02.jpg)

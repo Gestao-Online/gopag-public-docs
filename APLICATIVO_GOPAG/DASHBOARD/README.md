@@ -5,7 +5,7 @@
 Na primeira seção da tela inicial você visualiza o saldo disponível de forma rápida e clara.
 Temos também atalhos para visualizar as **Transações Aprovadas**, **Transações Pendentes**, **Futuras Novas**.
 
-![](../../assets/prints/home-page.jpg)
+![](../../assets/prints/home_page.jpg)
 
 ## 🔹 Atalhos e serviços
 
@@ -17,4 +17,4 @@ A área de serviços reúne atalhos para as principais funcionalidades do aplica
 - **Configurações** — ajustar dados da conta;
 - **Suporte** — abrir chamados e obter ajuda.
 
-![](../../assets/prints/dashboard-servicos.jpg)
+![](../../assets/prints/dashboard_servicos.jpg)
