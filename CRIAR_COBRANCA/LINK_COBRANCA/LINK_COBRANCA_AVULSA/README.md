@@ -1,9 +1,8 @@
 # 🔗 Gerar Link Cobrança Avulsa
 
-De início você verá um menu no canto direito da tela, com algumas funções importantes para você utilizar, são elas:\
+De início você verá um menu no canto direito da tela, com algumas funções importantes para você utilizar, são elas:<br>
 
-
-![](../../../assets/prints/criar_cobranca_menu_cabecalho.png)
+![](../../../.gitbook/assets/criar_cobranca_menu_cabecalho.png)
 
 {% tabs %}
 {% tab title="↗️ Notificar" %}
@@ -29,8 +28,7 @@ caso tenha faltado alguma informação, ou chegou a fazer algum lançamento erra
 {% endtab %}
 {% endtabs %}
 
-\
-
+<br>
 
 No primeiro card tem três partes para acompanhamento, sendo elas:
 
@@ -38,31 +36,30 @@ No primeiro card tem três partes para acompanhamento, sendo elas:
 * Data da criação da cobrança;
 * Forma de pagamento (Cartão de crédito, pix ou boleto).
 
-![](../../../assets/prints/status_pgto_novo.png) ![](../../../assets/prints/status_pgto_pago.png) ![](../../../assets/prints/status_pgto_pendente.png) ![](../../../assets/prints/status_pgto_falha.png)
+![](../../../.gitbook/assets/status_pgto_novo.png) ![](../../../.gitbook/assets/status_pgto_pago.png) ![](../../../.gitbook/assets/status_pgto_pendente.png) ![](../../../.gitbook/assets/status_pgto_falha.png)
 
-\
+<br>
 
+|                                                                                                                                                                                            |                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
+| <p>Já no segundo card, colocamos as formas de pagamentos disponíveis.<br><br>Lembrando que aqui só irão aparecer as opções que você selecionou no momento de criar o link da cobrança.</p> | ![](../../../.gitbook/assets/criar_cobranca_bloco_2.png) |
 
-|                                                                                                                                                                                            |                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- |
-| <p>Já no segundo card, colocamos as formas de pagamentos disponíveis.<br><br>Lembrando que aqui só irão aparecer as opções que você selecionou no momento de criar o link da cobrança.</p> | ![](../../../assets/prints/criar_cobranca_card_2.png) |
-
-|                                                       |                                                                                                                                                                                                                                             |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](../../../assets/prints/criar_cobranca_card_3.png) | <p>No terceiro card estão as opções de compartilhamento do link para pagamento, você pode utilizar para enviar via WhatsApp ou e-mail.<br><br>Mas caso queira, também pode copiar o link da cobrança diretamente e repassar ao cliente.</p> |
+|                                                          |                                                                                                                                                                                                                                             |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](../../../.gitbook/assets/criar_cobranca_bloco_3.png) | <p>No terceiro card estão as opções de compartilhamento do link para pagamento, você pode utilizar para enviar via WhatsApp ou e-mail.<br><br>Mas caso queira, também pode copiar o link da cobrança diretamente e repassar ao cliente.</p> |
 
 Agora no quarto card você vê os dados da cobrança e dados do pagador. Saiba que a cada cobrança gerada nós criamos um código único para maior controle da nossa plataforma da GOPag. 😊
 
 Os dados do pagador podem ser preenchidos por você no ato da cobrança, ou caso prefira, deixar o próprio cliente preencher quando ele for efetuar o pagamento:
 
-![](../../../assets/prints/criar_cobranca_card_4.png)
+![](../../../.gitbook/assets/criar_cobranca_bloco_4.png)
 
 No quinto card vemos:
 
 * Endereço do cliente (Lembrando que o próprio cliente pode fazer o preenchimento quando for pagar 😉);
 * Configurações da cobrança (Caso tenha definido parcelas para o caso do cartão de crédito e a [taxa de transação](https://docs.gopag.com.br/simular_venda) e adicional).
 
-![](../../../assets/prints/criar_cobranca_card_5.png)
+![](../../../.gitbook/assets/criar_cobranca_bloco_5.png)
 
 Aqui no último card colocamos as configurações aplicadas no boleto, como taxas, data de vencimento e juros aplicados:
 
@@ -70,4 +67,4 @@ Aqui no último card colocamos as configurações aplicadas no boleto, como taxa
 **Atenção:** O card com as opções do boleto só serão exibidas caso você tenha adicionado ele como uma opção de pagamento, do contrário, ele ficará indisponível.
 {% endhint %}
 
-![](../../../assets/prints/criar_cobranca_card_6.png)
+![](../../../.gitbook/assets/criar_cobranca_bloco_6.png)

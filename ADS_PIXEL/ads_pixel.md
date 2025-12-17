@@ -27,4 +27,4 @@ Todos os pixels de conversão na plataforma da GOPag são separados por produto,
 [Pixel Kwai](https://docs.gopag.com.br/ads_pixel/kwai_ads)
 
 \
-\
+<br>

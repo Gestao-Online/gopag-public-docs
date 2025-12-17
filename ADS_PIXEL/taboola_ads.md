@@ -12,7 +12,7 @@ O primeiro passo é pegar o seu Account ID. Precisamos disso para instalar o Pix
 
 Faça o login na sua conta do Taboola. Você então poderá ver o Account ID no canto direito superior da tela.
 
-![](../assets/ads/35_taboola_pixel.png)
+![](../.gitbook/assets/35_taboola_pixel.png)
 
 **Exemplo:**
 
@@ -32,13 +32,13 @@ Basta acessar o menu **Tracking -> New Conversion**
 
 No tipo de conversão, selecione a opção **Event**
 
-![](../assets/ads/36_taboola_pixel_event.png)
+![](../.gitbook/assets/36_taboola_pixel_event.png)
 
 Você pode selecionar um nome de evento pré-existente ou criar um novo, e configurar opções como, por exemplo, um valor fixo da conversão.
 
 Preste atenção, você precisará cadastrar o **Event Name** na plataforma da GOPag, então copie-o para um bloco de notas.
 
-![](../assets/ads/37_taboola_pixel_event_name.png)
+![](../.gitbook/assets/37_taboola_pixel_event_name.png)
 
 Basta então salvar a conversão recém-criada no Taboola no fim da página.
 
@@ -52,7 +52,7 @@ Acesse a aba de **Configurações** do seu produto e desça a tela até a seçã
 
 Clique em adicionar e preencha as informações do evento que acabou de gerar.
 
-![](../assets/ads/38_taboola_pixel_add.png)
+![](../.gitbook/assets/38_taboola_pixel_add.png)
 
 Você pode adicionar até 5 eventos por produto, com nomes e combinações diferentes. Basta repetir o processo e configurar cada um.
 
@@ -65,4 +65,4 @@ Você pode utilizar a própria extensão do Taboola para Google Chrome para test
 [https://chrome.google.com/webstore/detail/taboola-pixel-helper](https://chrome.google.com/webstore/detail/taboola-pixel-helper/aefiepimkogajhddmhcekceihikjcabd)
 
 \
-\
+<br>

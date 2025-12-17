@@ -4,4 +4,4 @@ Experimente a liberdade financeira com nossas maquininhas e taxas competitivas, 
 
 Sem surpresas nas taxas e custos adicionais, ao escolher a GOPag, você tem a garantia de um serviço que prioriza a economia e a simplicidade na gestão financeira do seu negócio. Diga adeus às surpresas desagradáveis e às letras miúdas, e abrace a confiança e a tranquilidade proporcionadas pela nossa solução em pagamentos.
 
-![maquininha\_banner\_apresentacao](../assets/prints/maquininha_banner_apresentacao.png)
+![maquininha\_banner\_apresentacao](../.gitbook/assets/maquininha_banner_apresentacao.png)

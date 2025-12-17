@@ -2,7 +2,7 @@
 
 **Maquininha GOPag S920**
 
-![maquininha\_gopag\_s920](../../assets/prints/maquininha_gopag_s920.png)
+![maquininha\_gopag\_s920](../../.gitbook/assets/maquininha_gopag_s920.png)
 
 |                         |                                |
 | ----------------------- | ------------------------------ |

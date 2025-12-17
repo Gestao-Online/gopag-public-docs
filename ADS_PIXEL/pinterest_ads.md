@@ -8,13 +8,13 @@ O pixel do Pinterest é uma excelente ferramenta para mensurar conversões e aux
 
 Acesse **Pinterest Ads Manager** [http://ads.pinterest.com](http://ads.pinterest.com) e clique em **Anúncios**, em seguida, clique em **Conversões**.
 
-![](../assets/ads/56_pinterest_pixel.png)
+![](../.gitbook/assets/56_pinterest_pixel.png)
 
 Após isso, será preciso clicar em **Gerenciador de Tags** e, depois, em **Instalar a Tag do Pinterest**.
 
 Você deverá seguir com a **Configuração manual**, coletar o pixel ID e, então, instalar na plataforma da GOPag.
 
-![](../assets/ads/57_pinterest_pixel_config.png)
+![](../.gitbook/assets/57_pinterest_pixel_config.png)
 
 {% hint style="warning" %}
 **Importante:** Lembrando que na imagem acima é apenas um exemplo, é necessário criar o seu próprio pixel ID na plataforma do **Pinterest Ads**.
@@ -24,7 +24,7 @@ Você deverá seguir com a **Configuração manual**, coletar o pixel ID e, ent�
 
 Na plataforma, acesse **Produtos -> Selecione o seu produto -> Configurações**, clique na opção do Pinterest e cole o pixel ID lá.
 
-![](../assets/ads/58_pinterest_pixel_colar.png)
+![](../.gitbook/assets/58_pinterest_pixel_colar.png)
 
 Após isso, você pode salvar o produto.
 
@@ -38,7 +38,7 @@ Veja o exemplo abaixo em que selecionamos a porcentagem de 50% do valor do pix p
 
 Para ativar essa função, é necessário habilitar abaixo do Pixel ID.
 
-![](../assets/ads/59_pinterest_pixel_checkout.png)
+![](../.gitbook/assets/59_pinterest_pixel_checkout.png)
 
 ### Quais eventos a plataforma da GOPag envia para o Pixel?
 
@@ -60,7 +60,7 @@ Para baixar, basta acessar o link a seguir:
 
 Após instalado, basta acessar o seu checkout e clicar no ícone do Pinterest Tag Helper para abrir a central de verificação da extensão e conseguir visualizar o seu pixel.
 
-![](../assets/ads/60_pinterest_pixel_tag_helper.png)
+![](../.gitbook/assets/60_pinterest_pixel_tag_helper.png)
 
 Na imagem acima é possível observar, também, alguns dos parâmetros que enviamos.
 
@@ -69,4 +69,4 @@ Na imagem acima é possível observar, também, alguns dos parâmetros que envia
 A API de conversão do Pinterest ainda não está disponível.
 
 \
-\
+<br>

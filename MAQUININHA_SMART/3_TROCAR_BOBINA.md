@@ -1,6 +1,6 @@
 # 🧾 Trocar bobina da maquininha smart
 
-![](../assets/prints/maquininha_smart_trocar_bobina.png)
+![](../.gitbook/assets/maquininha_smart_trocar_bobina.png)
 
 **Passo 01 -** Para abrir o compartimento da bobina, levante a alavanca localizada na parte traseira e movimente a tampa da impressora para cima.
 

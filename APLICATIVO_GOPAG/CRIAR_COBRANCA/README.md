@@ -1,4 +1,4 @@
-# ➕ Criar nova cobrança
+# ➕ Criar Cobrança
 
 Para emitir uma cobrança no aplicativo, preencha os campos exibidos na tela de criação:
 
@@ -7,4 +7,4 @@ Para emitir uma cobrança no aplicativo, preencha os campos exibidos na tela de 
 3. **Tipo:** escolha entre **Única** ou **Recorrente**.
 4. **Formas de pagamento:** selecione uma ou mais opções (Cartão, Pix, Boleto, etc.).
 
-![](../../assets/prints/nova_cobranca.jpg)
+![](../../.gitbook/assets/nova_cobranca.jpg)

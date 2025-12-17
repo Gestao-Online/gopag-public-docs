@@ -6,4 +6,4 @@ Sem surpresas nas taxas e custos adicionais, ao escolher a GOPag, você tem a ga
 
 Diga adeus às surpresas desagradáveis e às letras miúdas, e abrace a confiança e a tranquilidade proporcionadas pela nossa solução em pagamentos.
 
-![](../assets/prints/maquininha_smart_apresentacao.png)
+![](../.gitbook/assets/maquininha_smart_apresentacao.png)

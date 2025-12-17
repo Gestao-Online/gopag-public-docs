@@ -6,13 +6,13 @@ No menu principal, clique em Produtos e depois selecione o produto que deseja ad
 
 Em seguida, clique na aba Configurações:
 
-![](../assets/ads/01_fb_menu_config.png)
+![](../.gitbook/assets/01_fb_menu_config.png)
 
 Desça a tela até a opção de Pixels de conversão.
 
 Preencha com o seu Pixel ID:
 
-![](../assets/ads/02_fb_menu_opcoes.png)
+![](../.gitbook/assets/02_fb_menu_opcoes.png)
 
 {% hint style="warning" %}
 **Importante:** A nossa plataforma permite adicionar até 50 Pixels do Facebook em cada produto.
@@ -40,7 +40,7 @@ Para ativar essa função, é necessário habilitar o evento Purchase ao gerar u
 
 Veja o exemplo abaixo em que selecionamos a porcentagem de 50% do valor do boleto para enviar o evento de "purchase".
 
-![](../assets/ads/03_fb_menu_switch.png)
+![](../.gitbook/assets/03_fb_menu_switch.png)
 
 ### Quais eventos a plataforma GOPag envia para o Pixel?
 
@@ -62,15 +62,15 @@ Por padrão, não disparamos o evento "purchase" para boleto gerado, mas você p
 
 Acesse o Facebook Business Manager https://business.facebook.com e no menu à esquerda clique em Mais ferramentas, depois em Gerenciador de eventos.
 
-![](../assets/ads/04_fb_menu_gerenciador.png)
+![](../.gitbook/assets/04_fb_menu_gerenciador.png)
 
 Uma nova página abrirá, basta clicar no menu lateral esquerdo em Fontes de Dados:
 
-![](../assets/ads/05_fb_menu_fonte_dados.png)
+![](../.gitbook/assets/05_fb_menu_fonte_dados.png)
 
 E você encontrará o seu Pixel ID na coluna à esquerda:
 
-![](../assets/ads/06_fb_menu_pixel_id.png)
+![](../.gitbook/assets/06_fb_menu_pixel_id.png)
 
 ### Como verificar se o meu Pixel do Facebook foi instalado corretamente?
 
@@ -80,7 +80,7 @@ https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoed
 
 Após instalado, acesse o link do seu checkout e selecione o ícone do FB Pixel Helper no canto superior direito do seu navegador para ver o Pixel encontrado.
 
-![](../assets/ads/07_fb_menu_pixel_helper.png)
+![](../.gitbook/assets/07_fb_menu_pixel_helper.png)
 
 Você pode ver na imagem acima alguns dos parâmetros que enviamos nos eventos, como a forma de pagamento, valor, ID do produto, entre outras informações.
 

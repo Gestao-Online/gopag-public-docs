@@ -4,14 +4,13 @@ Deixamos facilitado o acesso à criação de uma cobrança, já no momento que v
 
 O primeiro lugar é ao lado esquerdo do início do menu que se recolhe.
 
-![](../assets/prints/criar_cobranca_dashboard_1.gif)
+![](../.gitbook/assets/criar_cobranca_dashboard_1.gif)
 
-\
-
+<br>
 
 O segundo local é no dashboard na aba de cobranças:
 
-![](../assets/prints/criar_cobranca_dashboard_2.gif)
+![](../.gitbook/assets/criar_cobranca_dashboard_2.gif)
 
 Ao clicar em uma das duas opções listadas, você abre a configuração da criação de cobrança, onde pode identificar o tipo de cobrança que será gerada, valor, e escolher um dos tipos disponíveis, sendo eles:
 

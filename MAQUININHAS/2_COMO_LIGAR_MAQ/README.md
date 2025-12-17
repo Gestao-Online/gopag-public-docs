@@ -1,6 +1,6 @@
 # ✅ Como ligar sua maquininha
 
-![maquininha\_como\_ligar](../../assets/prints/maquininha_como_ligar.png)
+![maquininha\_como\_ligar](../../.gitbook/assets/maquininha_como_ligar.png)
 
 | 01 - Ligar a Maquininha                      | 02 - Desligar a maquininha                   |
 | -------------------------------------------- | -------------------------------------------- |

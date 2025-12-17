@@ -2,7 +2,7 @@
 
 Nesta tela você encontra as principais opções de configuração da sua conta. O primeiro card exibe os dados fornecidos na contratação do serviço.
 
-![](../../assets/prints/config_conta_01.jpg)
+![](../../.gitbook/assets/config_conta_01.jpg)
 
 ## Alterar senha de acesso
 
@@ -12,4 +12,4 @@ No segundo card está a opção **Alterar a senha**. Por segurança, o recurso s
 **Importante:** a senha deve ter no mínimo 8 caracteres, incluindo letra minúscula (a–z), letra maiúscula (A–Z) e número (0–9).
 {% endhint %}
 
-![](../../assets/prints/alterar-senha-01.jpg)
+![](../../.gitbook/assets/alterar-senha-01.jpg)

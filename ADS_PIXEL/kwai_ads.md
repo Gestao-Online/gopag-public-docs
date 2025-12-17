@@ -1,4 +1,4 @@
-# ⚪ Pixel do Kwai
+# ⚪ Pixel Kwai
 
 ### Como configurar o Pixel do Kwai
 
@@ -8,23 +8,23 @@ A plataforma da GOPag integra com o pixel do Kwai. O primeiro passo é coletar o
 
 No **Ads Manager** do Kwai, clique no menu **Assets**, depois em **Pixel**.
 
-![](/assets/ads/48_kwai_pixel.png)
+![](../.gitbook/assets/48_kwai_pixel.png)
 
 Então, clique na opção **Create New Pixel**.
 
-![](/assets/ads/49_kwai_pixel_create.png)
+![](../.gitbook/assets/49_kwai_pixel_create.png)
 
 Na tela seguinte, insira o nome do seu pixel, selecione a opção **Developer Mode** e clique em **Create**. Isso é necessário para o Pixel funcionar com a plataforma da GOPag.
 
-![](/assets/ads/50_kwai_pixel_create.png)
+![](../.gitbook/assets/50_kwai_pixel_create.png)
 
 Clique em **Copy** para copiar o código do seu pixel.
 
-![](/assets/ads/51_kwai_pixel_copy_id.png)
+![](../.gitbook/assets/51_kwai_pixel_copy_id.png)
 
 Ao final do código, localize o seu **Pixel ID** como no exemplo:
 
-![](/assets/ads/52_kwai_pixel_copy_id.png)
+![](../.gitbook/assets/52_kwai_pixel_copy_id.png)
 
 Seguindo o exemplo acima, o ID extraído seria esse: **410984069679040162**
 
@@ -38,7 +38,7 @@ Pronto, agora tem o seu Pixel ID do Kwai!
 
 Agora na plataforma da GOPag, acesse **Produtos -> Selecione o seu produto -> Configurações**, clique na opção do Kwai e cole o Pixel ID lá.
 
-![](/assets/ads/53_kwai_pixel_colar.png)
+![](../.gitbook/assets/53_kwai_pixel_colar.png)
 
 Após isso, você pode salvar o seu produto.
 
@@ -52,13 +52,13 @@ Veja o exemplo abaixo em que selecionamos a porcentagem de 50% do valor do bolet
 
 Para ativar essa função, é necessário habilitar abaixo do Pixel ID.
 
-![](/assets/ads/54_kwai_pixel_purchase.png)
+![](../.gitbook/assets/54_kwai_pixel_purchase.png)
 
 ### Quais eventos a plataforma da GOPag envia para o Pixel?
 
-- **Add to Cart** (Quando alguém visita o checkout).
-- **Initiated Checkout** (Quando alguém visita o checkout).
-- **Purchase** (compra aprovada no cartão ou PIX).
+* **Add to Cart** (Quando alguém visita o checkout).
+* **Initiated Checkout** (Quando alguém visita o checkout).
+* **Purchase** (compra aprovada no cartão ou PIX).
 
 Por padrão, não disparamos o evento **Purchase** para boleto gerado, mas você pode habilitar essa opção.
 
@@ -74,6 +74,6 @@ Existe um Plugin para o Google Chrome que te ajuda a verificar o seu Pixel. Voc�
 
 Após instalado, acesse o link do seu checkout e selecione o ícone do Kwai Pixel Helper no canto superior direito do seu navegador para ver o Pixel encontrado.
 
-![](/assets/ads/55_kwai_pixel_helper.png)
+![](../.gitbook/assets/55_kwai_pixel_helper.png)
 
 Você pode ver na imagem acima alguns dos eventos que são enviados, com os detalhes da compra. A mensagem em laranja não afeta o envio dos eventos!

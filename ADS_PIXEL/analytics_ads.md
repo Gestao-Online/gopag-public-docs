@@ -4,11 +4,11 @@
 
 No menu principal, clique em Produtos, selecione o produto desejado e na aba Configurações:
 
-![Desça a página até Pixels de Conversão](/assets/ads/25_analytics_menu.png)
+![Desça a página até Pixels de Conversão](../.gitbook/assets/25_analytics_menu.png)
 
 Agora basta selecionar o pixel G Analytics e adicionar o ID de acompanhamento:
 
-![Clique em salvar produto](/assets/ads/26_analytics_menu_ua.png)
+![Clique em salvar produto](../.gitbook/assets/26_analytics_menu_ua.png)
 
 ## Perguntas frequentes
 
@@ -26,7 +26,7 @@ Este é o ID de acompanhamento, inserido automaticamente no código-fonte da pla
 
 Você pode conferir as instruções de configuração do ID Universal Analytics no link abaixo:
 
-* [Configurando o Google Analytics (Universal Analytics)](https://support.google.com/analytics/answer/10269537?hl=pt-BR&ref_topic=9303319)
+* [Configurando o Google Analytics (Universal Analytics)](https://support.google.com/analytics/answer/10269537?hl=pt-BR\&ref_topic=9303319)
 
 ### Quais os parâmetros rastreados no Google Analytics?
 

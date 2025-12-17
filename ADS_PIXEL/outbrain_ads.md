@@ -12,15 +12,15 @@ O primeiro passo é pegar o ID do seu pixel Outbrain. Ele se chama OB\_ADV\_ID.
 
 Faça o login na sua conta da Outbrain. Clique no menu **Conversions**, e em seguida em **Install Pixel**.
 
-![](../assets/ads/27_outbrain_pixel.png) ![](../assets/ads/28_outbrain_pixel_install.png)
+![](../.gitbook/assets/27_outbrain_pixel.png) ![](../.gitbook/assets/28_outbrain_pixel_install.png)
 
 Selecione a opção **Install pixel manually** e depois clique em **Install**.
 
-![](../assets/ads/29_outbrain_pixel_install_manual.png)
+![](../.gitbook/assets/29_outbrain_pixel_install_manual.png)
 
 Você precisará então extrair o **OB\_ADV\_ID** do código do Pixel.
 
-![](../assets/ads/30_outbrain_pixel_install_cod.png)
+![](../.gitbook/assets/30_outbrain_pixel_install_cod.png)
 
 Recomendamos que você copie o pixel inteiro para um bloco de notas no seu computador, e depois extraia o **OB\_ADV\_ID**.
 
@@ -32,13 +32,13 @@ No menu **Conversions**, clique em Add Conversion.
 
 Em Type selecione a opção **Event-based conversion** e abaixo, selecione a opção **Manual code**
 
-![](../assets/ads/31_outbrain_pixel_eventos.png)
+![](../.gitbook/assets/31_outbrain_pixel_eventos.png)
 
 Escolha uma categoria para o evento de conversão e escreva um nome.
 
 O nome do evento será o mesmo que você cadastrará na plataforma da GOPag
 
-![](../assets/ads/32_outbrain_pixel_eventos_name.png)
+![](../.gitbook/assets/32_outbrain_pixel_eventos_name.png)
 
 No exemplo da imagem acima, o nome do evento criado foi **venda**, mas você pode escolher qualquer nome que quiser.
 
@@ -46,7 +46,7 @@ Por exemplo, você pode ter um nome de evento diferente para cada produto.
 
 Clique em salvar no fim da tela.
 
-![](../assets/ads/33_outbrain_pixel_save.png)
+![](../.gitbook/assets/33_outbrain_pixel_save.png)
 
 Pronto, o evento foi criado na Outbrain, agora você precisa cadastrar o mesmo pixel e evento na plataforma da GOPag
 
@@ -58,7 +58,7 @@ Basta ir em **Editar produto -> aba Configurações**, e descer a tela até a se
 
 Clique em adicionar, e preencha as informações do pixel e evento que acabou de criar na Outbrain.
 
-![](../assets/ads/34_outbrain_pixel_add.png)
+![](../.gitbook/assets/34_outbrain_pixel_add.png)
 
 Você pode adicionar até 5 eventos por produto, com nomes e combinações diferentes. Basta repetir o processo e configurar cada um.
 
@@ -73,4 +73,4 @@ Você pode usar a extensão Outbrain Pixel Tracker no Google Chrome. Faça o dow
 [https://chrome.google.com/webstore/detail/outbrain-pixel-tracker](https://chrome.google.com/webstore/detail/outbrain-pixel-tracker/daebadnaphbiobojnpgcenlkgpihmbdc?hl=en)
 
 \
-\
+<br>

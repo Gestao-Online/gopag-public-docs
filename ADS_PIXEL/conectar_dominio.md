@@ -14,15 +14,15 @@ A pltaforma da GOPag pode fazer o disparo do Pixel dentro do seu domínio, atrav
 
 Dentro de Editar produto -> Configurações, na parte de Pixels de conversão, clique no link Gerenciar domínios Facebook
 
-![](../assets/ads/08_fb_menu_dominio.png)
+![](../.gitbook/assets/08_fb_menu_dominio.png)
 
 Em seguida clique em Adicionar domínio
 
-![](../assets/ads/09_fb_menu_add_dominio.png)
+![](../.gitbook/assets/09_fb_menu_add_dominio.png)
 
 Preencha o seu domínio base
 
-![](../assets/ads/10_fb_menu_add_dominio_link.png)
+![](../.gitbook/assets/10_fb_menu_add_dominio_link.png)
 
 #### Configurando o DNS
 
@@ -30,17 +30,17 @@ Agora vá no lugar onde você registrou o seu domínio, ou onde gerencia o DNS (
 
 Crie uma entrada CNAME, com valor pixels, apontando para pixels.gopag-stage.com.br
 
-![Ocampo "TTL" será preenchido de acordo com a pltaforma de registro que estiver utilizando. Ou seja, não será necessariamente "auto".](../assets/ads/11_fb_menu_add_dominio_dns.png)
+![Ocampo "TTL" será preenchido de acordo com a pltaforma de registro que estiver utilizando. Ou seja, não será necessariamente "auto".](../.gitbook/assets/11_fb_menu_add_dominio_dns.png)
 
 {% hint style="warning" %}
 **Importante:** Caso você use Cloudflare, crie a entrada sem proxy, ou seja "apenas DNS".
 {% endhint %}
 
-![](../assets/ads/12_fb_menu_add_dominio_proxy.png)
+![](../.gitbook/assets/12_fb_menu_add_dominio_proxy.png)
 
 Pronto, agora pode voltar para a plataforma da GOPag e salvar o domínio que acabou de adicionar
 
-![](../assets/ads/13_fb_menu_add_dominio_proxy_confirm.png)
+![](../.gitbook/assets/13_fb_menu_add_dominio_proxy_confirm.png)
 
 #### Verificando o seu domínio
 
@@ -48,15 +48,15 @@ Ao adicionar um domínio, ele já pode ser usado para disparar os Pixels, a veri
 
 Se você quer verificar que o domínio foi configurado corretamente, clique sobre ele:
 
-![](../assets/ads/14_fb_menu_add_dominio_verificar.png)
+![](../.gitbook/assets/14_fb_menu_add_dominio_verificar.png)
 
 Em seguida, clique em Verificar domínio. Pode levar 15-20 segundos carregando.
 
-![](../assets/ads/15_fb_menu_add_dominio_verificar_tempo.png)
+![](../.gitbook/assets/15_fb_menu_add_dominio_verificar_tempo.png)
 
 Se o ícone mudar para a cor verde, o domínio foi configurado com sucesso.
 
-![Pode levar algumas horas até que o DNS propague e seja possível verificar o domínio](../assets/ads/16_fb_menu_add_dominio_verificado.png)
+![Pode levar algumas horas até que o DNS propague e seja possível verificar o domínio](../.gitbook/assets/16_fb_menu_add_dominio_verificado.png)
 
 {% hint style="warning" %}
 **Importante:** Se posteriormente você alterar os nameservers do domínio, ou alterar / remover a entrada CNAME que criou, o pixel irá parar de funcionar.
@@ -70,13 +70,13 @@ Preencha a barra de pesquisa dessa forma: pixels.seudomínio.com.br trocando "se
 
 Se a configuração estiver correta, estará marcado com um certinho verde e apontando para a plataforma da GOPag!
 
-![Você também pode conferir em que site o domínio está registrado!](../assets/ads/17_fb_menu_add_dominio_mx_toolbox.png)
+![Você também pode conferir em que site o domínio está registrado!](../.gitbook/assets/17_fb_menu_add_dominio_mx_toolbox.png)
 
 #### Utilizando o seu domínio para disparar Pixels
 
 Na parte de configuração dos Pixels do Facebook, selecione o domínio onde quer que o Pixel dispare.
 
-![](../assets/ads/18_fb_menu_add_dominio_disparos.png)
+![](../.gitbook/assets/18_fb_menu_add_dominio_disparos.png)
 
 Diferentes Pixels podem disparar em diferentes domínios, ou no mesmo domínio. Você tem total controle.
 

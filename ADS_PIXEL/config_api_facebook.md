@@ -16,21 +16,21 @@ Em **Fontes de Dados**, acesse o seu **Pixel do Facebook** e clique na guia **Co
 
 Desça a tela até a seção da API de Conversões e clique no link **Gerar token de acesso**.
 
-![](/assets/ads/69_api_facebook.png)
+![](../.gitbook/assets/69_api_facebook.png)
 
 Aparecerá uma caixinha com o Token da API de conversão. Copie ele inteiro.
 
-![](/assets/ads/70_api_facebook.png)
+![](../.gitbook/assets/70_api_facebook.png)
 
 ### Colocando o Token da API de conversão na plataforma da GOPag
 
 No painel da plataforma da GOPag, edite o produto que você quer configurar a API de conversões, e na seção de **Configurações > Pixels do Facebook**, clique no ícone de configurações.
 
-![](/assets/ads/71_api_facebook.png)
+![](../.gitbook/assets/71_api_facebook.png)
 
 Então, cole o Token da API e salve.
 
-![](/assets/ads/72_api_facebook.png)
+![](../.gitbook/assets/72_api_facebook.png)
 
 Pronto! A API de conversões foi configurada corretamente!
 
