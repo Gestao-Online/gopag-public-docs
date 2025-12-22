@@ -1,6 +1,6 @@
 # ✅ Como ligar sua maquininha smart
 
-![](../.gitbook/assets/maquininha_smart_como_ligar.png)
+![](../../.gitbook/assets/maquininha_smart_como_ligar.png)
 
 | 01 - Ligar a Maquininha                   | 02 - Desligar a maquininha             |
 | ----------------------------------------- | -------------------------------------- |

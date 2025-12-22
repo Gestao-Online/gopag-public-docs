@@ -1,6 +1,6 @@
 # 🧾 Trocar bobina da maquininha
 
-![maquininha\_trocar\_bobina](../../.gitbook/assets/maquininha_trocar_bobina.png)
+![maquininha\_trocar\_bobina](../../../.gitbook/assets/maquininha_trocar_bobina.png)
 
 **Passo 01 -** Empurre a trava da tampa para cima e abra o compartimento da bobina.
 

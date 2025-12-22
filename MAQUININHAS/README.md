@@ -1,7 +1,35 @@
-# 📲 Maquininha GoPag
+# 📲 Maquininhas GoPag
 
-Experimente a liberdade financeira com nossas maquininhas e taxas competitivas, e transforme seus resultados de vendas! 😉👍
+Bem-vindo à documentação das Maquininhas GoPag!
 
-Sem surpresas nas taxas e custos adicionais, ao escolher a GoPag, você tem a garantia de um serviço que prioriza a economia e a simplicidade na gestão financeira do seu negócio. Diga adeus às surpresas desagradáveis e às letras miúdas, e abrace a confiança e a tranquilidade proporcionadas pela nossa solução em pagamentos.
+Selecione o modelo da maquininha para acessar o guia completo:
 
-![maquininha\_banner\_apresentacao](../.gitbook/assets/maquininha_banner_apresentacao.png)
+## 📱 Modelos Disponíveis
+
+### [S920 - Maquininha GoPag](S920/README.md)
+Maquininha tradicional com todas as funcionalidades para processar pagamentos com cartão de crédito e débito.
+
+**Recursos:**
+- Pagamentos com cartão (crédito e débito)
+- Parcelamento
+- Impressão de comprovantes
+- Conexão Wi-Fi
+- Relatórios detalhados
+
+---
+
+### [SMART - Maquininha Smart GoPag](SMART/README.md)
+Maquininha inteligente com recursos avançados e tela touch.
+
+**Recursos:**
+- Interface touch screen
+- Pagamentos com cartão
+- Parcelamento
+- Impressão de comprovantes
+- Design moderno
+
+---
+
+## 📚 Precisa de Ajuda?
+
+Consulte a seção [🆘 Suporte](../PORTAL_GOPAG/SUPORTE/README.md) para obter assistência adicional.

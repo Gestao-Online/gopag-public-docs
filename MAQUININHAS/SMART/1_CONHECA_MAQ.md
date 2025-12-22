@@ -2,7 +2,7 @@
 
 **Maquininha GoPag GPOS720**
 
-![](../.gitbook/assets/maquininha_gpos720.png)
+![](../../.gitbook/assets/maquininha_gpos720.png)
 
 |                                |                                |
 | ------------------------------ | ------------------------------ |
