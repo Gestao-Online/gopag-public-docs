@@ -34,3 +34,6 @@
 * [Tap to Pay (NFC)](transacoes/criar/tap-to-pay.md)
 * [PINPAD](transacoes/criar/pinpad.md)
 * [Link de Pagamento](transacoes/criar/link-pagamento.md)
+
+## Testando pagamentos
+* [Testando Pagamentos](transacoes/testando-pagamentos.md)
