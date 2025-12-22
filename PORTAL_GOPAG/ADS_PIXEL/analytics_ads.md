@@ -14,9 +14,9 @@ Agora basta selecionar o pixel G Analytics e adicionar o ID de acompanhamento:
 
 ### O que é o ID de acompanhamento do Google Analytics?
 
-Para integração e marcação de eventos entre a plataforma da GOPag e o Google Analytics, utiliza-se a Tag Universal Analytics (UA).
+Para integração e marcação de eventos entre a plataforma da GoPag e o Google Analytics, utiliza-se a Tag Universal Analytics (UA).
 
-Este é o ID de acompanhamento, inserido automaticamente no código-fonte da plataforma da GOPag ao adicionar a configuração acima.
+Este é o ID de acompanhamento, inserido automaticamente no código-fonte da plataforma da GoPag ao adicionar a configuração acima.
 
 {% hint style="danger" %}
 **Importante:** Não é possível conectar o Google Analytics usando uma tag Google Analytics 4.

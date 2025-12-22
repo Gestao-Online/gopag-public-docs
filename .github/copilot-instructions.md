@@ -171,3 +171,5 @@ Para encontrar padrões que precisam revisão:
 ```
 
 **Nota:** Estas diretrizes visam manter consistência, profissionalismo e clareza em toda a documentação, facilitando a compreensão pelos usuários e mantendo um padrão corporativo adequado.
+
+**Nota:** Ignore a pasta "DEVELOPERS" e as subpastas nas verificações, pois elas são destinadas a desenvolvedores e podem ter um tom diferente

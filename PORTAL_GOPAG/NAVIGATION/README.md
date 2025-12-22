@@ -1,6 +1,6 @@
 # ↕️ Menu de Navegação
 
-Ao acessar seu ambiente **GOPag**, nesse primeiro momento será a hora de conhecer a aplicação que está utilizando!
+Ao acessar seu ambiente **GoPag**, nesse primeiro momento será a hora de conhecer a aplicação que está utilizando!
 
 Sua tela inicial será similar ao que consta na imagem da tela de teste abaixo:
 
@@ -34,4 +34,4 @@ Clicando no ícone de fixar 📌, o menu lateral irá ficar sempre com o tamanho
 
 |                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](../../.gitbook/assets/tela_inicial_menus_coluna.png) | <p>Além disso, tem mais um detalhe essencial para podermos nos localizarmos dentro da plataforma. Quando selecionamos um menu, ele ficará destacado em uma cor laranja-claro.<br><br>Isso foi pensado justamente para poder facilitar sua navegação dentro da plataforma.<br><br><strong>Incrível, não é mesmo!</strong><br><br>Portanto, prepare-se, pois estamos prestes a conhecer cada uma das áreas disponíveis dentro da plataforma <strong>GOPag</strong>!</p> |
+| ![](../../.gitbook/assets/tela_inicial_menus_coluna.png) | <p>Além disso, tem mais um detalhe essencial para podermos nos localizarmos dentro da plataforma. Quando selecionamos um menu, ele ficará destacado em uma cor laranja-claro.<br><br>Isso foi pensado justamente para poder facilitar sua navegação dentro da plataforma.<br><br><strong>Incrível, não é mesmo!</strong><br><br>Portanto, prepare-se, pois estamos prestes a conhecer cada uma das áreas disponíveis dentro da plataforma <strong>GoPag</strong>!</p> |

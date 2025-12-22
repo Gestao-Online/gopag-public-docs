@@ -4,7 +4,7 @@
 
 A solução definitiva para integrar os meios de pagamento da **GOPAG** a sistemas de automação comercial — como ERPs, PDVs e totens de autoatendimento.
 
-Com o **GOPagConnect**, sua empresa transforma qualquer ponto de venda em um **TEF inteligente**, garantindo pagamentos ágeis, integrados e sincronizados com seu sistema.
+Com o **GoPagConnect**, sua empresa transforma qualquer ponto de venda em um **TEF inteligente**, garantindo pagamentos ágeis, integrados e sincronizados com seu sistema.
 
 ### ✅ Compatível com diversos dispositivos:
 
@@ -16,7 +16,7 @@ Com o **GOPagConnect**, sua empresa transforma qualquer ponto de venda em um **T
 
 #### Modo Smart - Integração com ERPs Externos <a href="#docs-internal-guid-032ffaf0-7fff-b34d-6bfa-cf8d76e03db6" id="docs-internal-guid-032ffaf0-7fff-b34d-6bfa-cf8d76e03db6"></a>
 
-O modo Smart do GOPagConnect permite que o sistema de pagamentos opere de forma totalmente integrada ao seu ERP ou PDV, independentemente do dispositivo utilizado.
+O modo Smart do GoPagConnect permite que o sistema de pagamentos opere de forma totalmente integrada ao seu ERP ou PDV, independentemente do dispositivo utilizado.
 
 * Recebimento de pedidos diretamente na maquininha, com sincronização automática com o ERP.
 * Conciliação automática de pagamentos, reduzindo erros operacionais e otimizando a gestão financeira.

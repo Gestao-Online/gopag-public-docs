@@ -51,7 +51,7 @@ No primeiro card existem duas partes para visualização, sendo elas:
 | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![](../../../../.gitbook/assets/criar_cobranca_bloco_3.png) | <p>No terceiro card estão as opções de compartilhamento do link para pagamento, sendo possível utilizar para enviar via WhatsApp ou e-mail.<br><br>Mas caso queira, também pode copiar o link da cobrança diretamente e repassar ao cliente.</p> |
 
-Agora no quarto e quinto card estão os dados da cobrança e configurações da cobrança. Saiba que a cada cobrança gerada é criado um código único para maior controle da plataforma da GOPag 😊.
+Agora no quarto e quinto card estão os dados da cobrança e configurações da cobrança. Saiba que a cada cobrança gerada é criado um código único para maior controle da plataforma da GoPag 😊.
 
 Ali, em configurações da cobrança, caso tenha definido parcelas para o caso do cartão de crédito, serão exibidas as parcelas disponíveis para o cliente pagar:
 

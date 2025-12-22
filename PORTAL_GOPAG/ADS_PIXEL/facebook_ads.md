@@ -20,13 +20,13 @@ Preencha com o seu Pixel ID:
 
 Para cada Pixel, deve ser selecionado um domínio onde ele será disparado.
 
-Por padrão, adicionamos o domínio da plataforma da GOPag, mas recomendamos que você coloque o domínio do seu website ou página de vendas, o mesmo que você verifica no Facebook.
+Por padrão, adicionamos o domínio da plataforma da GoPag, mas recomendamos que você coloque o domínio do seu website ou página de vendas, o mesmo que você verifica no Facebook.
 
 ## Perguntas frequentes
 
 ### Como funciona a verificação de domínio?
 
-Os pixels são disparados no domínio, que pode ser conectado à plataforma da GOPag. Esse deve ser o mesmo domínio verificado no Facebook.
+Os pixels são disparados no domínio, que pode ser conectado à plataforma da GoPag. Esse deve ser o mesmo domínio verificado no Facebook.
 
 Temos um tutorial explicando o passo a passo, [clique aqui](https://docs.gopag.com.br/portal_gopag/ads_pixel/facebook_ads/conectar_dominio).
 
@@ -42,7 +42,7 @@ Veja o exemplo abaixo em que selecionamos a porcentagem de 50% do valor do bolet
 
 ![](../../.gitbook/assets/03_fb_menu_switch.png)
 
-### Quais eventos a plataforma GOPag envia para o Pixel?
+### Quais eventos a plataforma GoPag envia para o Pixel?
 
 * InitiateCheckout (quando alguém visita o checkout)
 * Purchase (compra aprovada no cartão ou PIX)
@@ -90,6 +90,6 @@ Sim, nós temos um tutorial explicando [como configurar a API de conversão do F
 
 ### Por que aparece outro Pixel ID que não é o meu no checkout?
 
-Para a API de conversões do Facebook funcionar corretamente, é necessário disparar um evento de PageView utilizando o Pixel da própria plataforma da GOPag. Isso é necessário para que os cookies do Facebook sejam identificados.
+Para a API de conversões do Facebook funcionar corretamente, é necessário disparar um evento de PageView utilizando o Pixel da própria plataforma da GoPag. Isso é necessário para que os cookies do Facebook sejam identificados.
 
 Por isso, é possível ver o pixel sendo disparado como PageView no checkout, mas pode ignorar essa informação.

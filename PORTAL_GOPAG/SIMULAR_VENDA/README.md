@@ -1,6 +1,6 @@
 # 🔢 Simular venda
 
-É possível simular valores na plataforma da GOPag antes de você gerar a cobrança ao cliente. Podendo até testar com taxas e acréscimos em valores e condições diferentes para seu cliente, tudo isso antes de gerar o link da cobrança:
+É possível simular valores na plataforma da GoPag antes de você gerar a cobrança ao cliente. Podendo até testar com taxas e acréscimos em valores e condições diferentes para seu cliente, tudo isso antes de gerar o link da cobrança:
 
 ![](../../.gitbook/assets/simulador_menu.png)
 

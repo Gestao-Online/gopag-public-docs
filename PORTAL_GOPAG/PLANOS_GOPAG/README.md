@@ -1,4 +1,4 @@
-# 💲 Planos GOPag
+# 💲 Planos GoPag
 
 Ficou interessado no sistema?
 

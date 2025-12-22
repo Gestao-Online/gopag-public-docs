@@ -8,7 +8,7 @@ Você também encontra a data e hora da transferência, e logo ao lado o valor s
 
 ![](../../.gitbook/assets/transferencias_detalhes_inicio.png)
 
-Logo mais abaixo, você encontra os dados da transferência com a descrição informando que foi um saque via GOPag e a data da criação da transferência.
+Logo mais abaixo, você encontra os dados da transferência com a descrição informando que foi um saque via GoPag e a data da criação da transferência.
 
 Ao lado direito você vê também os detalhes da conta bancária, com as informações do banco que vai receber ou já recebeu a transferência que você criou
 

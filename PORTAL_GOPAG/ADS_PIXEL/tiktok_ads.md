@@ -2,7 +2,7 @@
 
 ### Como configurar o pixel do TikTok
 
-A plataforma da GOPag integra com o pixel do TikTok. O primeiro passo é coletar o código do seu pixel TikTok, para depois configurar na GOPag.
+A plataforma da GoPag integra com o pixel do TikTok. O primeiro passo é coletar o código do seu pixel TikTok, para depois configurar na GoPag.
 
 ### Coletando o seu Pixel no TikTok
 
@@ -18,7 +18,7 @@ Depois em **Configurar eventos web -> Configuração manual** e, então, adicion
 
 ![](../../.gitbook/assets/41_tiktok_pixel_eventos_nome.png) ![](../../.gitbook/assets/42_tiktok_pixel_eventos_nome.png)
 
-Após isso, será necessário pular a etapa de criação do funil, visto que a plataforma da GOPag irá captar os eventos de maneira automática. Depois, selecione a opção "Código personalizado" e prossiga. Isso é necessário para o pixel funcionar com a GOPag.
+Após isso, será necessário pular a etapa de criação do funil, visto que a plataforma da GoPag irá captar os eventos de maneira automática. Depois, selecione a opção "Código personalizado" e prossiga. Isso é necessário para o pixel funcionar com a GoPag.
 
 ![](../../.gitbook/assets/43_tiktok_pixel_cod_personalizado.png)
 
@@ -38,9 +38,9 @@ Exemplo de código:
 
 Pronto, esse é o seu pixel ID do TikTok.
 
-### Colocando o Pixel ID do TikTok na plataforma da GOPag
+### Colocando o Pixel ID do TikTok na plataforma da GoPag
 
-Agora na plataforma da GOPag, acesse **Produtos -> Selecione o seu produto -> Configurações**, clique na opção do TikTok e cole o Pixel ID lá.
+Agora na plataforma da GoPag, acesse **Produtos -> Selecione o seu produto -> Configurações**, clique na opção do TikTok e cole o Pixel ID lá.
 
 ![](../../.gitbook/assets/46_tiktok_pixel_config.png)
 
@@ -58,7 +58,7 @@ Para ativar essa função, é necessário habilitar abaixo do Pixel ID.
 
 ![](../../.gitbook/assets/47_tiktok_pixel_complete_payment.png)
 
-### Quais eventos a plataforma da GOPag envia para o Pixel?
+### Quais eventos a plataforma da GoPag envia para o Pixel?
 
 * **Initiate Checkout** (Quando alguém visita o checkout).
 * **Complete payment** (Compra aprovada no cartão ou PIX).

@@ -19,4 +19,4 @@ Utilize o menu lateral para acessar as diferentes seções do portal:
 - **Suporte** - Obtenha ajuda
 - **Configurações** - Personalize a conta
 - **Aplicativos Pixel Ads** - Integre pixels de rastreamento
-- **Planos GOPag** - Conheça os planos disponíveis
+- **Planos GoPag** - Conheça os planos disponíveis

@@ -2,7 +2,7 @@
 
 ### Como configurar o Pixel do Kwai
 
-A plataforma da GOPag integra com o pixel do Kwai. O primeiro passo é coletar o código do seu pixel Kwai, para depois configurar na GOPag.
+A plataforma da GoPag integra com o pixel do Kwai. O primeiro passo é coletar o código do seu pixel Kwai, para depois configurar na GoPag.
 
 ### Coletando o seu Pixel no Kwai
 
@@ -14,7 +14,7 @@ Então, clique na opção **Create New Pixel**.
 
 ![](../../.gitbook/assets/49_kwai_pixel_create.png)
 
-Na tela seguinte, insira o nome do seu pixel, selecione a opção **Developer Mode** e clique em **Create**. Isso é necessário para o Pixel funcionar com a plataforma da GOPag.
+Na tela seguinte, insira o nome do seu pixel, selecione a opção **Developer Mode** e clique em **Create**. Isso é necessário para o Pixel funcionar com a plataforma da GoPag.
 
 ![](../../.gitbook/assets/50_kwai_pixel_create.png)
 
@@ -34,9 +34,9 @@ Seguindo o exemplo acima, o ID extraído seria esse: **410984069679040162**
 
 Pronto, agora tem o seu Pixel ID do Kwai!
 
-### Colocando o Pixel ID do Kwai na plataforma da GOPag
+### Colocando o Pixel ID do Kwai na plataforma da GoPag
 
-Agora na plataforma da GOPag, acesse **Produtos -> Selecione o seu produto -> Configurações**, clique na opção do Kwai e cole o Pixel ID lá.
+Agora na plataforma da GoPag, acesse **Produtos -> Selecione o seu produto -> Configurações**, clique na opção do Kwai e cole o Pixel ID lá.
 
 ![](../../.gitbook/assets/53_kwai_pixel_colar.png)
 
@@ -54,7 +54,7 @@ Para ativar essa função, é necessário habilitar abaixo do Pixel ID.
 
 ![](../../.gitbook/assets/54_kwai_pixel_purchase.png)
 
-### Quais eventos a plataforma da GOPag envia para o Pixel?
+### Quais eventos a plataforma da GoPag envia para o Pixel?
 
 * **Add to Cart** (Quando alguém visita o checkout).
 * **Initiated Checkout** (Quando alguém visita o checkout).

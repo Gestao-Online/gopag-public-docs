@@ -6,11 +6,11 @@
 
 Devido as novas atualizações do iOS 14, o Facebook exige que o seu pixel de conversão seja disparado no domínio do seu site (que deve ser verificado no Facebook).
 
-Você pode conectar esse mesmo domínio (ou vários) a pltaforma da GOPag, para que o pixel seja disparado nele, e não ocorra nenhum problema de rastreio no Facebook.
+Você pode conectar esse mesmo domínio (ou vários) a pltaforma da GoPag, para que o pixel seja disparado nele, e não ocorra nenhum problema de rastreio no Facebook.
 
-A pltaforma da GOPag pode fazer o disparo do Pixel dentro do seu domínio, através de um subdomínio no formato pixels.seusite.com
+A pltaforma da GoPag pode fazer o disparo do Pixel dentro do seu domínio, através de um subdomínio no formato pixels.seusite.com
 
-#### Como conectar meu domínio na plataforma da GOPag
+#### Como conectar meu domínio na plataforma da GoPag
 
 Dentro de Editar produto -> Configurações, na parte de Pixels de conversão, clique no link Gerenciar domínios Facebook
 
@@ -38,7 +38,7 @@ Crie uma entrada CNAME, com valor pixels, apontando para pixels.gopag-stage.com.
 
 ![](../../.gitbook/assets/12_fb_menu_add_dominio_proxy.png)
 
-Pronto, agora pode voltar para a plataforma da GOPag e salvar o domínio que acabou de adicionar
+Pronto, agora pode voltar para a plataforma da GoPag e salvar o domínio que acabou de adicionar
 
 ![](../../.gitbook/assets/13_fb_menu_add_dominio_proxy_confirm.png)
 
@@ -68,7 +68,7 @@ Para conferir se está tudo certo é bem simples! Primeiro, acesse o site da [MX
 
 Preencha a barra de pesquisa dessa forma: pixels.seudomínio.com.br trocando "seudomínio.com.br" pelo que está utilizando.
 
-Se a configuração estiver correta, estará marcado com um certinho verde e apontando para a plataforma da GOPag!
+Se a configuração estiver correta, estará marcado com um certinho verde e apontando para a plataforma da GoPag!
 
 ![Você também pode conferir em que site o domínio está registrado!](../../.gitbook/assets/17_fb_menu_add_dominio_mx_toolbox.png)
 

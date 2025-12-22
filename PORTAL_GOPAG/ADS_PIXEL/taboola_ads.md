@@ -2,9 +2,9 @@
 
 ### Como adicionar o pixel do Taboola
 
-A integração da plataforma da GOPag com a Taboola funciona através do disparo de eventos.
+A integração da plataforma da GoPag com a Taboola funciona através do disparo de eventos.
 
-Você precisa criar os eventos na sua conta do Taboola (cada evento terá um nome único), e em seguida cadastrar esses eventos nas configurações do produto da plataforma da GOPag.
+Você precisa criar os eventos na sua conta do Taboola (cada evento terá um nome único), e em seguida cadastrar esses eventos nas configurações do produto da plataforma da GoPag.
 
 O primeiro passo é pegar o seu Account ID. Precisamos disso para instalar o Pixel.
 
@@ -36,16 +36,16 @@ No tipo de conversão, selecione a opção **Event**
 
 Você pode selecionar um nome de evento pré-existente ou criar um novo, e configurar opções como, por exemplo, um valor fixo da conversão.
 
-Preste atenção, será necessário cadastrar o **Event Name** na plataforma da GOPag, então copie-o para um bloco de notas.
+Preste atenção, será necessário cadastrar o **Event Name** na plataforma da GoPag, então copie-o para um bloco de notas.
 
 ![](../../.gitbook/assets/37_taboola_pixel_event_name.png)
 
 Basta então salvar a conversão recém-criada no Taboola no fim da página.
 
-### Cadastrando os eventos de conversão na plataforma da GOPag
+### Cadastrando os eventos de conversão na plataforma da GoPag
 
 {% hint style="warning" %}
-**Importante:** Você pode cadastrar até 5 pixels/eventos de conversão por produto na plataforma da GOPag.
+**Importante:** Você pode cadastrar até 5 pixels/eventos de conversão por produto na plataforma da GoPag.
 {% endhint %}
 
 Acesse a aba de **Configurações** do seu produto e desça a tela até a seção de **Pixels**, depois clique em Taboola.

@@ -22,9 +22,9 @@ Aparecerá uma caixinha com o Token da API de conversão. Copie ele inteiro.
 
 ![](../../.gitbook/assets/70_api_facebook.png)
 
-### Colocando o Token da API de conversão na plataforma da GOPag
+### Colocando o Token da API de conversão na plataforma da GoPag
 
-No painel da plataforma da GOPag, edite o produto que você quer configurar a API de conversões, e na seção de **Configurações > Pixels do Facebook**, clique no ícone de configurações.
+No painel da plataforma da GoPag, edite o produto que você quer configurar a API de conversões, e na seção de **Configurações > Pixels do Facebook**, clique no ícone de configurações.
 
 ![](../../.gitbook/assets/71_api_facebook.png)
 

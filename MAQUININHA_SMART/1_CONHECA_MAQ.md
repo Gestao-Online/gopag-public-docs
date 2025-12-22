@@ -1,6 +1,6 @@
 # 👩‍🏫 Conheça sua maquininha smart
 
-**Maquininha GOPag GPOS720**
+**Maquininha GoPag GPOS720**
 
 ![](../.gitbook/assets/maquininha_gpos720.png)
 

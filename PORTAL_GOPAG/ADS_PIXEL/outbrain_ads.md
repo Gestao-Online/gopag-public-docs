@@ -2,9 +2,9 @@
 
 ### Como adicionar o pixel da Outbrain
 
-A integração da plataforma da GOPag com a Outbrain funciona por meio do disparo de eventos.
+A integração da plataforma da GoPag com a Outbrain funciona por meio do disparo de eventos.
 
-Você precisa criar os eventos na sua conta da Outbrain (cada evento terá um nome único), e em seguida cadastrar esses eventos nas configurações do produto da plataforma da GOPag.
+Você precisa criar os eventos na sua conta da Outbrain (cada evento terá um nome único), e em seguida cadastrar esses eventos nas configurações do produto da plataforma da GoPag.
 
 O primeiro passo é pegar o ID do seu pixel Outbrain. Ele se chama OB\_ADV\_ID.
 
@@ -36,7 +36,7 @@ Em Type selecione a opção **Event-based conversion** e abaixo, selecione a op�
 
 Escolha uma categoria para o evento de conversão e escreva um nome.
 
-O nome do evento será o mesmo que você cadastrará na plataforma da GOPag
+O nome do evento será o mesmo que você cadastrará na plataforma da GoPag
 
 ![](../../.gitbook/assets/32_outbrain_pixel_eventos_name.png)
 
@@ -48,11 +48,11 @@ Clique em salvar no fim da tela.
 
 ![](../../.gitbook/assets/33_outbrain_pixel_save.png)
 
-Pronto, o evento foi criado na Outbrain, agora é necessário cadastrar o mesmo pixel e evento na plataforma da GOPag
+Pronto, o evento foi criado na Outbrain, agora é necessário cadastrar o mesmo pixel e evento na plataforma da GoPag
 
-### Cadastrando o pixel e eventos na plataforma da GOPag
+### Cadastrando o pixel e eventos na plataforma da GoPag
 
-Você pode cadastrar até 5 pixels/eventos de conversão por produto na plataforma da GOPag.
+Você pode cadastrar até 5 pixels/eventos de conversão por produto na plataforma da GoPag.
 
 Basta ir em **Editar produto -> aba Configurações**, e descer a tela até a seção de Pixels, então clicar em Outbrain.
 

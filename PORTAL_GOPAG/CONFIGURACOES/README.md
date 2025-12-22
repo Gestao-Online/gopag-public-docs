@@ -42,7 +42,7 @@ O mesmo também se aplica a `Logo da empresa`, é possível configurá-la igual 
 
 ### Configurações de recebimento
 
-Uma configuração importante presente na plataforma da **GOPag** é a opção de `Alterar política de recebimento`. É possível deixar as transferências de valores automáticas ou manuais.
+Uma configuração importante presente na plataforma da **GoPag** é a opção de `Alterar política de recebimento`. É possível deixar as transferências de valores automáticas ou manuais.
 
 Quando esta opção está ativada, é necessário definir o intervalo de transferência entre diário, semanal ou mensal (No modo mensal é possível definir o dia que ocorrerá a transferência, caso queira).
 

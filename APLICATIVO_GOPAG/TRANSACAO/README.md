@@ -1,6 +1,6 @@
 # 🔄️ Transações
 
-Com a plataforma da GOPag sendo omnichannel, neste menu estão organizadas todas as transações realizadas, por máquinas MPOS(Mobile Point os Sale), POS(Point of Sale), PIN Pad, TEF, Tap to pay (Celular com Android ou IOS vira maquininha) e até mesmo E-commerces parceiros.
+Com a plataforma da GoPag sendo omnichannel, neste menu estão organizadas todas as transações realizadas, por máquinas MPOS(Mobile Point os Sale), POS(Point of Sale), PIN Pad, TEF, Tap to pay (Celular com Android ou IOS vira maquininha) e até mesmo E-commerces parceiros.
 
 Aqui é possível utilizar os filtros para busca, ou a barra de pesquisa, confira melhor nas explicações abaixo:
 

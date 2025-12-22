@@ -12,7 +12,7 @@ Acesse **Pinterest Ads Manager** [http://ads.pinterest.com](http://ads.pinterest
 
 Após isso, será preciso clicar em **Gerenciador de Tags** e, depois, em **Instalar a Tag do Pinterest**.
 
-Você deverá seguir com a **Configuração manual**, coletar o pixel ID e, então, instalar na plataforma da GOPag.
+Você deverá seguir com a **Configuração manual**, coletar o pixel ID e, então, instalar na plataforma da GoPag.
 
 ![](../../.gitbook/assets/57_pinterest_pixel_config.png)
 
@@ -20,7 +20,7 @@ Você deverá seguir com a **Configuração manual**, coletar o pixel ID e, ent�
 **Importante:** Lembrando que na imagem acima é apenas um exemplo, é necessário criar o seu próprio pixel ID na plataforma do **Pinterest Ads**.
 {% endhint %}
 
-### Colocando o Pixel ID do Pinterest na plataforma da GOPag
+### Colocando o Pixel ID do Pinterest na plataforma da GoPag
 
 Na plataforma, acesse **Produtos -> Selecione o seu produto -> Configurações**, clique na opção do Pinterest e cole o pixel ID lá.
 
@@ -40,7 +40,7 @@ Para ativar essa função, é necessário habilitar abaixo do Pixel ID.
 
 ![](../../.gitbook/assets/59_pinterest_pixel_checkout.png)
 
-### Quais eventos a plataforma da GOPag envia para o Pixel?
+### Quais eventos a plataforma da GoPag envia para o Pixel?
 
 * **PageVisit** (Quando ocorre uma visita ao seu checkout)
 * **AddToCart** (Início da finalização de compra)
