@@ -1,0 +1,13 @@
+# 💸 Formas de Pagamento
+
+Após preencher os dados iniciais da cobrança, é possível limitar as formas de pagamento para o cliente, sendo elas cartão de crédito (e a quantidade de parcelas), pix e/ou boleto.
+
+{% hint style="warning" %}
+**Detalhe:** Caso você não defina a forma de pagamento, ou se esqueça, não precisa se preocupar, pois por padrão, nós deixaremos disponíveis ao cliente as opções pix e cartão de crédito (Com parcelamento até 6x)😉
+{% endhint %}
+
+![](../../.gitbook/assets/criar_cobranca_formas_pagamento.png)
+
+{% hint style="danger" %}
+**Importante:** Para mais informações sobre as taxas, [clique aqui](https://docs.gopag.com.br/portal_gopag/simular_venda) e acesse nossa explicação detalhada sobre elas!
+{% endhint %}
