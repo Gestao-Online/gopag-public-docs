@@ -67,33 +67,32 @@
     * [↩️ Estornando uma Venda](MAQUININHAS/SMART/6_ESTORNO_VENDA.md)
     * [🔄️ Reimpressão da Via](MAQUININHAS/SMART/10_REIMPRESSAO_VIA.md)
 * [🔧 Desenvolvedores/Integrações](DEVELOPERS/README.md)
-  * [📖 Introdução](DEVELOPERS/introducao/visao-geral.md)
+  * 📖 Introdução
     * [Visão Geral](DEVELOPERS/introducao/visao-geral.md)
     * [Requisitos de Segurança](DEVELOPERS/introducao/requisitos-seguranca.md)
     * [Autenticação](DEVELOPERS/introducao/autenticacao.md)
     * [Testando a API](DEVELOPERS/introducao/testando.md)
     * [Códigos de Erro](DEVELOPERS/introducao/codigos-erro.md)
-  * [👥 Cadastro](DEVELOPERS/cadastro/vendedores/listar.md)
-    * [Vendedores](DEVELOPERS/cadastro/vendedores/listar.md)
+  * 👥 Cadastro
+    * Vendedores
       * [Listar Vendedores](DEVELOPERS/cadastro/vendedores/listar.md)
       * [Buscar por CPF/CNPJ](DEVELOPERS/cadastro/vendedores/buscar-cpf-cnpj.md)
       * [Detalhes do Vendedor](DEVELOPERS/cadastro/vendedores/detalhes.md)
       * [Códigos MCC](DEVELOPERS/cadastro/vendedores/mcc.md)
-    * [Compradores](DEVELOPERS/cadastro/compradores/compradores.md)
+    * Compradores
       * [Gerenciar Compradores](DEVELOPERS/cadastro/compradores/compradores.md)
-  * [💳 Transações](DEVELOPERS/transacoes/listar.md)
+  * 💳 Transações
     * [Listar Transações](DEVELOPERS/transacoes/listar.md)
     * [Detalhes da Transação](DEVELOPERS/transacoes/detalhes.md)
     * [Capturar Transação](DEVELOPERS/transacoes/capturar.md)
     * [Tokenizar Cartão](DEVELOPERS/transacoes/tokenizar.md)
-    * [Criar Transação via API](DEVELOPERS/transacoes/criar/api/cartao.md)
+    * Criar Transação via API
       * [Cartão de Crédito/Débito](DEVELOPERS/transacoes/criar/api/cartao.md)
       * [PIX](DEVELOPERS/transacoes/criar/api/pix.md)
       * [Boleto/Bolepix](DEVELOPERS/transacoes/criar/api/boleto.md)
-    * [Criar Transação via Dispositivos](DEVELOPERS/transacoes/criar/mpos.md)
+    * Criar Transação via Dispositivos
       * [MPOS](DEVELOPERS/transacoes/criar/mpos.md)
       * [Tap to Pay (NFC)](DEVELOPERS/transacoes/criar/tap-to-pay.md)
       * [PINPAD](DEVELOPERS/transacoes/criar/pinpad.md)
     * [Link de Pagamento](DEVELOPERS/transacoes/criar/link-pagamento.md)
 * [Política de privacidade](politica-de-privacidade.md)
-
