@@ -1,12 +1,12 @@
 # 📊 Dashboard
 
-Na tela principal da plataforma **GOPag**, você encontra informações com seu saldo atual, saldo futuro ou total de transações.
+Na tela principal da plataforma **GOPag**, há informações com o saldo atual, saldo futuro ou total de transações.
 
-Você também pode ver os gráficos de transações, cobranças, e até o calendário com recebimentos futuros:
+Também é possível ver os gráficos de transações, cobranças, e até o calendário com recebimentos futuros:
 
 ![](../.gitbook/assets/tela_inicial.png)
 
-No primeiro card você tem disponível o botão para sacar o valor do saldo atual, mas vale uma atenção a mais nesta parte, pois este botão só aparece para você, caso tenha optado por utilizar o tipo **`Saque manual`**:
+No primeiro card está disponível o botão para sacar o valor do saldo atual, mas vale uma atenção a mais nesta parte, pois este botão só aparece caso tenha sido optado por utilizar o tipo **`Saque manual`**:
 
 ![](../.gitbook/assets/dashboard_btn_saque.png)
 
@@ -18,7 +18,7 @@ Clicando neste botão você será direcionado para uma janela pop-up solicitando
 
 ![](../.gitbook/assets/dashboard_btn_saque.gif)
 
-Descendo um pouco mais em nosso dashboard, você pode ver os gráficos e a tabela com as informações de transações. Essas informações podem ser alteradas se você alterar a data de exibição, sendo por mês, semana ou dia;
+Descendo um pouco mais no dashboard, é possível ver os gráficos e a tabela com as informações de transações. Essas informações podem ser alteradas se for alterada a data de exibição, sendo por mês, semana ou dia;
 
 Observe nosso teste abaixo com as três opções, primeiro com o mensal:
 
@@ -34,7 +34,7 @@ E por último definindo para somente um dia:
 
 <br>
 
-Na parte final, temos um pequeno relatório com as últimas cinco transações, e deixamos um atalho para você ir direto ao menu de todas as transações:
+Na parte final, há um pequeno relatório com as últimas cinco transações, e um atalho para ir direto ao menu de todas as transações:
 
 {% hint style="warning" %}
 **Atenção:** Para mais informações sobre **transações**, [**`clique aqui`**](../TRANSACOES/)
@@ -44,9 +44,9 @@ Na parte final, temos um pequeno relatório com as últimas cinco transações, 
 
 <br>
 
-**Mas as opções do nosso dashboard não param por aí! 😁**
+**Mas as opções do dashboard não param por aí! 😁**
 
-Clicando na opção cobranças que está logo ao lado de transações, você tem uma nova tela a ser exibida, agora com gráfico de crescimento, um botão de atalho para você criar uma nova cobrança, o relatório das últimas cobranças geradas e o status dessas cobranças.
+Clicando na opção cobranças que está logo ao lado de transações, há uma nova tela a ser exibida, agora com gráfico de crescimento, um botão de atalho para criar uma nova cobrança, o relatório das últimas cobranças geradas e o status dessas cobranças.
 
 Lembrando que tudo é influenciado pela data que você determina
 
@@ -56,12 +56,12 @@ Lembrando que tudo é influenciado pela data que você determina
 
 ![](../.gitbook/assets/dashboard_cobrancas.gif)
 
-E fechando nossa explicação sobre todas as funções disponíveis no dashboard da plataforma da GOPag, nós temos o calendário com os recebimentos futuros, projetado justamente para você poder ter mais controle dos recebimentos.
+E fechando a explicação sobre todas as funções disponíveis no dashboard da plataforma da GOPag, há o calendário com os recebimentos futuros, projetado justamente para ter mais controle dos recebimentos.
 
 Observe que ao clicar em um recebimento futuro, um novo card é exibido com todas as informações referentes:
 
 ![](../.gitbook/assets/dashboard_recebimentos.gif)
 
-Nesse mesmo calendário você tem disponível outras funções, por exemplo, exibir por semana e um botão para o calendário ir direto ao dia atual, demonstramos abaixo o uso dessas opções para você 😁
+Nesse mesmo calendário há disponível outras funções, por exemplo, exibir por semana e um botão para o calendário ir direto ao dia atual, demonstramos abaixo o uso dessas opções 😁
 
 ![](../.gitbook/assets/dashboard_recebimentos_calendario.gif)

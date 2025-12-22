@@ -1,6 +1,6 @@
 # 🔗 Gerar Link Cobrança Avulsa
 
-De início você verá um menu no canto direito da tela, com algumas funções importantes para você utilizar, são elas:<br>
+De início há um menu no canto direito da tela, com algumas funções importantes para utilizar, são elas:<br>
 
 ![](../../../.gitbook/assets/criar_cobranca_menu_cabecalho.png)
 
@@ -20,11 +20,11 @@ Em caso de erros, você tem disponível esta opção para poder excluir a cobran
 {% endtab %}
 
 {% tab title="➕ criar cobrança novamente" %}
-Com esta função você pode ganhar tempo ao reutilizar a mesma cobrança com os dados do cliente caso seja necessário, ou alterar algum item antes de usar novamente.
+Com esta função é possível ganhar tempo ao reutilizar a mesma cobrança com os dados do cliente caso seja necessário, ou alterar algum item antes de usar novamente.
 {% endtab %}
 
 {% tab title="🖋️ Editar cobrança" %}
-caso tenha faltado alguma informação, ou chegou a fazer algum lançamento errado, você pode editar a cobrança antes do pagamento, mas lembre-se, após o pagamento esta função não estará mais disponível.
+Caso tenha faltado alguma informação, ou chegou a fazer algum lançamento errado, é possível editar a cobrança antes do pagamento, mas lembre-se, após o pagamento esta função não estará mais disponível.
 {% endtab %}
 {% endtabs %}
 
@@ -44,11 +44,11 @@ No primeiro card tem três partes para acompanhamento, sendo elas:
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
 | <p>Já no segundo card, colocamos as formas de pagamentos disponíveis.<br><br>Lembrando que aqui só irão aparecer as opções que você selecionou no momento de criar o link da cobrança.</p> | ![](../../../.gitbook/assets/criar_cobranca_bloco_2.png) |
 
-|                                                          |                                                                                                                                                                                                                                             |
-| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](../../../.gitbook/assets/criar_cobranca_bloco_3.png) | <p>No terceiro card estão as opções de compartilhamento do link para pagamento, você pode utilizar para enviar via WhatsApp ou e-mail.<br><br>Mas caso queira, também pode copiar o link da cobrança diretamente e repassar ao cliente.</p> |
+|                                                          |                                                                                                                                                                                                                                        |
+| -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](../../../.gitbook/assets/criar_cobranca_bloco_3.png) | <p>No terceiro card estão as opções de compartilhamento do link para pagamento, sendo possível utilizar para enviar via WhatsApp ou e-mail.<br><br>Mas caso queira, também pode copiar o link da cobrança diretamente e repassar ao cliente.</p> |
 
-Agora no quarto card você vê os dados da cobrança e dados do pagador. Saiba que a cada cobrança gerada nós criamos um código único para maior controle da nossa plataforma da GOPag. 😊
+Agora no quarto card estão os dados da cobrança e dados do pagador. Saiba que a cada cobrança gerada é criado um código único para maior controle da plataforma da GOPag. 😊
 
 Os dados do pagador podem ser preenchidos por você no ato da cobrança, ou caso prefira, deixar o próprio cliente preencher quando ele for efetuar o pagamento:
 

@@ -36,4 +36,4 @@ Pronto! A API de conversões foi configurada corretamente!
 
 Você deverá repetir esse processo para cada novo produto que criar, ou se quiser usar várias contas do Facebook ao mesmo tempo.
 
-Lembrando que a API de conversão não é obrigatória, e você pode ter ao mesmo tempo, Pixels com e sem API de conversão.
+Lembrando que a API de conversão não é obrigatória, e é possível ter ao mesmo tempo, Pixels com e sem API de conversão.

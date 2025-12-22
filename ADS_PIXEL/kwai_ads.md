@@ -29,7 +29,7 @@ Ao final do código, localize o seu **Pixel ID** como no exemplo:
 Seguindo o exemplo acima, o ID extraído seria esse: **410984069679040162**
 
 {% hint style="warning" %}
-**Importante:** Para a integração funcionar, você precisa gerar o seu próprio ID, este é apenas um exemplo.
+**Importante:** Para a integração funcionar, é necessário gerar o seu próprio ID, este é apenas um exemplo.
 {% endhint %}
 
 Pronto, agora tem o seu Pixel ID do Kwai!
@@ -40,7 +40,7 @@ Agora na plataforma da GOPag, acesse **Produtos -> Selecione o seu produto -> Co
 
 ![](../.gitbook/assets/53_kwai_pixel_colar.png)
 
-Após isso, você pode salvar o seu produto.
+Após isso, é possível salvar o seu produto.
 
 ### Como adicionar uma porcentagem de conversão personalizada para pix e boletos gerados?
 
@@ -60,7 +60,7 @@ Para ativar essa função, é necessário habilitar abaixo do Pixel ID.
 * **Initiated Checkout** (Quando alguém visita o checkout).
 * **Purchase** (compra aprovada no cartão ou PIX).
 
-Por padrão, não disparamos o evento **Purchase** para boleto gerado, mas você pode habilitar essa opção.
+Por padrão, não disparamos o evento **Purchase** para boleto gerado, mas é possível habilitar essa opção.
 
 {% hint style="warning" %}
 **Importante:** Os eventos serão marcados no Kwai somente se houver campanhas ativas com o seu pixel.

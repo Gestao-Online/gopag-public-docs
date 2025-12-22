@@ -40,15 +40,15 @@ O nome do evento será o mesmo que você cadastrará na plataforma da GOPag
 
 ![](../.gitbook/assets/32_outbrain_pixel_eventos_name.png)
 
-No exemplo da imagem acima, o nome do evento criado foi **venda**, mas você pode escolher qualquer nome que quiser.
+No exemplo da imagem acima, o nome do evento criado foi **venda**, mas é possível escolher qualquer nome que quiser.
 
-Por exemplo, você pode ter um nome de evento diferente para cada produto.
+Por exemplo, é possível ter um nome de evento diferente para cada produto.
 
 Clique em salvar no fim da tela.
 
 ![](../.gitbook/assets/33_outbrain_pixel_save.png)
 
-Pronto, o evento foi criado na Outbrain, agora você precisa cadastrar o mesmo pixel e evento na plataforma da GOPag
+Pronto, o evento foi criado na Outbrain, agora é necessário cadastrar o mesmo pixel e evento na plataforma da GOPag
 
 ### Cadastrando o pixel e eventos na plataforma da GOPag
 

@@ -6,7 +6,7 @@ Você pode integrar a plataforma GOPag a diversas redes de anúncios e ferrament
 
 Para isso, utilizamos os pixels de conversão. O mais utilizado é o pixel do Facebook Ads.
 
-Todos os pixels de conversão na plataforma da GOPag são separados por produto, ou seja, você pode adicionar diferentes pixel em cada produto.
+Todos os pixels de conversão na plataforma da GOPag são separados por produto, ou seja, é possível adicionar diferentes pixel em cada produto.
 
 **Aprenda como integrar com o pixel de diversos serviços:**
 

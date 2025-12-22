@@ -26,7 +26,7 @@ Você não precisa copiar o código do seu Pixel agora, pois usaremos o seu **Ac
 
 ### Criando os eventos de conversão
 
-Agora você pode criar os eventos de conversão no Taboola.
+Agora é possível criar os eventos de conversão no Taboola.
 
 Basta acessar o menu **Tracking -> New Conversion**
 
@@ -36,7 +36,7 @@ No tipo de conversão, selecione a opção **Event**
 
 Você pode selecionar um nome de evento pré-existente ou criar um novo, e configurar opções como, por exemplo, um valor fixo da conversão.
 
-Preste atenção, você precisará cadastrar o **Event Name** na plataforma da GOPag, então copie-o para um bloco de notas.
+Preste atenção, será necessário cadastrar o **Event Name** na plataforma da GOPag, então copie-o para um bloco de notas.
 
 ![](../.gitbook/assets/37_taboola_pixel_event_name.png)
 

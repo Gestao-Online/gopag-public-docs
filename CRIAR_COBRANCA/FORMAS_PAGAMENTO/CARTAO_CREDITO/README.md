@@ -1,6 +1,6 @@
 # 💳 Cartão de Crédito
 
-Neste momento você irá definir a quantidade de parcelas disponíveis para o cliente. Observe que ao clicar na opção cartão de crédito logo abaixo um novo card ficará disponível para uso:
+Neste momento será definida a quantidade de parcelas disponíveis para o cliente. Observe que ao clicar na opção cartão de crédito logo abaixo um novo card ficará disponível para uso:
 
 ![](../../../.gitbook/assets/criar_cobranca_form_pgto_cc.gif)
 

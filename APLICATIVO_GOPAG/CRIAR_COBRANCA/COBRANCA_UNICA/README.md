@@ -1,6 +1,6 @@
 # 💳 Cobrança Única
 
-Ao selecionar **Cobrança Única**, você poderá definir o número de parcelas (quando aplicável) e preencher os dados da cobrança.
+Ao selecionar **Cobrança Única**, será possível definir o número de parcelas (quando aplicável) e preencher os dados da cobrança.
 
 ![](../../../.gitbook/assets/numero_parcelas.jpg)
 

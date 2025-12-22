@@ -33,11 +33,11 @@ Além do código de autorização e código de NSU que usamos para identificar c
 
 <br>
 
-Logo no sexto card você pode visualizar os **`Detalhes da transação`**, tais como valores, a taxa de venda aplicada, e o valor líquido que vai como saldo para você, assim como o ID da transação de referência.
+Logo no sexto card é possível visualizar os **`Detalhes da transação`**, tais como valores, a taxa de venda aplicada, e o valor líquido que vai como saldo, assim como o ID da transação de referência.
 
 ![](../../.gitbook/assets/transacoes_menu_detalhe_transacao_bloco_6.png)
 
-Na parte inicial da tela de detalhes da transação você pode ver um botão chamado **`Estornar pagamento`**, esse botão faz com o que os pagamentos em cartão de crédito ou PIX seja cancelado (os valores serão devolvidos):
+Na parte inicial da tela de detalhes da transação há um botão chamado **`Estornar pagamento`**, esse botão faz com o que os pagamentos em cartão de crédito ou PIX seja cancelado (os valores serão devolvidos):
 
 {% hint style="warning" %}
 **Importante:** Este recurso **`Estornar pagamento`** não está disponível para boleto bancário.
@@ -55,7 +55,7 @@ Em caso de uso do boleto, existem algumas diferenças nas informações de pagam
 
 <br>
 
-E na parte inicial da tela de detalhes da **`transação de boleto`** você pode ver um botão chamado **`Cancelar`**, ele irá te ajudar no momento que for necessário encerrar a emissão de um boleto, ou alguma transação para fazer estorno ao cliente.
+E na parte inicial da tela de detalhes da **`transação de boleto`** há um botão chamado **`Cancelar`**, ele irá ajudar no momento em que for necessário encerrar a emissão de um boleto, ou alguma transação para fazer estorno ao cliente.
 
 O boleto será cancelado (Não poderá mais ser pago pelo cliente) e também saíra do DDA(Débito Direto Autorizado) com prazo de 1 dia útil.
 

@@ -1,6 +1,6 @@
 # ➕ Criar Cobrança
 
-Deixamos facilitado o acesso à criação de uma cobrança, já no momento que você faz login na nossa plataforma da GOPag o botão de criar cobrança fica disponível para você clicar em dois locais:
+O acesso à criação de uma cobrança é facilitado, já no momento do login na plataforma da GOPag o botão de criar cobrança fica disponível em dois locais:
 
 O primeiro lugar é ao lado esquerdo do início do menu que se recolhe.
 
@@ -20,4 +20,4 @@ Quando falamos de cobrança do tipo avulsa nos referimos a um pagamento único o
 
 ## [**Modelo**](https://docs.gopag.com.br/criar_cobranca/link_cobranca/link_cobranca_modelo)
 
-A cobrança modelo ao ser gerada, cria um link único que pode ser utilizado diversas vezes para pagamento de um valor fixo, e para cada transação nesse único link você terá a informação completa de quem efetuou o pagamento, tudo isso e muito mais na nossa plataforma da GOPag.
+A cobrança modelo ao ser gerada, cria um link único que pode ser utilizado diversas vezes para pagamento de um valor fixo, e para cada transação nesse único link haverá a informação completa de quem efetuou o pagamento, tudo isso e muito mais na plataforma da GOPag.

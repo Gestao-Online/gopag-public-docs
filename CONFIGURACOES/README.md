@@ -1,6 +1,6 @@
 # ⚙️ Configurações
 
-Aqui estão as configurações do usuário. O primeiro card é o único que mostra os dados que você nos forneceu no momento da contratação do nosso portal. 😊
+Aqui estão as configurações do usuário. O primeiro card é o único que mostra os dados fornecidos no momento da contratação do portal. 😊
 
 ![](../.gitbook/assets/configuracoes_menu.png)
 
@@ -30,7 +30,7 @@ O tamanho também tem um limite, que é de apenas 5MB. Confira abaixo o passo a 
 
 ### Alterar logo da empresa
 
-O mesmo também se aplica a `Logo da empresa`, você pode configurá-la igual o exemplo abaixo, deixando a identidade visual da sua empresa agregada ao nosso portal, aparecendo nos boletos, links de cobrança e mensagens de aviso! 😉
+O mesmo também se aplica a `Logo da empresa`, é possível configurá-la igual o exemplo abaixo, deixando a identidade visual da empresa agregada ao portal, aparecendo nos boletos, links de cobrança e mensagens de aviso! 😉
 
 {% hint style="warning" %}
 **Detalhe:** As regras de imagem da logo da empresa são as mesmas para a foto de perfil descritas acima. Ou seja, a imagem precisa ter um dos seguintes formatos: PNG, JPEG ou SVG. O tamanho também tem um limite que é de apenas 5MB.
@@ -42,9 +42,9 @@ O mesmo também se aplica a `Logo da empresa`, você pode configurá-la igual o 
 
 ### Configurações de recebimento
 
-Uma configuração importante presente na plataforma da **GOPag** é a opção de `Alterar política de recebimento`. Você pode deixar as transferências de valores automáticas ou manuais.
+Uma configuração importante presente na plataforma da **GOPag** é a opção de `Alterar política de recebimento`. É possível deixar as transferências de valores automáticas ou manuais.
 
-Quando esta opção está ativada, você precisa definir o intervalo de transferência entre diário, semanal ou mensal (No modo mensal você pode definir o dia que ocorrerá a transferência, caso queira).
+Quando esta opção está ativada, é necessário definir o intervalo de transferência entre diário, semanal ou mensal (No modo mensal é possível definir o dia que ocorrerá a transferência, caso queira).
 
 No último campo você define qual a menor quantia em dinheiro que pode ser transferida. Veja o exemplo abaixo:
 
@@ -54,7 +54,7 @@ No último campo você define qual a menor quantia em dinheiro que pode ser tran
 
 ### Conta bancária
 
-Fechando a opções do menu de configurações, temos a `Conta bancária`, você pode cadastrar mais de uma conta, e definir para onde irão as transferências.
+Fechando as opções do menu de configurações, há a `Conta bancária`, sendo possível cadastrar mais de uma conta, e definir para onde irão as transferências.
 
 ![](../.gitbook/assets/configuracoes_menu_conta_bancaria.png)
 

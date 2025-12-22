@@ -3,12 +3,12 @@
 Os relatórios podem ser gerados de forma simples, apenas com alguns cliques na plataforma. Logo abaixo, o card que aparece disponível para utilização é o de **`Extrato`**:
 
 {% hint style="warning" %}
-**Importante:** Os extratos podem ser gerados em dois formatos, <img src="../.gitbook/assets/icon_pdf.png" alt="" data-size="line"> PDF ou <img src="../.gitbook/assets/icon_excel.png" alt="" data-size="line"> Excel, escolha o que melhor se aplicará para você.
+**Importante:** Os extratos podem ser gerados em dois formatos, <img src="../.gitbook/assets/icon_pdf.png" alt="" data-size="line"> PDF ou <img src="../.gitbook/assets/icon_excel.png" alt="" data-size="line"> Excel, escolha o que melhor se aplicará.
 {% endhint %}
 
 ![](../.gitbook/assets/relatorios_menu.png)
 
-Você pode definir a data de início e fim do extrato que deseja fazer conferência:
+É possível definir a data de início e fim do extrato que deseja fazer conferência:
 
 ![](../.gitbook/assets/relatorios_menu_calendario.png)
 
@@ -22,7 +22,7 @@ Observe abaixo o modo de emissão de um relatório:
 
 ![](../.gitbook/assets/relatorios_menu_gerar.gif)
 
-Analisando melhor relatório gerado em PDF, você pode ver a data que foi feita a transação, o ID para fazer uma busca na plataforma (caso seja necessário), descrição da transação, lançamento, se é de entrada ou saída de valor e o saldo final.
+Analisando melhor o relatório gerado em PDF, é possível ver a data que foi feita a transação, o ID para fazer uma busca na plataforma (caso seja necessário), descrição da transação, lançamento, se é de entrada ou saída de valor e o saldo final.
 
 {% hint style="info" %}
 **Informação:** Observe que na coluna `Lançamento` nós colocamos as cores <mark style="color:green;">`verde`</mark> para entrada de valor e <mark style="color:red;">**`vermelho`**</mark> para saída valor, tudo isso para facilitar sua análise no relatório.

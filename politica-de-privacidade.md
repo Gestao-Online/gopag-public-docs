@@ -45,12 +45,12 @@ A GOPAG Soluções Tecnológicas em Pagamentos LTDA, inscrita no CNPJ sob o nº 
    • Não estar sujeito a decisões automatizadas que produzam efeitos significativos.
 8. Cookies e tecnologias similares \
    • Utilizamos cookies, web beacons e tecnologias similares para identificar o usuário, melhorar a experiência, mensurar tráfego e direcionar comunicações. \
-   • Você pode gerenciar ou desativar cookies via configurações do navegador, mas isso pode impactar algumas funcionalidades.
+   • É possível gerenciar ou desativar cookies via configurações do navegador, mas isso pode impactar algumas funcionalidades.
 9. Segurança dos dados \
    • Adotamos medidas técnicas e organizacionais razoáveis para proteger os dados contra acesso não autorizado, divulgação indevida, alteração ou destruição. \
    • Inclui criptografia, controle de acesso, monitoramento, auditorias e treinamentos internos.
 10. Encarregado de Dados / contato \
-    • Você pode contatar o nosso Encarregado de Proteção de Dados (DPO) para dúvidas, solicitações ou reclamações por meio do e‑mail: contato@gopag.com.br.
+    • É possível contatar o Encarregado de Proteção de Dados (DPO) para dúvidas, solicitações ou reclamações por meio do e‑mail: contato@gopag.com.br.
 11. Alterações nesta política \
     • Podemos alterar esta política a qualquer momento, notificando os usuários em caso de mudanças relevantes.
 12. Disposições gerais e legais \

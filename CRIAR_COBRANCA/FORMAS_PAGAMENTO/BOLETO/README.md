@@ -18,7 +18,7 @@ Observe que ao clicarmos no botão `Habilitar configurações de multas e juros`
 
 Neste menu será possível configurar a multa de atraso do boleto, podendo cobrar até 2% sobre o valor de pagamento em caso de atrasos.
 
-Nós colocamos duas opções, e você define se será em dinheiro ou porcentagem (a plataforma da GOPag corrige o valor automaticamente para você, caso coloque acima do padrão de 2% estabelecido pelo **Código Tributário Nacional** 😅)
+Há duas opções, sendo definido se será em dinheiro ou porcentagem (a plataforma da GOPag corrige o valor automaticamente, caso coloque acima do padrão de 2% estabelecido pelo **Código Tributário Nacional** 😅)
 
 ![](../../../.gitbook/assets/criar_cobranca_formas_pagamento_boleto_3.png)
 

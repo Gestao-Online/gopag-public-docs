@@ -1,6 +1,6 @@
 # 🖋️ Informações do cliente
 
-Na parte de informações do cliente, você já pode preencher no momento de gerar a cobrança, observe que ao final tem um botão para você ativar o envio de notificações e atualizações desta cobrança por e-mail ou SMS do pagador. Mas ele só ficará disponível caso seja preenchido o campo de e-mail.
+Na parte de informações do cliente, já é possível preencher no momento de gerar a cobrança, observe que ao final há um botão para ativar o envio de notificações e atualizações desta cobrança por e-mail ou SMS do pagador. Mas ele só ficará disponível caso seja preenchido o campo de e-mail.
 
 Observe o exemplo que fizemos abaixo:
 
@@ -14,7 +14,7 @@ Agora se você tiver criado uma cobrança modelo, irá aparecer somente o botão
 
 Ok, mas e quanto ao restante das informações no caso da cobrança avulsa?
 
-Você pode deixar o cliente completar as demais informações no momento que ele for efetuar o pagamento! 😉👍
+O cliente pode completar as demais informações no momento em que for efetuar o pagamento! 😉👍
 
 confira abaixo a visão do cliente no momento do pagamento:
 

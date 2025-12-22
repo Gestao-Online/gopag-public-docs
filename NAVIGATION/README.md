@@ -14,7 +14,7 @@ Agora, voltando nossa atenção para o canto superior direito da tela, podemos v
 * Nome da pessoa e CPF, este sendo para pessoas físicas;
 * A última opção é a de sair/logout da conta.
 
-Você pode observar esses detalhes na imagem abaixo:
+É possível observar esses detalhes na imagem abaixo:
 
 ![](../.gitbook/assets/tela_inicial_campo_nome.png)
 
@@ -28,7 +28,7 @@ Quando passamos a setinha do mouse por cima desta coluna ela irá se expandir e 
 
 ![](../.gitbook/assets/tela_inicial_menus_ampliado.png)
 
-Clicando no ícone de fixar 📌, o seu menu lateral irá ficar sempre com o tamanho cheio, você pode ver além dos ícones os nomes de cada um deles. 😉👍
+Clicando no ícone de fixar 📌, o menu lateral irá ficar sempre com o tamanho cheio, sendo possível ver além dos ícones os nomes de cada um deles. 😉👍
 
 ![](../.gitbook/assets/tela_inicial_menus_fixado.gif)
 

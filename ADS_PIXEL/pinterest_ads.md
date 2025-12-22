@@ -26,7 +26,7 @@ Na plataforma, acesse **Produtos -> Selecione o seu produto -> Configurações**
 
 ![](../.gitbook/assets/58_pinterest_pixel_colar.png)
 
-Após isso, você pode salvar o produto.
+Após isso, é possível salvar o produto.
 
 ### Como adicionar uma porcentagem de conversão personalizada para pix e boletos gerados?
 
@@ -47,7 +47,7 @@ Para ativar essa função, é necessário habilitar abaixo do Pixel ID.
 * **Checkout** (Registro de compra aprovada)
 
 {% hint style="info" %}
-**Importante:** Por padrão, não disparamos o evento "checkout" para boleto e pix gerado, mas você pode habilitar essa opção se preferir.
+**Importante:** Por padrão, não disparamos o evento "checkout" para boleto e pix gerado, mas é possível habilitar essa opção se preferir.
 {% endhint %}
 
 ### Como verificar se o meu Pixel do Pinterest foi instalado corretamente?

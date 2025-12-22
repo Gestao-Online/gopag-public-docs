@@ -18,7 +18,7 @@ Depois em **Configurar eventos web -> Configuração manual** e, então, adicion
 
 ![](../.gitbook/assets/41_tiktok_pixel_eventos_nome.png) ![](../.gitbook/assets/42_tiktok_pixel_eventos_nome.png)
 
-Após isso, você precisará pular a etapa de criação do funil, visto que a plataforma da GOPag irá captar os eventos de maneira automática. Depois, selecione a opção "Código personalizado" e prossiga. Isso é necessário para o pixel funcionar com a GOPag.
+Após isso, será necessário pular a etapa de criação do funil, visto que a plataforma da GOPag irá captar os eventos de maneira automática. Depois, selecione a opção "Código personalizado" e prossiga. Isso é necessário para o pixel funcionar com a GOPag.
 
 ![](../.gitbook/assets/43_tiktok_pixel_cod_personalizado.png)
 
@@ -30,10 +30,10 @@ Exemplo de código:
 
 ![](../.gitbook/assets/45_tiktok_pixel_cod_exemplo.png)
 
-Você precisa agora extrair o pixel ID. Seguindo o exemplo acima, o ID extraído seria esse: **CAUALHRC77U7KHVMKB4G**.
+É necessário agora extrair o pixel ID. Seguindo o exemplo acima, o ID extraído seria esse: **CAUALHRC77U7KHVMKB4G**.
 
 {% hint style="warning" %}
-**Importante:** Lembrando que o exemplo acima é fictício, você precisa criar o seu próprio pixel ID.
+**Importante:** Lembrando que o exemplo acima é fictício, é necessário criar o próprio pixel ID.
 {% endhint %}
 
 Pronto, esse é o seu pixel ID do TikTok.
@@ -44,7 +44,7 @@ Agora na plataforma da GOPag, acesse **Produtos -> Selecione o seu produto -> Co
 
 ![](../.gitbook/assets/46_tiktok_pixel_config.png)
 
-Após isso, você pode salvar o seu produto.
+Após isso, é possível salvar o produto.
 
 ### Como adicionar uma porcentagem de conversão personalizada para pix e boletos gerados?
 
@@ -63,7 +63,7 @@ Para ativar essa função, é necessário habilitar abaixo do Pixel ID.
 * **Initiate Checkout** (Quando alguém visita o checkout).
 * **Complete payment** (Compra aprovada no cartão ou PIX).
 
-Por padrão, não disparamos o evento **Complete payment** para boleto gerado, mas você pode habilitar essa opção.
+Por padrão, não disparamos o evento **Complete payment** para boleto gerado, mas é possível habilitar essa opção.
 
 \
 <br>

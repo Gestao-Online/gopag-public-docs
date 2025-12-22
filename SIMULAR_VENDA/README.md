@@ -20,7 +20,7 @@ No **`Tipo de pagamento`** colocamos duas opções, a online e presencial, o cá
 
 ![](../.gitbook/assets/simulador_menu_tipo_pagamento.png)
 
-No menu simular venda, você pode marcar o botão **`Repassar taxas`** para saber qual valor será necessário repassar ao cliente (caso seja este o seu desejo) e então criar uma cobrança já baseada nesse valor, confira abaixo o exemplo do simulador:
+No menu simular venda, é possível marcar o botão **`Repassar taxas`** para saber qual valor será necessário repassar ao cliente (caso seja este o desejo) e então criar uma cobrança já baseada nesse valor, confira abaixo o exemplo do simulador:
 
 ![](../.gitbook/assets/taxas_card_simulacao_venda.png)
 

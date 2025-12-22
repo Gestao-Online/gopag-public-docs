@@ -45,7 +45,7 @@ Então, desça até a seção de Pixels de conversão (é no mesmo local onde co
 ![](../.gitbook/assets/24_gg_menu_add_pixel.png)
 
 {% hint style="warning" %}
-**Importante:** Para cada pixel / evento que você deseja disparar, você precisa ter uma conversão separada no Google Ads, ou seja, o ID do Pixel será o mesmo, mas o Label irá se alterar em cada conversão. Dessa forma, você deve configurar os eventos separadamente na plataforma da GOPag.
+**Importante:** Para cada pixel / evento que você deseja disparar, é necessário ter uma conversão separada no Google Ads, ou seja, o ID do Pixel será o mesmo, mas o Label irá se alterar em cada conversão. Dessa forma, deve-se configurar os eventos separadamente na plataforma da GOPag.
 {% endhint %}
 
 **Veja um exemplo:** Um produtor adicionou a conversão “Iniciate checkout” no Google Ads. Já na plataforma da GOPag ele deve adicionar as informações dessa conversão e selecionar apenas a opção “Disparar ao visitar o Checkout”. Caso selecione mais opções, isso irá interferir no disparo dos eventos.

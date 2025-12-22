@@ -1,6 +1,6 @@
 # 🔵 Pixel do Facebook
 
-Você pode integrar o Pixel do Facebook aos seus produtos para rastrear as vendas e otimizar as campanhas de anúncio.
+É possível integrar o Pixel do Facebook aos produtos para rastrear as vendas e otimizar as campanhas de anúncio.
 
 No menu principal, clique em Produtos e depois selecione o produto que deseja adicionar o pixel.
 
@@ -15,10 +15,10 @@ Preencha com o seu Pixel ID:
 ![](../.gitbook/assets/02_fb_menu_opcoes.png)
 
 {% hint style="warning" %}
-**Importante:** A nossa plataforma permite adicionar até 50 Pixels do Facebook em cada produto.
+**Importante:** A plataforma permite adicionar até 50 Pixels do Facebook em cada produto.
 {% endhint %}
 
-Para cada Pixel, você deve selecionar um domínio onde ele será disparado.
+Para cada Pixel, deve ser selecionado um domínio onde ele será disparado.
 
 Por padrão, adicionamos o domínio da plataforma da GOPag, mas recomendamos que você coloque o domínio do seu website ou página de vendas, o mesmo que você verifica no Facebook.
 
@@ -26,7 +26,7 @@ Por padrão, adicionamos o domínio da plataforma da GOPag, mas recomendamos que
 
 ### Como funciona a verificação de domínio?
 
-Os pixels são disparados no seu domínio, que você pode conectar à plataforma da GOPag. Esse deve ser o mesmo domínio verificado no Facebook.
+Os pixels são disparados no domínio, que pode ser conectado à plataforma da GOPag. Esse deve ser o mesmo domínio verificado no Facebook.
 
 Temos um tutorial explicando o passo a passo, [clique aqui](https://docs.gopag.com.br/ads_pixel/facebook_ads/conectar_dominio).
 
@@ -52,7 +52,7 @@ Em compras aprovadas no cartão, disparamos juntamente com o evento de "Purchase
 
 Em compras aprovadas no pix, disparamos juntamente com o evento de "Purchase", o evento de "pix".
 
-Por padrão, não disparamos o evento "purchase" para boleto gerado, mas você pode habilitar essa opção se preferir.
+Por padrão, não disparamos o evento "purchase" para boleto gerado, mas é possível habilitar essa opção se preferir.
 
 {% hint style="warning" %}
 **Importante:** Compra recusada no cartão de crédito não gera evento de "purchase".
@@ -74,15 +74,15 @@ E você encontrará o seu Pixel ID na coluna à esquerda:
 
 ### Como verificar se o meu Pixel do Facebook foi instalado corretamente?
 
-O Facebook disponibiliza um Plugin para o Google Chrome que te ajuda a verificar o seu Pixel. Você pode fazer o download no link abaixo:
+O Facebook disponibiliza um Plugin para o Google Chrome que ajuda a verificar o Pixel. É possível fazer o download no link abaixo:
 
 https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc
 
-Após instalado, acesse o link do seu checkout e selecione o ícone do FB Pixel Helper no canto superior direito do seu navegador para ver o Pixel encontrado.
+Após instalado, acesse o link do checkout e selecione o ícone do FB Pixel Helper no canto superior direito do navegador para ver o Pixel encontrado.
 
 ![](../.gitbook/assets/07_fb_menu_pixel_helper.png)
 
-Você pode ver na imagem acima alguns dos parâmetros que enviamos nos eventos, como a forma de pagamento, valor, ID do produto, entre outras informações.
+É possível ver na imagem acima alguns dos parâmetros que enviamos nos eventos, como a forma de pagamento, valor, ID do produto, entre outras informações.
 
 ### É possível usar a API de conversão do Facebook também?
 
@@ -90,6 +90,6 @@ Sim, nós temos um tutorial explicando [como configurar a API de conversão do F
 
 ### Por que aparece outro Pixel ID que não é o meu no checkout?
 
-Para a API de conversões do Facebook funcionar corretamente, nós temos que disparar um evento de PageView utilizando o Pixel da própria plataforma da GOPag. Isso é necessário para que os cookies do Facebook sejam identificados.
+Para a API de conversões do Facebook funcionar corretamente, é necessário disparar um evento de PageView utilizando o Pixel da própria plataforma da GOPag. Isso é necessário para que os cookies do Facebook sejam identificados.
 
-Por isso, você pode ver o nosso pixel sendo disparado como PageView no seu checkout, mas pode ignorar essa informação.
+Por isso, é possível ver o pixel sendo disparado como PageView no checkout, mas pode ignorar essa informação.

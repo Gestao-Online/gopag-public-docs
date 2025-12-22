@@ -2,13 +2,13 @@
 
 ### Como criar e instalar o Gerenciador de Tags do Google?
 
-Para iniciar, você precisa se cadastrar gratuitamente na plataforma do [Google Tag Manager](https://marketingplatform.google.com/about/tag-manager/). Caso você já tenha uma conta no Gmail, você pode usá-la para acessar a ferramenta.
+Para iniciar, é necessário se cadastrar gratuitamente na plataforma do [Google Tag Manager](https://marketingplatform.google.com/about/tag-manager/). Caso já tenha uma conta no Gmail, é possível usá-la para acessar a ferramenta.
 
 Para novos usuários, ao clicar no botão **Cadastra** será necessário preencher os campos com o nome da conta (empresa), país, URL do site e informar onde será usada a **Tag do Google** (Web, iOS, Android, AMP, Servidor).
 
 ![](/assets/ads/61_tag_manager_menu.png)
 
-Após aceitar os termos de serviço da plataforma, você poderá avançar para a próxima etapa.
+Após aceitar os termos de serviço da plataforma, será possível avançar para a próxima etapa.
 
 Logo, em seguida, você receberá os códigos e as instruções para incluí-los no seu site, sendo um no `<head>` e o outro após a tag de abertura `<body>`. Você tem a opção de inserir os códigos no seu site agora mesmo, ou depois já que eles ficam disponíveis ​​no painel da plataforma. Depois, clique em “Ok”.
 

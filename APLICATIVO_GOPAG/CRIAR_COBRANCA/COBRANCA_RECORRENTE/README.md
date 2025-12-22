@@ -1,6 +1,6 @@
 # 💰 Cobrança Recorrente
 
-Ao escolher **Cobrança Recorrente**, você poderá configurar a frequência e o período das cobranças conforme sua necessidade.
+Ao escolher **Cobrança Recorrente**, será possível configurar a frequência e o período das cobranças conforme a necessidade.
 
 ![](../../../.gitbook/assets/cobranca_recorrente.jpg)
 
@@ -18,6 +18,6 @@ Também é possível definir o período da recorrência:
 
 ![](../../../.gitbook/assets/config-recorrencia.jpg)
 
-Você pode, opcionalmente, adicionar informações adicionais do pagador para personalizar a cobrança.
+É possível, opcionalmente, adicionar informações adicionais do pagador para personalizar a cobrança.
 
 ![](../../../.gitbook/assets/info_pessoal.jpg)
