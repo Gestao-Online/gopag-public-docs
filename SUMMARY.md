@@ -80,20 +80,30 @@
       * [Detalhes do Vendedor](DEVELOPERS/cadastro/vendedores/detalhes.md)
       * [Códigos MCC](DEVELOPERS/cadastro/vendedores/mcc.md)
     * Compradores
-      * [Gerenciar Compradores](DEVELOPERS/cadastro/compradores/compradores.md)
-  * 💳 Transações
+      * [Visão Geral](DEVELOPERS/cadastro/compradores/README.md)
+      * [Criar Comprador](DEVELOPERS/cadastro/compradores/criar.md)
+      * [Buscar por CPF/CNPJ](DEVELOPERS/cadastro/compradores/buscar-cpf-cnpj.md)
+      * [Detalhes do Comprador](DEVELOPERS/cadastro/compradores/detalhes.md)
+      * [Remover Comprador](DEVELOPERS/cadastro/compradores/remover.md)
+    * 📲 Terminais
+      * [Visão Geral](DEVELOPERS/terminais/README.md)
+      * [Listar Terminais](DEVELOPERS/terminais/listar.md)
+      * [Buscar Terminal](DEVELOPERS/terminais/buscar.md)
+      * [Parear Terminal](DEVELOPERS/terminais/parear.md)
+  * �💳 Transações
     * [Listar Transações](DEVELOPERS/transacoes/listar.md)
     * [Detalhes da Transação](DEVELOPERS/transacoes/detalhes.md)
     * [Capturar Transação](DEVELOPERS/transacoes/capturar.md)
     * [Tokenizar Cartão](DEVELOPERS/transacoes/tokenizar.md)
-    * Criar Transação via API
+    * Criar Transação (Checkout GoPag)
+      * [Link de Pagamento](DEVELOPERS/transacoes/criar/link-pagamento.md)
+    * Criar Transação (Sem checkout)
       * [Cartão de Crédito/Débito](DEVELOPERS/transacoes/criar/api/cartao.md)
       * [PIX](DEVELOPERS/transacoes/criar/api/pix.md)
       * [Boleto/Bolepix](DEVELOPERS/transacoes/criar/api/boleto.md)
-    * Criar Transação via Dispositivos
-      * [MPOS](DEVELOPERS/transacoes/criar/mpos.md)
+    * Criar Transação (Maquininhas e Celular)
       * [Tap to Pay (NFC)](DEVELOPERS/transacoes/criar/tap-to-pay.md)
+      * [MPOS](DEVELOPERS/transacoes/criar/mpos.md)
       * [PINPAD](DEVELOPERS/transacoes/criar/pinpad.md)
-    * [Link de Pagamento](DEVELOPERS/transacoes/criar/link-pagamento.md)
     * [Testando pagamentos](DEVELOPERS/transacoes/testando-pagamentos.md)
 * [Política de privacidade](politica-de-privacidade.md)
