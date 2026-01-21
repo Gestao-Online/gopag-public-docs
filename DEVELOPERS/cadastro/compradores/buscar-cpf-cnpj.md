@@ -5,19 +5,28 @@ Endpoint para buscar um comprador utilizando CPF ou CNPJ.
 ## Endpoint
 
 ```
-GET /v1/marketplaces/{marketplace_id}/buyers/search?taxpayer_id={cpf_cnpj}
+GET /v1/marketplaces/{marketplace_id}/buyers/search?taxpayer_id={cpf}
+```
+```
+GET /v1/marketplaces/{marketplace_id}/buyers/search?ein={cnpj}
 ```
 
 ## Parâmetros
 
-| Parâmetro | Tipo | Obrigatório | Descrição |
-|-----------|------|-------------|-----------|
-| `taxpayer_id` | string | Sim | CPF (11 dígitos) ou CNPJ (14 dígitos) apenas números |
+| Parâmetro      | Tipo   | Obrigatório         | Descrição                                 |
+|----------------|--------|---------------------|-------------------------------------------|
+| `taxpayer_id`  | string | Sim (quando CPF)    | CPF (11 dígitos) apenas números           |
+| `ein`          | string | Sim (quando CNPJ)   | CNPJ (14 dígitos) apenas números          |
 
 ## Request
 
 ```bash
 curl --location 'https://api.gopag.com.br/v1/marketplaces/abc123.../buyers/search?taxpayer_id=12345678901' \
+--header 'Authorization: Bearer SEU_ACCESS_TOKEN'
+```
+
+```bash
+curl --location 'https://api.gopag.com.br/v1/marketplaces/abc123.../buyers/search?ein=12345678000199' \
 --header 'Authorization: Bearer SEU_ACCESS_TOKEN'
 ```
 
@@ -31,7 +40,8 @@ curl --location 'https://api.gopag.com.br/v1/marketplaces/abc123.../buyers/searc
   "last_name": "Santos",
   "email": "maria.santos@email.com",
   "phone_number": "11987654321",
-  "taxpayer_id": "12345678901",
+  "taxpayer_id": "12345678901", // quando CPF
+  "ein": "12345678000199", // quando CNPJ
   "birthdate": "1990-07-15",
   "address": {
     "line1": "Rua das Palmeiras, 456",
@@ -117,6 +127,32 @@ else:
     print('Comprador não encontrado, pode criar novo')
 ```
 
+```python
+import requests
+
+def get_buyer_by_cnpj(cnpj):
+  """Busca comprador por CNPJ"""
+  url = f'https://api.gopag.com.br/v1/marketplaces/{marketplace_id}/buyers/search'
+  params = {'ein': cnpj}
+  headers = {'Authorization': f'Bearer {access_token}'}
+    
+  response = requests.get(url, params=params, headers=headers)
+    
+  if response.status_code == 200:
+    return response.json()
+  elif response.status_code == 404:
+    return None
+  else:
+    response.raise_for_status()
+
+# Uso
+buyer = get_buyer_by_cnpj('12345678000199')
+if buyer:
+  print(f'Comprador já existe: {buyer["id"]}')
+else:
+  print('Comprador não encontrado, pode criar novo')
+```
+
 ### Reutilizar Comprador em Nova Transação
 
 ```php
@@ -140,6 +176,27 @@ function createTransactionForCPF($cpf, $amount) {
     ]);
 }
 ?>
+
+<?php
+function createTransactionForCNPJ($cnpj, $amount) {
+  // Buscar comprador por CNPJ
+  $buyer = searchBuyerByCNPJ($cnpj);
+    
+  if (!$buyer) {
+    throw new Exception("Comprador não encontrado. Crie um novo comprador primeiro.");
+  }
+    
+  // Criar transação usando o buyer_id encontrado
+  return createTransaction([
+    'payment_type' => 'credit',
+    'customer' => $buyer['id'],
+    'amount' => $amount,
+    'currency' => 'BRL',
+    'description' => 'Nova compra',
+    'capture' => true
+  ]);
+}
+?>
 ```
 
 ---
@@ -150,15 +207,13 @@ function createTransactionForCPF($cpf, $amount) {
 
 1. **Sempre busque antes de criar**: Evite criar compradores duplicados
 2. **Armazene o buyer_id**: Guarde o ID retornado para reutilizar em transações futuras
-3. **Use apenas números**: Remova pontos, traços e outros caracteres do CPF/CNPJ
+3. **Use apenas números**: Remova pontos, traços e outros caracteres do CPF ou CNPJ
 4. **Cache do resultado**: Se vai fazer várias transações seguidas, armazene o buyer_id em memória
 
 ### ⚠️ Observações
 
-- CPF deve ter **exatamente 11 dígitos**
-- CNPJ deve ter **exatamente 14 dígitos**
-- Não envie CPF formatado (ex: 123.456.789-01)
-- A busca é case-insensitive e ignora espaços
+  - Para CPF, use o parâmetro `taxpayer_id`
+  - Para CNPJ, use o parâmetro `ein`
 
 ---
 
