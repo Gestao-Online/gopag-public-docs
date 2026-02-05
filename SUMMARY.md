@@ -75,6 +75,8 @@
     * [Códigos de Erro](DEVELOPERS/introducao/codigos-erro.md)
   * 👥 Cadastro
     * Vendedores
+      * [Visão Geral](DEVELOPERS/cadastro/vendedores/README.md)
+      * [Criar Vendedor](DEVELOPERS/cadastro/vendedores/criar.md)
       * [Listar Vendedores](DEVELOPERS/cadastro/vendedores/listar.md)
       * [Buscar por CPF/CNPJ](DEVELOPERS/cadastro/vendedores/buscar-cpf-cnpj.md)
       * [Detalhes do Vendedor](DEVELOPERS/cadastro/vendedores/detalhes.md)
@@ -90,7 +92,7 @@
       * [Listar Terminais](DEVELOPERS/terminais/listar.md)
       * [Buscar Terminal](DEVELOPERS/terminais/buscar.md)
       * [Parear Terminal](DEVELOPERS/terminais/parear.md)
-  * �💳 Transações
+  * 💳 Transações
     * [Listar Transações](DEVELOPERS/transacoes/listar.md)
     * [Detalhes da Transação](DEVELOPERS/transacoes/detalhes.md)
     * [Capturar Transação](DEVELOPERS/transacoes/capturar.md)
@@ -106,4 +108,10 @@
       * [MPOS](DEVELOPERS/transacoes/criar/mpos.md)
       * [PINPAD](DEVELOPERS/transacoes/criar/pinpad.md)
     * [Testando pagamentos](DEVELOPERS/transacoes/testando-pagamentos.md)
+  * Contas Bancárias
+    * [Visão Geral](DEVELOPERS/cadastro/contas-bancarias/README.md)
+    * [Criar Conta Bancária](DEVELOPERS/cadastro/contas-bancarias/criar.md)
+    * [Listar Contas Bancárias](DEVELOPERS/cadastro/contas-bancarias/listar.md)
+    * [Detalhes da Conta Bancária](DEVELOPERS/cadastro/contas-bancarias/detalhes.md)
+    * [Remover Conta Bancária](DEVELOPERS/cadastro/contas-bancarias/remover.md)
 * [Política de privacidade](politica-de-privacidade.md)
