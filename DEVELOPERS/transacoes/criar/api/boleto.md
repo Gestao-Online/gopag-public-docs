@@ -244,6 +244,47 @@ Gera boleto que também pode ser pago via PIX.
 
 **Vantagem**: Cliente escolhe se paga via boleto tradicional ou PIX.
 
+---
+
+## Cancelamento de Boleto
+
+Cancela um boleto que ainda não foi pago. Remove o registro do DDA e bloqueia pagamentos futuros.
+
+### Endpoint
+
+```
+POST /v1/cancellation/marketplaces/{marketplace_id}/transactions/{transaction_id}
+```
+
+### Request
+
+```json
+{}
+```
+
+**Nota**: O body da requisição deve ser um objeto JSON vazio.
+
+### Response
+
+#### Status: 200 OK
+
+```json
+{
+    "resource": "cancellation",
+    "status": "REQUESTED",
+    "message": "Cancellation already requested successfully",
+    "transaction_id": "b9f472738d704dae9a82d4dcbdb03119"
+}
+```
+
+### Restrições
+
+- ⚠️ **Apenas boletos não pagos**: Não é possível cancelar boletos já pagos (O cancelamento será ignorado)
+- ⚠️ **Irreversível**: Após o cancelamento, o boleto não poderá ser reativado
+- ⚠️ **DDA removido**: O boleto será removido do sistema de Débito Direto Autorizado (Possui delay de processamento)
+- ⚠️ **Pagamentos bloqueados**: Tentativas futuras de pagamento serão recusadas (Possui delay de processamento)
+
+
 ### Via Webhook
 
 ```json
