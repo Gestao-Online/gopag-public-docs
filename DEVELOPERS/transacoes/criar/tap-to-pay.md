@@ -119,7 +119,7 @@ data = {
     },
     'currency': 'BRL',
     'amount': 8500,
-    'terminal': device_id,
+    'terminal': terminal_id,
     'reference_id': 'TAP-54321'
 }
 
