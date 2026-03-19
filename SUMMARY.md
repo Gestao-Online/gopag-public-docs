@@ -96,7 +96,6 @@
     * [Listar Transações](DEVELOPERS/transacoes/listar.md)
     * [Detalhes da Transação](DEVELOPERS/transacoes/detalhes.md)
     * [Capturar Transação](DEVELOPERS/transacoes/capturar.md)
-    * [Tokenizar Cartão](DEVELOPERS/transacoes/tokenizar.md)
     * Criar Transação (Checkout GoPag)
       * [Link de Pagamento](DEVELOPERS/transacoes/criar/link-pagamento.md)
     * Criar Transação (Sem checkout)
