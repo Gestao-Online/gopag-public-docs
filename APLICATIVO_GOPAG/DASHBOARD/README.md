@@ -11,7 +11,7 @@ Na primeira seção da tela inicial você visualiza o saldo disponível de forma
 A área de serviços reúne atalhos para as principais funcionalidades do aplicativo:
 
 * **Tap to Pay** — cobrar com dispositivo compatível;
-* **Criar cobrança** — emitir links ou cobranças avulsas;![home_page.JPG](../../../../../Desktop/manual-gopag/fotos/home_page.JPG)
+* **Criar cobrança** — emitir links ou cobranças avulsas;
 * **Simular venda** — testar fluxo de vendas;
 * **Recebimentos** — vêr o fluxo financeiro por data;
 * **Configurações** — ajustar dados da conta;
