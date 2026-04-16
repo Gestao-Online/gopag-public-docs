@@ -2,7 +2,7 @@
 
 ## 🔹 Informações Principais
 
-Na primeira seção da tela inicial você visualiza o saldo disponível de forma rápida e clara. Temos também atalhos para visualizar as **Transações Aprovadas**, **Transações Pendentes**, **Futuras Novas**.
+Na primeira seção da tela inicial você visualiza o saldo disponível de forma rápida e clara. Temos também atalhos para visualizar as **Transações Aprovadas**, **Transações Pendentes**, **Transações canceladas**, **Transações canceladas**, **Transações falhadas**.
 
 ![](../../.gitbook/assets/home_page.jpg)
 
@@ -11,9 +11,10 @@ Na primeira seção da tela inicial você visualiza o saldo disponível de forma
 A área de serviços reúne atalhos para as principais funcionalidades do aplicativo:
 
 * **Tap to Pay** — cobrar com dispositivo compatível;
-* **Criar cobrança** — emitir links ou cobranças avulsas;
+* **Criar cobrança** — emitir links ou cobranças avulsas;![home_page.JPG](../../../../../Desktop/manual-gopag/fotos/home_page.JPG)
 * **Simular venda** — testar fluxo de vendas;
+* **Recebimentos** — vêr o fluxo financeiro por data;
 * **Configurações** — ajustar dados da conta;
 * **Suporte** — abrir chamados e obter ajuda.
 
-![](../../.gitbook/assets/dashboard_servicos.jpg)
+![](../../.gitbook/assets/dashboard_servicos.jpg) 
