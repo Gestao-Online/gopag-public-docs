@@ -2,7 +2,7 @@
 
 ## 🔹 Informações Principais
 
-Na primeira seção da tela inicial você visualiza o saldo disponível de forma rápida e clara. Temos também atalhos para visualizar as **Transações Aprovadas**, **Transações Pendentes**, **Futuras Novas**.
+Na primeira seção da tela inicial você visualiza o saldo disponível de forma rápida e clara. Temos também atalhos para visualizar as **Transações Aprovadas**, **Transações Pendentes**, **Transações canceladas**, **Transações canceladas**, **Transações falhadas**.
 
 ![](../../.gitbook/assets/home_page.jpg)
 
@@ -13,7 +13,8 @@ A área de serviços reúne atalhos para as principais funcionalidades do aplica
 * **Tap to Pay** — cobrar com dispositivo compatível;
 * **Criar cobrança** — emitir links ou cobranças avulsas;
 * **Simular venda** — testar fluxo de vendas;
+* **Recebimentos** — vêr o fluxo financeiro por data;
 * **Configurações** — ajustar dados da conta;
 * **Suporte** — abrir chamados e obter ajuda.
 
-![](../../.gitbook/assets/dashboard_servicos.jpg)
+![](../../.gitbook/assets/dashboard_servicos.jpg) 
