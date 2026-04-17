@@ -24,6 +24,8 @@
   * [🧾 Relatórios](PORTAL_GOPAG/RELATORIOS/README.md)
   * [🆘 Suporte](PORTAL_GOPAG/SUPORTE/README.md)
   * [⚙️ Configurações](PORTAL_GOPAG/CONFIGURACOES/README.md)
+      * [⚙️ Configurações](PORTAL_GOPAG/CONFIGURACOES/RECEBIMENTO/README.md)
+      * [⚙️ Configurações](PORTAL_GOPAG/CONFIGURACOES/APARENCIA/README.md)
   * [📣 Aplicativos Pixel Ads](PORTAL_GOPAG/ADS_PIXEL/ads_pixel.md)
     * [🔵 Pixel do Facebook](PORTAL_GOPAG/ADS_PIXEL/facebook_ads.md)
       * [🔌 Conectar domínio](PORTAL_GOPAG/ADS_PIXEL/conectar_dominio.md)
