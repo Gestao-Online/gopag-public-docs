@@ -50,6 +50,4 @@ Nesse caso, você recebe o valor integral (R$ 20,00), e a taxa é repassada ao c
 
 ### ⚠️ Importante
 
-- O repasse de taxa se aplica apenas para **cartão de crédito**.
-- Para **débito e Pix**, não há parcelamento nem repasse configurável nessa tela.
-- Os valores exibidos já incluem as taxas — não é necessário cálculo manual.
+ **As taxas apresentadas nesta documentação são meramente ilustrativas. As condições reais podem variar de acordo com o perfil do negócio e outros fatores específicos. Para consultar as taxas atualizadas e aplicáveis ao seu caso, acesse o aplicativo. Ressaltamos que as taxas podem ser alteradas a qualquer momento, sem aviso prévio.**
