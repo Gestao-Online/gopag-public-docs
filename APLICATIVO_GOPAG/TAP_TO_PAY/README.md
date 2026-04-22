@@ -48,6 +48,10 @@ Ao ativar essa opção:
 
 Nesse caso, você recebe o valor integral (R$ 20,00), e a taxa é repassada ao cliente.
 
-### ⚠️ Importante
+{% hint style="warning" %}
+**Detalhe:** As taxas apresentadas nesta documentação são meramente ilustrativas. As condições reais podem variar de acordo com o perfil do negócio e outros fatores específicos.
 
- **As taxas apresentadas nesta documentação são meramente ilustrativas. As condições reais podem variar de acordo com o perfil do negócio e outros fatores específicos. Para consultar as taxas atualizadas e aplicáveis ao seu caso, acesse o aplicativo. Ressaltamos que as taxas podem ser alteradas a qualquer momento, sem aviso prévio.**
+Para consultar as taxas atualizadas e aplicáveis ao seu caso, acesse o aplicativo.
+
+Ressaltamos que as taxas podem ser alteradas a qualquer momento, sem aviso prévio.
+{% endhint %}
