@@ -55,3 +55,71 @@ Para consultar as taxas atualizadas e aplicáveis ao seu caso, acesse o aplicati
 
 Ressaltamos que as taxas podem ser alteradas a qualquer momento, sem aviso prévio.
 {% endhint %}
+
+## ✅ Transação aprovada
+
+Após a aproximação do cartão e a autorização do emissor, a transação será concluída com sucesso.
+
+A tela de confirmação exibe:
+
+- Valor da transação
+- Forma de pagamento
+- Data e hora
+- Status da operação
+
+O usuário pode escolher entre:
+
+- **Ver recibo**: visualizar os detalhes completos da transação.
+- **Novo pagamento**: iniciar uma nova cobrança.
+
+![](../../.gitbook/assets/transacao-aprovada.jpeg)
+
+---
+
+## 🧾 Visualizar recibo
+
+Ao tocar em **Ver recibo**, serão exibidos os detalhes completos da transação, incluindo:
+
+- Valor pago
+- Final do cartão
+- Tipo da transação
+- Data e hora
+- ID da transação
+- Bandeira do cartão
+- Informações técnicas da leitura
+
+![](../../.gitbook/assets/comprovante-aprovado.jpeg)
+
+---
+
+## 📤 Enviar comprovante
+
+Para compartilhar o comprovante com o cliente, toque em **Enviar comprovante**.
+
+![](../../.gitbook/assets/enviar-comprovante.jpeg)
+
+---
+
+## 📧 Selecionar forma de envio
+
+Ao tocar em **Enviar comprovante**, será exibida uma janela para seleção da forma de compartilhamento.
+
+As opções disponíveis são:
+
+- **WhatsApp**
+- **E-mail**
+
+Ao selecionar **E-mail**, informe o endereço desejado e toque em **Enviar** para compartilhar o comprovante.
+
+Também é possível cancelar a operação utilizando o botão **Cancelar**.
+
+![](../../.gitbook/assets/comprovante-enviar.jpeg)
+
+---
+
+## ✅ Comprovante enviado
+
+Após o envio do comprovante, o aplicativo exibirá uma mensagem de confirmação na parte inferior da tela informando que o compartilhamento foi realizado com sucesso.
+
+![](../../.gitbook/assets/comprovante-aprovado-verde.jpeg)
+
