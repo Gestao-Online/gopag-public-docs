@@ -72,7 +72,7 @@ O usuário pode escolher entre:
 - **Ver recibo**: visualizar os detalhes completos da transação.
 - **Novo pagamento**: iniciar uma nova cobrança.
 
-![](../../.gitbook/assets/transacao-aprovada.jpeg)
+![](../../.gitbook/assets/transacao-aprovada.png)
 
 ---
 
@@ -88,7 +88,7 @@ Ao tocar em **Ver recibo**, serão exibidos os detalhes completos da transação
 - Bandeira do cartão
 - Informações técnicas da leitura
 
-![](../../.gitbook/assets/comprovante-aprovado.jpeg)
+![](../../.gitbook/assets/comprovante-aprovado.png)
 
 ---
 
@@ -96,7 +96,7 @@ Ao tocar em **Ver recibo**, serão exibidos os detalhes completos da transação
 
 Para compartilhar o comprovante com o cliente, toque em **Enviar comprovante**.
 
-![](../../.gitbook/assets/enviar-comprovante.jpeg)
+![](../../.gitbook/assets/enviar-comprovante.png)
 
 ---
 
@@ -113,7 +113,7 @@ Ao selecionar **E-mail**, informe o endereço desejado e toque em **Enviar** par
 
 Também é possível cancelar a operação utilizando o botão **Cancelar**.
 
-![](../../.gitbook/assets/comprovante-enviar.jpeg)
+![](../../.gitbook/assets/comprovante-enviar.png)
 
 ---
 
@@ -121,5 +121,5 @@ Também é possível cancelar a operação utilizando o botão **Cancelar**.
 
 Após o envio do comprovante, o aplicativo exibirá uma mensagem de confirmação na parte inferior da tela informando que o compartilhamento foi realizado com sucesso.
 
-![](../../.gitbook/assets/comprovante-aprovado-verde.jpeg)
+![](../../.gitbook/assets/comprovante-aprovado-verde.png)
 
